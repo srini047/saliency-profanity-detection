@@ -1,0 +1,780 @@
+,Unnamed: 0,conversation_id,utterance_id,speaker,text,saliency,rich_text,Extracted text
+0,0,742555640001,0,agent,"May I know your name, please?",0,"May I know name , please ?",May I know your name please
+1,1,742555640001,1,customer,"Uh yes, my name is {full_name:***** ****}.",0,"Uh yes , name { full_name : * * * * * * * * * } .",Uh yes my name is fullname 
+2,2,742555640001,2,agent,", {first_name:*****}. How's your day going, {first_name:*****}",0,", { first_name : * * * * * } . How 's day going , { first_name : * * * * * }", firstname Hows your day going firstname
+3,3,742555640001,3,customer,It's going good. Thank you for asking.,0,It 's going good . Thank asking .,Its going good Thank you for asking
+4,4,742555640001,4,agent,That's great. So how can I help you?,0,That 's great . So I help ?,Thats great So how can I help you
+5,5,742555640001,5,agent,mhm.,0,mhm .,mhm
+6,6,742555640001,6,customer,"Uh yes, sir. I'm a new Raven member and I was a veteran. So I got Superman, but for the 1st three months, they gave me like Superman and some other channels for free.",1,"Uh yes , sir . I 'm new Raven member I veteran . So I got Superman , 1st three months , gave like Superman channels free .",Uh yes sir Im a new Raven member and I was a veteran So I got Superman but for the 1st three months they gave me like Superman and some other channels for free
+7,7,742555640001,7,agent,mhm.,0,mhm .,mhm
+8,8,742555640001,8,agent,"Yes, sir.",0,"Yes , sir .",Yes sir
+9,9,742555640001,9,customer,"That has to be canceled by the 23rd. It had a reminder on my my television uh so I wanted to make sure. Yeah, I wanted to go ahead and cancel that today promo all the free promo channels are. However, you say that.",1,"That canceled 23rd . It reminder television uh I wanted make sure . Yeah , I wanted go ahead cancel today promo free promo channels . However , say .",That has to be canceled by the 23rd It had a reminder on my my television uh so I wanted to make sure Yeah I wanted to go ahead and cancel that today promo all the free promo channels are However you say that
+10,10,742555640001,10,customer,Okay.,0,Okay .,Okay
+11,11,742555640001,11,agent,"Okay, let okay, let me just assist you with that. Um.",0,"Okay , let okay , let assist . Um .",Okay let okay let me just assist you with that Um
+12,12,742555640001,12,agent,So are you referring for the Spiderman Pack.,1,So referring Spiderman Pack .,So are you referring for the Spiderman Pack
+13,13,742555640001,13,agent,", Superman, Spiderman and Raven Movie Pack.",1,", Superman , Spiderman Raven Movie Pack .", Superman Spiderman and Raven Movie Pack
+14,14,742555640001,14,customer,I get I'm gonna get Superman anyway because I'm a veteran.,1,I get I 'm gon na get Superman anyway I 'm veteran .,I get Im gonna get Superman anyway because Im a veteran
+15,15,742555640001,15,customer,That will be free.,1,That free .,That will be free
+16,16,742555640001,16,agent,Okay.,0,Okay .,Okay
+17,17,742555640001,17,customer,But all the rest I need to cancel.,1,But rest I need cancel .,But all the rest I need to cancel
+18,18,742555640001,18,agent,"Okay, so I'll I'll just um cancel.",1,"Okay , I 'll I 'll um cancel .",Okay so Ill Ill just um cancel
+19,19,742555640001,19,agent,The three remaining and keep the Superman,1,The three remaining keep Superman,The three remaining and keep the Superman
+20,20,742555640001,20,customer,"Right, the Superman cause I have that Spiderman Package or whatever to the great deal. By the way, thank you.",1,"Right , Superman cause I Spiderman Package whatever great deal . By way , thank .",Right the Superman cause I have that Spiderman Package or whatever to the great deal By the way thank you
+21,21,742555640001,21,customer,And.,0,And .,And
+22,22,742555640001,22,agent,"Yeah, so I am just.",0,"Yeah , I .",Yeah so I am just
+23,23,742555640001,23,customer,"Yep, and they.",0,"Yep , .",Yep and they
+24,24,742555640001,24,agent,"I'm just gonna keep the Spiderman, mhm.",1,"I 'm gon na keep Spiderman , mhm .",Im just gonna keep the Spiderman mhm
+25,25,742555640001,25,customer,"Right to cancel all the right, you can cancel the other, and they still have my Spiderman being free, correct?",1,"Right cancel right , cancel , still Spiderman free , correct ?",Right to cancel all the right you can cancel the other and they still have my Spiderman being free correct
+26,26,742555640001,26,agent,"Yes, sir.",1,"Yes , sir .",Yes sir
+27,27,742555640001,27,agent,Okay.,0,Okay .,Okay
+28,28,742555640001,28,customer,"Oh, that's awesome, man. I appreciate it, and do do you have my email?",1,"Oh , 's awesome , man . I appreciate , email ?",Oh thats awesome man I appreciate it and do do you have my email
+29,29,742555640001,29,agent,"Okay, hold on sir. Let me just process this one. 1st.",1,"Okay , hold sir . Let process one . 1st .",Okay hold on sir Let me just process this one 1st
+30,30,742555640001,30,customer,Okay.,0,Okay .,Okay
+31,31,742555640001,31,agent,So I can I can see.,0,So I I see .,So I can I can see
+32,32,742555640001,32,agent,"Um that, okay? Hold on.",0,"Um , okay ? Hold .",Um that okay Hold on
+33,33,742555640001,33,agent,me just process it real quick.,1,process real quick .,me just process it real quick
+34,34,742555640001,34,agent,And do you asking me if do you have the email.,1,And asking email .,And do you asking me if do you have the email
+35,35,742555640001,35,agent,mhm.,0,mhm .,mhm
+36,36,742555640001,36,customer,"Right, and the the reason I'm asking is uh Thor and I know you guys have been good. Thor kinda burned me on all this stuff, and I just wanted like a notice that said I canceled.",1,"Right , reason I 'm asking uh Thor I know guys good . Thor kinda burned stuff , I wanted like notice said I canceled .",Right and the the reason Im asking is uh Thor and I know you guys have been good Thor kinda burned me on all this stuff and I just wanted like a notice that said I canceled
+37,37,742555640001,37,agent,"mhm okay, sir. Hold on.",0,"mhm okay , sir . Hold .",mhm okay sir Hold on
+38,38,742555640001,38,agent,"Yes, sir. As I can see here you have your email address here.",1,"Yes , sir . As I see email address .",Yes sir As I can see here you have your email address here
+39,39,742555640001,39,agent,So.,0,So .,So
+40,40,742555640001,40,agent,Hold on.,0,Hold .,Hold on
+41,41,742555640001,41,agent,"Okay, so I already accessed it, sir. Anything else I can help you?",1,"Okay , I already accessed , sir . Anything else I help ?",Okay so I already accessed it sir Anything else I can help you
+42,42,742555640001,42,customer,Nope. Thank you very much. You've been wonderful. Have a great day.,1,Nope . Thank much . You 've wonderful . Have great day .,Nope Thank you very much Youve been wonderful Have a great day
+43,43,742555640001,43,agent,"Yes, you do, sir. Bye for now. Again, thank you for choosing Raven",0,"Yes , , sir . Bye . Again , thank choosing Raven",Yes you do sir Bye for now Again thank you for choosing Raven
+44,44,742555640001,44,customer,You're welcome. Thank you guys very much.,0,You 're welcome . Thank guys much .,Youre welcome Thank you guys very much
+45,45,742555640001,45,agent,"Okay, bye for now.",0,"Okay , bye .",Okay bye for now
+46,46,742555640001,46,customer,Alright.,0,Alright .,Alright
+47,47,742555640001,47,customer,Bye bye.,0,Bye bye .,Bye bye
+48,48,742555640001,48,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+49,49,742560220001,0,agent,"Hi, thank you for choosing Raven. This is {first_name:*****}.. How can I help you today?",0,"Hi , thank choosing Raven . This { first_name : * * * * * } .. How I help today ?",Hi thank you for choosing Raven This is firstname How can I help you today
+50,50,742560220001,1,customer,"Yes, hi. I had a I got a uh a call like about a week ago saying that if I call in, I can get a free three months of Superman",1,"Yes , hi . I I got uh call like week ago saying I call , I get free three months Superman",Yes hi I had a I got a uh a call like about a week ago saying that if I call in I can get a free three months of Superman
+51,51,742560220001,2,customer,Superman and Thor to try it?,1,Superman Thor try ?,Superman and Thor to try it
+52,52,742560220001,3,customer,"Says Superman, Thor, I think, Spiderman Batman, and it was Thor I could charge for three months.",1,"Says Superman , Thor , I think , Spiderman Batman , Thor I could charge three months .",Says Superman Thor I think Spiderman Batman and it was Thor I could charge for three months
+53,53,742560220001,4,agent,"Uh free MO uh free for Superman, am I right, ma'am, okay? Let me try that one. May I have your name, please?",0,"Uh free MO uh free Superman , I right , ma'am , okay ? Let try one . May I name , please ?",Uh free MO uh free for Superman am I right maam okay Let me try that one May I have your name please
+54,54,742560220001,5,customer,{first_name:*****}.,0,{ first_name : * * * * * } .,firstname
+55,55,742560220001,6,customer,{last_name:*****}.,0,{ last_name : * * * * * } .,lastname
+56,56,742560220001,7,agent,"Awesome. Thank you so much, sir, uh {first_name:*****}. your last name, please? Perfect, thank you so much for that. Let me check that one for you. Give me just a moment.",0,"Awesome . Thank much , sir , uh { first_name : * * * * * } . last name , please ? Perfect , thank much . Let check one . Give moment .",Awesome Thank you so much sir uh firstname your last name please Perfect thank you so much for that Let me check that one for you Give me just a moment
+57,57,742560220001,8,agent,"Alright, so upon checking here into my end, {first_name:*****}., that we don't have already the HDMI.",1,"Alright , upon checking end , { first_name : * * * * * } . , n't already HDMI .",Alright so upon checking here into my end firstname that we dont have already the HDMI
+58,58,742560220001,9,agent,seen here that you have uh the Superman eligible for $15 a month. Would that be fine to you.,1,seen uh Superman eligible $ 15 month . Would fine .,seen here that you have uh the Superman eligible for 15 a month Would that be fine to you
+59,59,742560220001,10,customer,"No, they offered it for me to try it for three months for me being a a customer for over 10 years.",1,"No , offered try three months customer 10 years .",No they offered it for me to try it for three months for me being a a customer for over 10 years
+60,60,742560220001,11,agent,three months. For how many uh free of charge. Am I right?,1,three months . For many uh free charge . Am I right ?,three months For how many uh free of charge Am I right
+61,61,742560220001,12,customer,Cause I've been a customer for so many years.,1,Cause I 've customer many years .,Cause Ive been a customer for so many years
+62,62,742560220001,13,agent,"Okay, okay. Let me check on the notes here.",0,"Okay , okay . Let check notes .",Okay okay Let me check on the notes here
+63,63,742560220001,14,agent,me just a moment.,0,moment .,me just a moment
+64,64,742560220001,15,agent,"Alright, I am trying to locate or check uh the informations the regarding with the Superman for three months, but I have seen here that we could give you the Spiderman for three months for uh no charge. Instead of it.",1,"Alright , I trying locate check uh informations regarding Superman three months , I seen could give Spiderman three months uh charge . Instead .",Alright I am trying to locate or check uh the informations the regarding with the Superman for three months but I have seen here that we could give you the Spiderman for three months for uh no charge Instead of it
+65,65,742560220001,16,customer,Okay. Can I get Thor two to try Thor.,1,Okay . Can I get Thor two try Thor .,Okay Can I get Thor two to try Thor
+66,66,742560220001,17,agent,"Because Superman, it was already um in a regular price, Superman, let me check. Now why and Thor is already in $7 in your.",1,"Because Superman , already um regular price , Superman , let check . Now Thor already $ 7 .",Because Superman it was already um in a regular price Superman let me check Now why and Thor is already in 7 in your
+67,67,742560220001,18,customer,I don't get Thor,1,I n't get Thor,I dont get Thor
+68,68,742560220001,19,agent,"System in your account, Y, and I'm sorry, um you are not have or in your account. I have seen here that we are not reconnected yet the Thor for 0.",1,"System account , Y , I 'm sorry , um not account . I seen not reconnected yet Thor 0 .",System in your account Y and Im sorry um you are not have or in your account I have seen here that we are not reconnected yet the Thor for 0
+69,69,742560220001,20,customer,"And that's on Batman with that too, right? The Spiderman Thor",1,"And 's Batman , right ? The Spiderman Thor",And thats on Batman with that too right The Spiderman Thor
+70,70,742560220001,21,agent,"dollars, but it will um come back or it is already in a regular price of $7 the only I could give it to you right now is the Thor I'm sorry. Yes, the Spiderman for three months for 0 uh dollar for 0 charges.",1,"dollars , um come back already regular price $ 7 I could give right Thor I 'm sorry . Yes , Spiderman three months 0 uh dollar 0 charges .",dollars but it will um come back or it is already in a regular price of 7 the only I could give it to you right now is the Thor Im sorry Yes the Spiderman for three months for 0 uh dollar for 0 charges
+71,71,742560220001,22,customer,"Yes, I'd like to try both of those for three months.",1,"Yes , I 'd like try three months .",Yes Id like to try both of those for three months
+72,72,742560220001,23,agent,"Al. Alright, I will give it to you the Superman and Thor for three months as as well, W, would you like to grab this opportunity. Um I'm sorry, {first_name:*****}?",1,"Al . Alright , I give Superman Thor three months well , W , would like grab opportunity . Um I 'm sorry , { first_name : * * * * * } ?",Al Alright I will give it to you the Superman and Thor for three months as as well W would you like to grab this opportunity Um Im sorry firstname
+73,73,742560220001,24,customer,"Yeah, so that's the only movie channels you guys have right, that's available for free.",1,"Yeah , 's movie channels guys right , 's available free .",Yeah so thats the only movie channels you guys have right thats available for free
+74,74,742560220001,25,customer,Okay.,0,Okay .,Okay
+75,75,742560220001,26,agent,"Okay, yes. Alright. So only Superman Thor Am I right? Yes, that is that is correct. Okay, so let me process it for you. Give me just a moment.",1,"Okay , yes . Alright . So Superman Thor Am I right ? Yes , correct . Okay , let process . Give moment .",Okay yes Alright So only Superman Thor Am I right Yes that is that is correct Okay so let me process it for you Give me just a moment
+76,76,742560220001,27,customer,Okay.,0,Okay .,Okay
+77,77,742560220001,28,agent,"Uh last two weeks relaunched the Superman for $0. So right now we don't have it yet. So that much, probably that is the one that uh you check the website regarding with it. Give me just a moment, {first_name:*****}?",1,"Uh last two weeks relaunched Superman $ 0 . So right n't yet . So much , probably one uh check website regarding . Give moment , { first_name : * * * * * } ?",Uh last two weeks relaunched the Superman for 0 So right now we dont have it yet So that much probably that is the one that uh you check the website regarding with it Give me just a moment firstname
+78,78,742560220001,29,agent,"Alright, {first_name:*****} I can definitely offer you also just uh the channel 30.",0,"Alright , { first_name : * * * * * } I definitely offer also uh channel 30 .",Alright firstname I can definitely offer you also just uh the channel 30
+79,79,742560220001,30,customer,What is it?,0,What ?,What is it
+80,80,742560220001,31,agent,"one month free of charge. This is about music channel. And you could have it, W uh for one month without any charges. Would you like to uh take advantage of it. Um channel 305.",0,"one month free charge . This music channel . And could , W uh one month without charges . Would like uh take advantage . Um channel 305 .",one month free of charge This is about music channel And you could have it W uh for one month without any charges Would you like to uh take advantage of it Um channel 305
+81,81,742560220001,32,customer,"No, thank you.",0,"No , thank .",No thank you
+82,82,742560220001,33,agent,"Um music channel. This is a relaxing music channel. Alright, I understand. Okay, so I'm going to send you a notification through your email regarding with your um package or premiums that you added that we added right now. And if you do have any further questions or.",1,"Um music channel . This relaxing music channel . Alright , I understand . Okay , I 'm going send notification email regarding um package premiums added added right . And questions .",Um music channel This is a relaxing music channel Alright I understand Okay so Im going to send you a notification through your email regarding with your um package or premiums that you added that we added right now And if you do have any further questions or
+83,83,742560220001,34,customer,Thank.,0,Thank .,Thank
+84,84,742560220001,35,customer,That's it. Thank you.,0,That 's . Thank .,Thats it Thank you
+85,85,742560220001,36,agent,"Would you would like to check this kind of package or channel. Just me a visit uh your raven .com app. Okay, so that you can find everything about it. You're most welcome. Alright, will there be anything else that I can help you with, {first_name:*****}?",0,"Would would like check kind package channel . Just visit uh raven .com app . Okay , find everything . You 're welcome . Alright , anything else I help , { first_name : * * * * * } ?",Would you would like to check this kind of package or channel Just me a visit uh your raven com app Okay so that you can find everything about it Youre most welcome Alright will there be anything else that I can help you with firstname
+86,86,742560220001,37,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+87,87,742563970001,0,agent,hello. Thank you for choosing Raven. This is {first_name:*****} I see that you're calling about um changing credit card. Is that right?,0,hello . Thank choosing Raven . This { first_name : * * * * * } I see 're calling um changing credit card . Is right ?,hello Thank you for choosing Raven This is firstname I see that youre calling about um changing credit card Is that right
+88,88,742563970001,1,customer,"Yes, well, I had did it at the beginning of the month because we had a compromised and I couldn't in our.",1,"Yes , well , I beginning month compromised I could n't .",Yes well I had did it at the beginning of the month because we had a compromised and I couldnt in our
+89,89,742563970001,2,customer,"Uh credit card. And when I got my number. I went online and changed it. So that Raven could take out our you know payment every month, but I just got a notification that says Raven account is past due and I was just trying to see what was going on.",1,"Uh credit card . And I got number . I went online changed . So Raven could take know payment every month , I got notification says Raven account past due I trying see going .",Uh credit card And when I got my number I went online and changed it So that Raven could take out our you know payment every month but I just got a notification that says Raven account is past due and I was just trying to see what was going on
+90,90,742563970001,3,agent,"Oh, I see.",0,"Oh , I see .",Oh I see
+91,91,742563970001,4,agent,Yeah.,0,Yeah .,Yeah
+92,92,742563970001,5,agent,"Do you have a past due, if you're on on autopay.",1,"Do past due , 're autopay .",Do you have a past due if youre on on autopay
+93,93,742563970001,6,customer,"Right, and I had CO?",0,"Right , I CO ?",Right and I had CO
+94,94,742563970001,7,agent,"Yeah, that's kind of ridiculous.",0,"Yeah , 's kind ridiculous .",Yeah thats kind of ridiculous
+95,95,742563970001,8,agent,mhm. Let me just further check here what is happening.,1,mhm . Let check happening .,mhm Let me just further check here what is happening
+96,96,742563970001,9,customer,"Okay, thank you.",0,"Okay , thank .",Okay thank you
+97,97,742563970001,10,agent,"And we do apologize for the inconvenience. Maybe there is something um you know glitch in our system, something about that.",1,"And apologize inconvenience . Maybe something um know glitch system , something .",And we do apologize for the inconvenience Maybe there is something um you know glitch in our system something about that
+98,98,742563970001,11,customer,Okay.,0,Okay .,Okay
+99,99,742563970001,12,agent,"mhm. Again, we do apologize. We we do apologize for the inconvenience.",1,"mhm . Again , apologize . We apologize inconvenience .",mhm Again we do apologize We we do apologize for the inconvenience
+100,100,742563970001,13,customer,Okay.,0,Okay .,Okay
+101,101,742563970001,14,agent,"Mm {voice.creditcard.digitsTranscribed:###} moment. Um let me just look. What are the possible options that I have could offer here to you, okay? Please stay on the line, please stay on the line for me for me?",1,"Mm { voice.creditcard.digitsTranscribed : # # # } moment . Um let look . What possible options I could offer , okay ? Please stay line , please stay line ?",Mm voicecreditcarddigitsTranscribed moment Um let me just look What are the possible options that I have could offer here to you okay Please stay on the line please stay on the line for me for me
+102,102,742563970001,15,customer,Alright.,0,Alright .,Alright
+103,103,742563970001,16,customer,I.,0,I .,I
+104,104,742563970001,17,customer,"Normal, hold.",0,"Normal , hold .",Normal hold
+105,105,742563970001,18,customer,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+106,106,742563970001,19,agent,"Hi, thank you for patiently waiting. So um upon checking here, I think there is an um system error with regarding with our um with our autopay. So um have you contacted your.",1,"Hi , thank patiently waiting . So um upon checking , I think um system error regarding um autopay . So um contacted .",Hi thank you for patiently waiting So um upon checking here I think there is an um system error with regarding with our um with our autopay So um have you contacted your
+107,107,742563970001,20,agent,Um your bank with this {voice.creditcard.digitsTranscribed:###} because as per checking here on. Let me just check here on June {voice.creditcard.digitsTranscribed:###} um your last credit card wasn't able to um.,1,Um bank { voice.creditcard.digitsTranscribed : # # # } per checking . Let check June { voice.creditcard.digitsTranscribed : # # # } um last credit card n't able um .,Um your bank with this voicecreditcarddigitsTranscribed because as per checking here on Let me just check here on June voicecreditcarddigitsTranscribed um your last credit card wasnt able to um
+108,108,742563970001,21,customer,"mhm yes, um I had like.",0,"mhm yes , um I like .",mhm yes um I had like
+109,109,742563970001,22,agent,"to respond with the payment. So it's um failed due to card decline your response, and then you a mhm. Go on.",1,"respond payment . So 's um failed due card decline response , mhm . Go .",to respond with the payment So its um failed due to card decline your response and then you a mhm Go on
+110,110,742563970001,23,customer,"Yeah, the card that y'all had on file. Previously ended in, but I had it was compromised, so I had to get a new credit card.",1,"Yeah , card y'all file . Previously ended , I compromised , I get new credit card .",Yeah the card that yall had on file Previously ended in but I had it was compromised so I had to get a new credit card
+111,111,742563970001,24,customer,I went online and you know got put in a new credit card number and um.,1,I went online know got put new credit card number um .,I went online and you know got put in a new credit card number and um
+112,112,742563970001,25,customer,"I just I mean, I have my credit card here. If if there's any way that you could put that in for the autopay for me.",1,"I I mean , I credit card . If 's way could put autopay .",I just I mean I have my credit card here If if theres any way that you could put that in for the autopay for me
+113,113,742563970001,26,agent,"Um actually, we can do it manually, but um I'm afraid I cannot um process this {voice.creditcard.digitsTranscribed:### ###} you since um I don't want to like um have some system error like um double charges you know that, so I think uh it's.",1,"Um actually , manually , um I 'm afraid I not um process { voice.creditcard.digitsTranscribed : # # # # # # } since um I n't want like um system error like um double charges know , I think uh 's .",Um actually we can do it manually but um Im afraid I cannot um process this voicecreditcarddigitsTranscribed  you since um I dont want to like um have some system error like um double charges you know that so I think uh its
+114,114,742563970001,27,customer,"Yeah, mhm.",0,"Yeah , mhm .",Yeah mhm
+115,115,742563970001,28,agent,It's best for you to wait for this {voice.creditcard.digitsTranscribed:###} since you just recently updated your credit card.,1,It 's best wait { voice.creditcard.digitsTranscribed : # # # } since recently updated credit card .,Its best for you to wait for this voicecreditcarddigitsTranscribed since you just recently updated your credit card
+116,116,742563970001,29,customer,"Okay, so it will take it out, eventually.",1,"Okay , take , eventually .",Okay so it will take it out eventually
+117,117,742563970001,30,customer,"Okay, alright.",0,"Okay , alright .",Okay alright
+118,118,742563970001,31,agent,"Yeah, yeah, the actually the system will try to collect the payment for this {voice.creditcard.digitsTranscribed:###}, automatically, so um I just want to set your proper expectation that you still have a {voice.creditcard.digitsTranscribed:#####} days remaining for the um soft disconnect.",1,"Yeah , yeah , actually system try collect payment { voice.creditcard.digitsTranscribed : # # # } , automatically , um I want set proper expectation still { voice.creditcard.digitsTranscribed : # # # # # } days remaining um soft disconnect .",Yeah yeah the actually the system will try to collect the payment for this voicecreditcarddigitsTranscribed automatically so um I just want to set your proper expectation that you still have a voicecreditcarddigitsTranscribed days remaining for the um soft disconnect
+119,119,742563970001,32,customer,Okay.,0,Okay .,Okay
+120,120,742563970001,33,customer,"But it should be taken out by then, though.",1,"But taken , though .",But it should be taken out by then though
+121,121,742563970001,34,agent,"You know, mhm. So yeah, exactly.",0,"You know , mhm . So yeah , exactly .",You know mhm So yeah exactly
+122,122,742563970001,35,customer,Okay.,0,Okay .,Okay
+123,123,742563970001,36,agent,"So um is there anything else, where um where regarding with this {voice.creditcard.digitsTranscribed:###}, is there anything else beside this {voice.creditcard.digitsTranscribed:###}.",0,"So um anything else , um regarding { voice.creditcard.digitsTranscribed : # # # } , anything else beside { voice.creditcard.digitsTranscribed : # # # } .",So um is there anything else where um where regarding with this voicecreditcarddigitsTranscribed is there anything else beside this voicecreditcarddigitsTranscribed
+124,124,742563970001,37,customer,"No, ma'am, or y'all we y'all send me a confirmation of the payment.",1,"No , ma'am , y'all y'all send confirmation payment .",No maam or yall we yall send me a confirmation of the payment
+125,125,742563970001,38,agent,"I'm sorry, come again?",0,"I 'm sorry , come ?",Im sorry come again
+126,126,742563970001,39,customer,Will y'all send a confirmation of the payment when it does come off the credit card.,1,Will y'all send confirmation payment come credit card .,Will yall send a confirmation of the payment when it does come off the credit card
+127,127,742563970001,40,agent,"Yes, exactly.",1,"Yes , exactly .",Yes exactly
+128,128,742563970001,41,customer,Okay.,0,Okay .,Okay
+129,129,742563970001,42,agent,Once the system. Once the system will um C.,1,Once system . Once system um C .,Once the system Once the system will um C
+130,130,742563970001,43,agent,"Um credited the balance of this um bill, it will be automatically sent a message to you.",1,"Um credited balance um bill , automatically sent message .",Um credited the balance of this um bill it will be automatically sent a message to you
+131,131,742563970001,44,customer,"Okay, that sounds good. Well, I appreciate your time.",1,"Okay , sounds good . Well , I appreciate time .",Okay that sounds good Well I appreciate your time
+132,132,742563970001,45,customer,"Yeah, I understand.",0,"Yeah , I understand .",Yeah I understand
+133,133,742563970001,46,agent,"mhm yeah. And again, on behalf of our company. We do apologize for the system error, this is something we cannot control sometimes since you know, mhm. And um also, if you want to change anything on your programming, you can.",0,"mhm yeah . And , behalf company . We apologize system error , something not control sometimes since know , mhm . And um also , want change anything programming , .",mhm yeah And again on behalf of our company We do apologize for the system error this is something we cannot control sometimes since you know mhm And um also if you want to change anything on your programming you can
+134,134,742563970001,47,customer,Okay.,0,Okay .,Okay
+135,135,742563970001,48,agent,"actually go to raven .com slash my programming, okay? And upon checking here, I see that you are eligible for our promotion which is the gallery channel {voice.creditcard.digitsTranscribed:### ###} month free. And uh Hulk {voice.creditcard.digitsTranscribed:### ###} month free, you should give it a try.",0,"actually go raven .com slash programming , okay ? And upon checking , I see eligible promotion gallery channel { voice.creditcard.digitsTranscribed : # # # # # # } month free . And uh Hulk { voice.creditcard.digitsTranscribed : # # # # # # } month free , give try .",actually go to raven com slash my programming okay And upon checking here I see that you are eligible for our promotion which is the gallery channel voicecreditcarddigitsTranscribed  month free And uh Hulk voicecreditcarddigitsTranscribed  month free you should give it a try
+136,136,742563970001,49,customer,"Okay, no. Thank you. I'm good right now. But I appreciate it.",0,"Okay , . Thank . I 'm good right . But I appreciate .",Okay no Thank you Im good right now But I appreciate it
+137,137,742563970001,50,agent,No worries. And um is there anything else I can help you with besides with this concern.,0,No worries . And um anything else I help besides concern .,No worries And um is there anything else I can help you with besides with this concern
+138,138,742563970001,51,customer,That is it.,0,That .,That is it
+139,139,742563970001,52,customer,Bye bye.,0,Bye bye .,Bye bye
+140,140,742563970001,53,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+141,141,742564160001,0,agent,"Hi, welcome to Raven. This is {first_name:*****} speaking. Can I have your name?",0,"Hi , welcome Raven . This { first_name : * * * * * } speaking . Can I name ?",Hi welcome to Raven This is firstname speaking Can I have your name
+142,142,742564160001,1,customer,"Yes, my name is {first_name:*****}",0,"Yes , name { first_name : * * * * * }",Yes my name is firstname
+143,143,742564160001,2,customer,"Uh yes, I need to unlock a phone.",1,"Uh yes , I need unlock phone .",Uh yes I need to unlock a phone
+144,144,742564160001,3,agent,"Hello, good evening, {first_name:*****}, and how can I help you?",0,"Hello , good evening , { first_name : * * * * * } , I help ?",Hello good evening firstname and how can I help you
+145,145,742564160001,4,agent,"mhm okay. So uh where did you buy, where did you bought the phone.",1,"mhm okay . So uh buy , bought phone .",mhm okay So uh where did you buy where did you bought the phone
+146,146,742564160001,5,customer,I bought it on the Raven wireless setup.,1,I bought Raven wireless setup .,I bought it on the Raven wireless setup
+147,147,742564160001,6,agent,"Oh, okay, so it is unlocked with Raven are you trying to port out your accou your number?",1,"Oh , okay , unlocked Raven trying port accou number ?",Oh okay so it is unlocked with Raven are you trying to port out your accou your number
+148,148,742564160001,7,customer,"Um S, no, what it is is I bought a phone, and then I'd.",1,"Um S , , I bought phone , I 'd .",Um S no what it is is I bought a phone and then Id
+149,149,742564160001,8,customer,"tried to add a line, but then the person that was helping me with it said I had to replace a line, and I didn't want that. Um but it was already partway through the activation process, and now the phone's locked.",1,"tried add line , person helping said I replace line , I n't want . Um already partway activation process , phone 's locked .",tried to add a line but then the person that was helping me with it said I had to replace a line and I didnt want that Um but it was already partway through the activation process and now the phones locked
+150,150,742564160001,9,customer,"Yes, um, J.",0,"Yes , um , J .",Yes um J
+151,151,742564160001,10,agent,"Oh, alright? Okay, I see. Can I have the email address?",0,"Oh , alright ? Okay , I see . Can I email address ?",Oh alright Okay I see Can I have the email address
+152,152,742564160001,11,customer,{email:*****}.,0,{ email : * * * * * } .,email
+153,153,742564160001,12,customer,{email:*****}.,0,{ email : * * * * * } .,email
+154,154,742564160001,13,agent,{email:*****}.,0,{ email : * * * * * } .,email
+155,155,742564160001,14,customer,{email:*****}.,0,{ email : * * * * * } .,email
+156,156,742564160001,15,agent,{email:*****}.,0,{ email : * * * * * } .,email
+157,157,742564160001,16,customer,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+158,158,742564160001,17,agent,"Mm okay, just a moment.",0,"Mm okay , moment .",Mm okay just a moment
+159,159,742564160001,18,customer,Okay.,0,Okay .,Okay
+160,160,742564160001,19,customer,So this isn't the phone that is currently on there. It's the new one. I tried to purchase so I still want that line on that account to remain fine with the with the motor home phone on it.,1,So n't phone currently . It 's new one . I tried purchase I still want line account remain fine motor home phone .,So this isnt the phone that is currently on there Its the new one I tried to purchase so I still want that line on that account to remain fine with the with the motor home phone on it
+161,161,742564160001,20,agent,"Mm okay, so so can I have the phone number?",1,"Mm okay , I phone number ?",Mm okay so so can I have the phone number
+162,162,742564160001,21,customer,Like telephone number?,1,Like telephone number ?,Like telephone number
+163,163,742564160001,22,agent,"Yes, the phone number that is associated with this account that we are trying to activate.",1,"Yes , phone number associated account trying activate .",Yes the phone number that is associated with this account that we are trying to activate
+164,164,742564160001,23,customer,Um.,0,Um .,Um
+165,165,742564160001,24,customer,I'm sorry. I thought this was gonna.,0,I 'm sorry . I thought gon na .,Im sorry I thought this was gonna
+166,166,742564160001,25,agent,"uhhuh. No worries for that. Um okay, so uh which phone number you want to activate with a new device.",1,"uhhuh . No worries . Um okay , uh phone number want activate new device .",uhhuh No worries for that Um okay so uh which phone number you want to activate with a new device
+167,167,742564160001,26,customer,So I didn't have a phone number?,1,So I n't phone number ?,So I didnt have a phone number
+168,168,742564160001,27,agent,"Oh, okay, you didn't have a phone number yet. So uh did you receive a SIM card?",1,"Oh , okay , n't phone number yet . So uh receive SIM card ?",Oh okay you didnt have a phone number yet So uh did you receive a SIM card
+169,169,742564160001,28,customer,"Yeah, I did.",1,"Yeah , I .",Yeah I did
+170,170,742564160001,29,agent,"Alright, okay? So uh do you want to have a new number with that, SIM card?",1,"Alright , okay ? So uh want new number , SIM card ?",Alright okay So uh do you want to have a new number with that SIM card
+171,171,742564160001,30,customer,What I was trying to do now I have a SIM card through telling and they're telling me that the device is locked because of.,1,What I trying I SIM card telling 're telling device locked .,What I was trying to do now I have a SIM card through telling and theyre telling me that the device is locked because of
+172,172,742564160001,31,customer,That part way through the activation process.,1,That part way activation process .,That part way through the activation process
+173,173,742564160001,32,agent,"Oh, mhm okay, we are going to uh try and activating that {voice.creditcard.digitsTranscribed:###} again? So please stay on the line with me, okay?",1,"Oh , mhm okay , going uh try activating { voice.creditcard.digitsTranscribed : # # # } ? So please stay line , okay ?",Oh mhm okay we are going to uh try and activating that voicecreditcarddigitsTranscribed again So please stay on the line with me okay
+174,174,742564160001,33,agent,Mm.,0,Mm .,Mm
+175,175,742564160001,34,customer,"Right, but by activating it, like does that mean I have to go through Raven",1,"Right , activating , like mean I go Raven",Right but by activating it like does that mean I have to go through Raven
+176,176,742564160001,35,agent,Um.,0,Um .,Um
+177,177,742564160001,36,agent,"Okay, so that same C, where did you get the same card?",1,"Okay , C , get card ?",Okay so that same C where did you get the same card
+178,178,742564160001,37,customer,"So I ordered the phone online and you guys sent me the phone. Plus, the SIM card?",1,"So I ordered phone online guys sent phone . Plus , SIM card ?",So I ordered the phone online and you guys sent me the phone Plus the SIM card
+179,179,742564160001,38,agent,mhm okay. So that's the SIM card from our Raven,1,mhm okay . So 's SIM card Raven,mhm okay So thats the SIM card from our Raven
+180,180,742564160001,39,agent,Oh.,0,Oh .,Oh
+181,181,742564160001,40,customer,"Right, so then when I then it had problems then I called Raven",1,"Right , I problems I called Raven",Right so then when I then it had problems then I called Raven
+182,182,742564160001,41,agent,mhm.,0,mhm .,mhm
+183,183,742564160001,42,customer,"The gentleman that was helping me was telling me I only could replace the phone line, not at it. Not phone, and then I told them that's not what I wanted to do so, then.",1,"The gentleman helping telling I could replace phone line , not . Not phone , I told 's not I wanted , .",The gentleman that was helping me was telling me I only could replace the phone line not at it Not phone and then I told them thats not what I wanted to do so then
+184,184,742564160001,43,customer,I ordered a SIM card through the the um phone company tello? And then when I tried to activate that it's telling me that the phone is locked.,1,I ordered SIM card um phone company tello ? And I tried activate 's telling phone locked .,I ordered a SIM card through the the um phone company tello And then when I tried to activate that its telling me that the phone is locked
+185,185,742564160001,44,agent,"Oh, yeah, so when did you bought the phone from your Raven",1,"Oh , yeah , bought phone Raven",Oh yeah so when did you bought the phone from your Raven
+186,186,742564160001,45,customer,Um like I'd say within {voice.creditcard.digitsTranscribed:###} weeks ago.,1,Um like I 'd say within { voice.creditcard.digitsTranscribed : # # # } weeks ago .,Um like Id say within voicecreditcarddigitsTranscribed weeks ago
+187,187,742564160001,46,agent,"Okay, let uh let me just go ahead and look for an available options with that, okay? So please stay on the line. Thank you.",1,"Okay , let uh let go ahead look available options , okay ? So please stay line . Thank .",Okay let uh let me just go ahead and look for an available options with that okay So please stay on the line Thank you
+188,188,742564160001,47,customer,"Alright, thank you.",0,"Alright , thank .",Alright thank you
+189,189,742564160001,48,customer,Yes.,0,Yes .,Yes
+190,190,742564160001,49,agent,"Hello? Sir? Hello, {first_name:*****}, okay? So alright? Okay, so here's what we are going to do for you to use again your phone, okay? Because usually, it takes a year uh for you to use that device to another provider. Um so I'm going to send you another SIM card?",1,"Hello ? Sir ? Hello , { first_name : * * * * * } , okay ? So alright ? Okay , 's going use phone , okay ? Because usually , takes year uh use device another provider . Um I 'm going send another SIM card ?",Hello Sir Hello firstname okay So alright Okay so heres what we are going to do for you to use again your phone okay Because usually it takes a year uh for you to use that device to another provider Um so Im going to send you another SIM card
+191,191,742564160001,50,agent,And that is the only that is the thing where that you are going to activate with the device. Okay.,1,And thing going activate device . Okay .,And that is the only that is the thing where that you are going to activate with the device Okay
+192,192,742564160001,51,customer,No.,0,No .,No
+193,193,742564160001,52,customer,I don't want this.,0,I n't want .,I dont want this
+194,194,742564160001,53,agent,Um I'm so sorry for this {voice.creditcard.digitsTranscribed:###} because you cannot use a different.,1,Um I 'm sorry { voice.creditcard.digitsTranscribed : # # # } not use different .,Um Im so sorry for this voicecreditcarddigitsTranscribed because you cannot use a different
+195,195,742564160001,54,customer,I never even.,0,I never even .,I never even
+196,196,742564160001,55,agent,"Okay, because you bought the phone from your Raven right?",1,"Okay , bought phone Raven right ?",Okay because you bought the phone from your Raven right
+197,197,742564160001,56,customer,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+198,198,742564160001,57,agent,"Oh, yes. Okay, so it was just for uh like {voice.creditcard.digitsTranscribed:###} weeks ago.",1,"Oh , yes . Okay , uh like { voice.creditcard.digitsTranscribed : # # # } weeks ago .",Oh yes Okay so it was just for uh like voicecreditcarddigitsTranscribed weeks ago
+199,199,742564160001,58,agent,"So it in that case, the only SIM card that you can use is from Raven. Also, if you're going to insert a different SIM card?",1,"So case , SIM card use Raven . Also , 're going insert different SIM card ?",So it in that case the only SIM card that you can use is from Raven Also if youre going to insert a different SIM card
+200,200,742564160001,59,agent,You are going to experience the same thing you experienced today?,1,You going experience thing experienced today ?,You are going to experience the same thing you experienced today
+201,201,742564160001,60,agent,It will show you that the phone is locked.,1,It show phone locked .,It will show you that the phone is locked
+202,202,742564160001,61,customer,"Right, so.",0,"Right , .",Right so
+203,203,742564160001,62,agent,Okay. Okay.,0,Okay . Okay .,Okay Okay
+204,204,742564160001,63,customer,What?,0,What ?,What
+205,205,742564160001,64,customer,last phone call. I had were the gentleman told me I couldn't even set up a new phone number.,1,last phone call . I gentleman told I could n't even set new phone number .,last phone call I had were the gentleman told me I couldnt even set up a new phone number
+206,206,742564160001,65,agent,"Uh okay, sir. We C, you can set up a new phone number using the SIM card from raven uh from Raven",1,"Uh okay , sir . We C , set new phone number using SIM card raven uh Raven",Uh okay sir We C you can set up a new phone number using the SIM card from raven uh from Raven
+207,207,742564160001,66,customer,Okay.,0,Okay .,Okay
+208,208,742564160001,67,agent,"We can set you, we can give you a different phone number, but the same card must from Raven",1,"We set , give different phone number , card must Raven",We can set you we can give you a different phone number but the same card must from Raven
+209,209,742564160001,68,customer,"Right, so.",0,"Right , .",Right so
+210,210,742564160001,69,agent,"Okay, so I am going to um order another SIM card for you, and please wait. This for this to arrive and then call us back and we are going to assist you in activating that same card with a new phone number.",1,"Okay , I going um order another SIM card , please wait . This arrive call us back going assist activating card new phone number .",Okay so I am going to um order another SIM card for you and please wait This for this to arrive and then call us back and we are going to assist you in activating that same card with a new phone number
+211,211,742564160001,70,customer,So you guys sent me. {voice.creditcard.digitsTranscribed:###} SIM cards with {voice.creditcard.digitsTranscribed:###} of them not work or does it have to be a brand new {voice.creditcard.digitsTranscribed:###}.,1,So guys sent . { voice.creditcard.digitsTranscribed : # # # } SIM cards { voice.creditcard.digitsTranscribed : # # # } not work brand new { voice.creditcard.digitsTranscribed : # # # } .,So you guys sent me voicecreditcarddigitsTranscribed SIM cards with voicecreditcarddigitsTranscribed of them not work or does it have to be a brand new voicecreditcarddigitsTranscribed
+212,212,742564160001,71,customer,Like it keeps.,0,Like keeps .,Like it keeps
+213,213,742564160001,72,agent,"Okay, so how many SIM how manys did you receive?",1,"Okay , many SIM manys receive ?",Okay so how many SIM how manys did you receive
+214,214,742564160001,73,customer,{voice.creditcard.digitsTranscribed:###} of them came in the box. {voice.creditcard.digitsTranscribed:###} brand.,1,{ voice.creditcard.digitsTranscribed : # # # } came box . { voice.creditcard.digitsTranscribed : # # # } brand .,voicecreditcarddigitsTranscribed of them came in the box voicecreditcarddigitsTranscribed brand
+215,215,742564160001,74,customer,Right.,0,Right .,Right
+216,216,742564160001,75,agent,"Okay. {voice.creditcard.digitsTranscribed:###} so uh did you already use the first {voice.creditcard.digitsTranscribed:###}, okay. The {voice.creditcard.digitsTranscribed:#}nd {voice.creditcard.digitsTranscribed:###} is uh still intact?",1,"Okay . { voice.creditcard.digitsTranscribed : # # # } uh already use first { voice.creditcard.digitsTranscribed : # # # } , okay . The { voice.creditcard.digitsTranscribed : # } nd { voice.creditcard.digitsTranscribed : # # # } uh still intact ?",Okay voicecreditcarddigitsTranscribed so uh did you already use the first voicecreditcarddigitsTranscribed okay The voicecreditcarddigitsTranscribednd voicecreditcarddigitsTranscribed is uh still intact
+217,217,742564160001,76,customer,"Yeah, it hasn't even been opened.",1,"Yeah , n't even opened .",Yeah it hasnt even been opened
+218,218,742564160001,77,agent,"Okay, so we are going to uh try activating the {voice.creditcard.digitsTranscribed:###}. The other SIM card? Okay.",1,"Okay , going uh try activating { voice.creditcard.digitsTranscribed : # # # } . The SIM card ? Okay .",Okay so we are going to uh try activating the voicecreditcarddigitsTranscribed The other SIM card Okay
+219,219,742564160001,78,customer,"Right, you want me to click grab.",1,"Right , want click grab .",Right you want me to click grab
+220,220,742564160001,79,agent,"Uh okay. Yes, please. So can you insert the new SIM card on your device. So are you calling in from the device that we are going to activate.",1,"Uh okay . Yes , please . So insert new SIM card device . So calling device going activate .",Uh okay Yes please So can you insert the new SIM card on your device So are you calling in from the device that we are going to activate
+221,221,742564160001,80,agent,"Okay, perfect.",0,"Okay , perfect .",Okay perfect
+222,222,742564160001,81,customer,"No, I'm on a different phone. So we everything's on the other phone?",1,"No , I 'm different phone . So everything 's phone ?",No Im on a different phone So we everythings on the other phone
+223,223,742564160001,82,agent,"Okay. Okay, that's perfect. So can you insert the new SIM card on your device?",1,"Okay . Okay , 's perfect . So insert new SIM card device ?",Okay Okay thats perfect So can you insert the new SIM card on your device
+224,224,742564160001,83,customer,"Yeah, I'm grabbing it right now.",1,"Yeah , I 'm grabbing right .",Yeah Im grabbing it right now
+225,225,742564160001,84,agent,Okay. Just take your time.,0,Okay . Just take time .,Okay Just take your time
+226,226,742564160001,85,customer,Thank you.,0,Thank .,Thank you
+227,227,742564160001,86,customer,"Okay, I'm opening the cash.",1,"Okay , I 'm opening cash .",Okay Im opening the cash
+228,228,742564160001,87,customer,Alright.,0,Alright .,Alright
+229,229,742564160001,88,customer,"Okay, do I just need to turn the phone on once I got the card in there.",1,"Okay , I need turn phone I got card .",Okay do I just need to turn the phone on once I got the card in there
+230,230,742564160001,89,customer,"Hello, ma'am?",0,"Hello , ma'am ?",Hello maam
+231,231,742564160001,90,agent,"Hello, I'm just currently opening my tools, okay?",1,"Hello , I 'm currently opening tools , okay ?",Hello Im just currently opening my tools okay
+232,232,742564160001,91,customer,"Yep. Do I turn the phone on, though, after I've um put the Raven.",1,"Yep . Do I turn phone , though , I 've um put Raven .",Yep Do I turn the phone on though after Ive um put the Raven
+233,233,742564160001,92,customer,Okay.,0,Okay .,Okay
+234,234,742564160001,93,agent,"Uh uh yes, please turn on the phone.",1,"Uh uh yes , please turn phone .",Uh uh yes please turn on the phone
+235,235,742564160001,94,customer,"Alright. Do I need to download the Raven app on this, or?",1,"Alright . Do I need download Raven app , ?",Alright Do I need to download the Raven app on this or
+236,236,742564160001,95,agent,"Okay, hold on.",0,"Okay , hold .",Okay hold on
+237,237,742564160001,96,agent,"Okay, hold on, {first_name:*****}, okay?",0,"Okay , hold , { first_name : * * * * * } , okay ?",Okay hold on firstname okay
+238,238,742564160001,97,customer,Sure.,0,Sure .,Sure
+239,239,742564160001,98,customer,I.,0,I .,I
+240,240,742564160001,99,customer,Freaking story.,0,Freaking story .,Freaking story
+241,241,742564160001,100,customer,"Apparently, you can't unlock the phone. Unless you use the for two years, but this. Are you saying they can give you.",1,"Apparently , ca n't unlock phone . Unless use two years , . Are saying give .",Apparently you cant unlock the phone Unless you use the for two years but this Are you saying they can give you
+242,242,742564160001,101,agent,"Okay, hello?",0,"Okay , hello ?",Okay hello
+243,243,742564160001,102,customer,"last guy Yes, ma'am.",0,"last guy Yes , ma'am .",last guy Yes maam
+244,244,742564160001,103,agent,"Okay, so upon checking here, um we cannot ch give you a new phone number because this number came from uh the Raven. Also, it's uh you. It's you came from for uh from one of our legacy plans.",1,"Okay , upon checking , um not ch give new phone number number came uh Raven . Also , 's uh . It 's came uh one legacy plans .",Okay so upon checking here um we cannot ch give you a new phone number because this number came from uh the Raven Also its uh you Its you came from for uh from one of our legacy plans
+245,245,742564160001,104,agent,Uh why do you want to change this number.,1,Uh want change number .,Uh why do you want to change this number
+246,246,742564160001,105,customer,"What's W. So I went, so can you unlock the phone, then for me?",1,"What 's W. So I went , unlock phone , ?",Whats W So I went so can you unlock the phone then for me
+247,247,742564160001,106,agent,"Oh, no, unfortunately, I cannot unlock the phone, sir, because uh it sh uh it's usually takes a year.",1,"Oh , , unfortunately , I not unlock phone , sir , uh sh uh 's usually takes year .",Oh no unfortunately I cannot unlock the phone sir because uh it sh uh its usually takes a year
+248,248,742564160001,107,customer,"Right, but if I purchased a new phone.",1,"Right , I purchased new phone .",Right but if I purchased a new phone
+249,249,742564160001,108,customer,Why can't I get a new number. I went to add a line.,1,Why ca n't I get new number . I went add line .,Why cant I get a new number I went to add a line
+250,250,742564160001,109,agent,"Okay, so um when you bought the new phone. Um is there an option for you to keep your number or to choose a new number from us, because it should uh if there is an option you should choose to um you should choose to have an.",1,"Okay , um bought new phone . Um option keep number choose new number us , uh option choose um choose .",Okay so um when you bought the new phone Um is there an option for you to keep your number or to choose a new number from us because it should uh if there is an option you should choose to um you should choose to have an
+251,251,742564160001,110,agent,A number when Y.,1,A number Y .,A number when Y
+252,252,742564160001,111,customer,That's what shows.,0,That 's shows .,Thats what shows
+253,253,742564160001,112,agent,"Okay, uh but on the day you purchased the phone. It was not discussed to you.",1,"Okay , uh day purchased phone . It not discussed .",Okay uh but on the day you purchased the phone It was not discussed to you
+254,254,742564160001,113,customer,"No, I I went on the website went to add a line, said I wanted a new number, an additional new number.",1,"No , I I went website went add line , said I wanted new number , additional new number .",No I I went on the website went to add a line said I wanted a new number an additional new number
+255,255,742564160001,114,customer,It let me order the phone. It let me pick my plan. It came.,1,It let order phone . It let pick plan . It came .,It let me order the phone It let me pick my plan It came
+256,256,742564160001,115,agent,Mm.,0,Mm .,Mm
+257,257,742564160001,116,customer,And so now I have this phone that either. I have to take this old number and take my daughter's phone away from their.,1,And I phone either . I take old number take daughter 's phone away .,And so now I have this phone that either I have to take this old number and take my daughters phone away from their
+258,258,742564160001,117,customer,Or I have a phone that I can't use. Cause you guys won't unlock it.,1,Or I phone I ca n't use . Cause guys wo n't unlock .,Or I have a phone that I cant use Cause you guys wont unlock it
+259,259,742564160001,118,agent,"Yes, it is locked because you inserted a SIM card from other carrier.",1,"Yes , locked inserted SIM card carrier .",Yes it is locked because you inserted a SIM card from other carrier
+260,260,742564160001,119,agent,"Okay, so you can you try.",0,"Okay , try .",Okay so you can you try
+261,261,742564160001,120,customer,"Right, so what what what do I do here? What do I return all of this and get a full refund, then.",1,"Right , I ? What I return get full refund , .",Right so what what what do I do here What do I return all of this and get a full refund then
+262,262,742564160001,121,agent,"Okay, so you are you are going to return the phone.",1,"Okay , going return phone .",Okay so you are you are going to return the phone
+263,263,742564160001,122,customer,"Well, if I can't get a number. No.",1,"Well , I ca n't get number . No .",Well if I cant get a number No
+264,264,742564160001,123,agent,"Um unfortunately, we can't give you a new number because it's also from Raven uh from Bunny. I'm sorry.",1,"Um unfortunately , ca n't give new number 's also Raven uh Bunny . I 'm sorry .",Um unfortunately we cant give you a new number because its also from Raven uh from Bunny Im sorry
+265,265,742564160001,124,customer,So I ordered from Bunny and you can't give me a number because it's from your Raven,1,So I ordered Bunny ca n't give number 's Raven,So I ordered from Bunny and you cant give me a number because its from your Raven
+266,266,742564160001,125,agent,"Yes, this I yes, uh because the number is already um saved with?",1,"Yes , I yes , uh number already um saved ?",Yes this I yes uh because the number is already um saved with
+267,267,742564160001,126,agent,Under your account.,1,Under account .,Under your account
+268,268,742564160001,127,customer,So you can't take this sooner. I can't open a completely new account with a different.,1,So ca n't take sooner . I ca n't open completely new account different .,So you cant take this sooner I cant open a completely new account with a different
+269,269,742564160001,128,agent,"Okay, can you, sir, can you insert back. Um.",1,"Okay , , sir , insert back . Um .",Okay can you sir can you insert back Um
+270,270,742564160001,129,agent,A Raven SIM card?,1,A Raven SIM card ?,A Raven SIM card
+271,271,742564160001,130,customer,Did.,1,Did .,Did
+272,272,742564160001,131,agent,"Okay, so. Okay, the phone number here that I have on our system that uh could be saved under your name is {voice.creditcard.digitsTranscribed:##########}.",1,"Okay , . Okay , phone number I system uh could saved name { voice.creditcard.digitsTranscribed : # # # # # # # # # # } .",Okay so Okay the phone number here that I have on our system that uh could be saved under your name is voicecreditcarddigitsTranscribed
+273,273,742564160001,132,customer,Which is my daughter's phone number on my other account?,1,Which daughter 's phone number account ?,Which is my daughters phone number on my other account
+274,274,742564160001,133,agent,"Okay, so this is okay, this is the phone number that can be saved.",1,"Okay , okay , phone number saved .",Okay so this is okay this is the phone number that can be saved
+275,275,742564160001,134,agent,With that phone.,1,With phone .,With that phone
+276,276,742564160001,135,agent,"Okay, hold on.",0,"Okay , hold .",Okay hold on
+277,277,742564160001,136,customer,"Okay, how do I return all of this for a full refund, please?",1,"Okay , I return full refund , please ?",Okay how do I return all of this for a full refund please
+278,278,742564160001,137,agent,"Okay, I'm going to work on it, okay?",0,"Okay , I 'm going work , okay ?",Okay Im going to work on it okay
+279,279,742564160001,138,customer,"Alright, thank you.",0,"Alright , thank .",Alright thank you
+280,280,742564160001,139,agent,You're welcome. Please stay on the line.,0,You 're welcome . Please stay line .,Youre welcome Please stay on the line
+281,281,742564160001,140,customer,"No, no.",0,"No , .",No no
+282,282,742564160001,141,customer,mhm.,0,mhm .,mhm
+283,283,742564160001,142,customer,Already did.,0,Already .,Already did
+284,284,742564160001,143,customer,Yeah.,0,Yeah .,Yeah
+285,285,742564160001,144,agent,"Hello, {first_name:*****}",0,"Hello , { first_name : * * * * * }",Hello firstname
+286,286,742564160001,145,customer,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+287,287,742564160001,146,agent,"Okay, so please stay on the line, okay? I'm currently working on it.",0,"Okay , please stay line , okay ? I 'm currently working .",Okay so please stay on the line okay Im currently working on it
+288,288,742564160001,147,customer,"Alright, thank you.",0,"Alright , thank .",Alright thank you
+289,289,742564160001,148,agent,You're welcome.,0,You 're welcome .,Youre welcome
+290,290,742564160001,149,customer,I.,0,I .,I
+291,291,742564160001,150,customer,I'm I'm.,0,I 'm I 'm .,Im Im
+292,292,742564160001,151,customer,I.,0,I .,I
+293,293,742564160001,152,customer,Yeah.,0,Yeah .,Yeah
+294,294,742564160001,153,customer,Could you.,0,Could .,Could you
+295,295,742564160001,154,customer,What happened?,0,What happened ?,What happened
+296,296,742564160001,155,customer,Yes.,0,Yes .,Yes
+297,297,742564160001,156,agent,"Okay. Hello? Okay, so I already uh processed the return for the D. The return um you can just uh wait for an email you are going to receive an email with regards to the details, okay?",1,"Okay . Hello ? Okay , I already uh processed return D. The return um uh wait email going receive email regards details , okay ?",Okay Hello Okay so I already uh processed the return for the D The return um you can just uh wait for an email you are going to receive an email with regards to the details okay
+298,298,742564160001,157,customer,Did you change my daughter's phone number. The other number?,0,Did change daughter 's phone number . The number ?,Did you change my daughters phone number The other number
+299,299,742564160001,158,customer,"Okay, so what do I do from then.",0,"Okay , I .",Okay so what do I do from then
+300,300,742564160001,159,agent,"No, no, we haven't do anything under your account, except for the return of the device. Uh okay, so you can just wait for the email, and then.",1,"No , , n't anything account , except return device . Uh okay , wait email , .",No no we havent do anything under your account except for the return of the device Uh okay so you can just wait for the email and then
+301,301,742564160001,160,customer,"Okay, alright, thank you.",0,"Okay , alright , thank .",Okay alright thank you
+302,302,742564160001,161,customer,"Ma'am, thank you.",0,"Ma'am , thank .",Maam thank you
+303,303,742564160001,162,customer,Bye bye.,0,Bye bye .,Bye bye
+304,304,742564160001,163,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+305,305,742565280001,0,agent,"You for choosing Raven This is {first_name:*****}, and who am I speaking with today?",0,"You choosing Raven This { first_name : * * * * * } , I speaking today ?",You for choosing Raven This is firstname and who am I speaking with today
+306,306,742565280001,1,customer,"Uh yes, sir. This is {full_name:*****},",0,"Uh yes , sir . This { full_name : * * * * * } ,",Uh yes sir This is fullname
+307,307,742565280001,2,agent,"How are you today, sir?",0,"How today , sir ?",How are you today sir
+308,308,742565280001,3,customer,I'm doing great.,0,I 'm great .,Im doing great
+309,309,742565280001,4,agent,"Excellent, excellent. How can I help you?",0,"Excellent , excellent . How I help ?",Excellent excellent How can I help you
+310,310,742565280001,5,customer,Um.,0,Um .,Um
+311,311,742565280001,6,customer,"Well, I haven't been here in my hood for about three or four days. And then I come in and I keep getting the uh check switch status progress.",1,"Well , I n't hood three four days . And I come I keep getting uh check switch status progress .",Well I havent been here in my hood for about three or four days And then I come in and I keep getting the uh check switch status progress
+312,312,742565280001,7,customer,058 and it's been doing that for tech for. I've been trying to get on for two hours.,1,058 's tech . I 've trying get two hours .,058 and its been doing that for tech for Ive been trying to get on for two hours
+313,313,742565280001,8,customer,just sits there.,1,sits .,just sits there
+314,314,742565280001,9,agent,Okay.,0,Okay .,Okay
+315,315,742565280001,10,customer,And the.,0,And .,And the
+316,316,742565280001,11,agent,"Okay, um I is this connected to like an Raven like Snickers or Twix or.",1,"Okay , um I connected like Raven like Snickers Twix .",Okay um I is this connected to like an Raven like Snickers or Twix or
+317,317,742565280001,12,customer,Reese I guess that. Ha is every time familiar.,1,Reese I guess . Ha every time familiar .,Reese I guess that Ha is every time familiar
+318,318,742565280001,13,agent,"Um yeah, yeah, Toblerone is a manufacturer. Um is there a is there.",1,"Um yeah , yeah , Toblerone manufacturer . Um .",Um yeah yeah Toblerone is a manufacturer Um is there a is there
+319,319,742565280001,14,customer,"Toblerone, yeah.",1,"Toblerone , yeah .",Toblerone yeah
+320,320,742565280001,15,agent,Is there a separate name on on the Raven itself.,1,Is separate name Raven .,Is there a separate name on on the Raven itself
+321,321,742565280001,16,customer,"altogether Mars package, charged um X two X two.",1,"altogether Mars package , charged um X two X two .",altogether Mars package charged um X two X two
+322,322,742565280001,17,agent,"So Toblerone makes a balance, okay, okay, pass away, perfect. Sorry about that. I'm trying to be difficult, sir. I was just certain certain ones have different steps that I just wanted to make sure we went through the right steps, sir.",1,"So Toblerone makes balance , okay , okay , pass away , perfect . Sorry . I 'm trying difficult , sir . I certain certain ones different steps I wanted make sure went right steps , sir .",So Toblerone makes a balance okay okay pass away perfect Sorry about that Im trying to be difficult sir I was just certain certain ones have different steps that I just wanted to make sure we went through the right steps sir
+323,323,742565280001,18,customer,I you know I have two receivers and I went in there and unplugged the uh the one in the bedroom just to see if maybe that was an issue too.,1,I know I two receivers I went unplugged uh one bedroom see maybe issue .,I you know I have two receivers and I went in there and unplugged the uh the one in the bedroom just to see if maybe that was an issue too
+324,324,742565280001,19,customer,Yes.,0,Yes .,Yes
+325,325,742565280001,20,agent,"So the primary um is the one that's uh that you're looking at now, and it's it's giving you the signal loss message, correct? Or it's going to the acquiring signal, and it just never goes past there.",1,"So primary um one 's uh 're looking , 's 's giving signal loss message , correct ? Or 's going acquiring signal , never goes past .",So the primary um is the one thats uh that youre looking at now and its its giving you the signal loss message correct Or its going to the acquiring signal and it just never goes past there
+326,326,742565280001,21,customer,"Yeah, it's um I say, the little greenish blue line is probably a quarter of the way and it just sits there.",1,"Yeah , 's um I say , little greenish blue line probably quarter way sits .",Yeah its um I say the little greenish blue line is probably a quarter of the way and it just sits there
+327,327,742565280001,22,agent,"Okay, a couple questions. Is this mounted to the top of the RV or is it sitting like on a table?",1,"Okay , couple questions . Is mounted top RV sitting like table ?",Okay a couple questions Is this mounted to the top of the RV or is it sitting like on a table
+328,328,742565280001,23,customer,"No, I saw it's on the ground on a P on the uh Peter the three LADE.",1,"No , I saw 's ground P uh Peter three LADE .",No I saw its on the ground on a P on the uh Peter the three LADE
+329,329,742565280001,24,agent,"Okay, and like on a tripod?",1,"Okay , like tripod ?",Okay and like on a tripod
+330,330,742565280001,25,customer,"Yes, sir.",1,"Yes , sir .",Yes sir
+331,331,742565280001,26,agent,"Okay, perfect, and the southwest sky is that nice and clear, no branches no trees anything in the southwest.",1,"Okay , perfect , southwest sky nice clear , branches trees anything southwest .",Okay perfect and the southwest sky is that nice and clear no branches no trees anything in the southwest
+332,332,742565280001,27,customer,"Now I Ha. It's been working before, and like I said, I went home for a few days and came back, and uh this is not working now.",1,"Now I Ha . It 's working , like I said , I went home days came back , uh not working .",Now I Ha Its been working before and like I said I went home for a few days and came back and uh this is not working now
+333,333,742565280001,28,customer,"Okay, now we.",0,"Okay , .",Okay now we
+334,334,742565280001,29,agent,"Alright, I'll tell you what, sir, let let's do this. Is it possible. And I know it sounds a little silly. Is it possible to move it about a foot.",1,"Alright , I 'll tell , sir , let let 's . Is possible . And I know sounds little silly . Is possible move foot .",Alright Ill tell you what sir let lets do this Is it possible And I know it sounds a little silly Is it possible to move it about a foot
+335,335,742565280001,30,agent,long as it doesn't matter which direction as long as you still have a clear line of sight?,1,long n't matter direction long still clear line sight ?,long as it doesnt matter which direction as long as you still have a clear line of sight
+336,336,742565280001,31,customer,I.,0,I .,I
+337,337,742565280001,32,customer,It's spinning.,0,It 's spinning .,Its spinning
+338,338,742565280001,33,customer,I.,0,I .,I
+339,339,742565280001,34,customer,Alright.,0,Alright .,Alright
+340,340,742565280001,35,agent,"Alright, um now that you moved it a foot. Well, head back to that Hershey and will reboot that.",1,"Alright , um moved foot . Well , head back Hershey reboot .",Alright um now that you moved it a foot Well head back to that Hershey and will reboot that
+341,341,742565280001,36,agent,Uh let it go through that that setup again here.,1,Uh let go setup .,Uh let it go through that that setup again here
+342,342,742565280001,37,agent,I visit ever take you to the screen that I ask you what state you're in. And to run a scan.,1,I visit ever take screen I ask state 're . And run scan .,I visit ever take you to the screen that I ask you what state youre in And to run a scan
+343,343,742565280001,38,customer,"So no, so it says should take no more than five minutes to complete. Acquiring signal, the different thing came.",1,"So , says take five minutes complete . Acquiring signal , different thing came .",So no so it says should take no more than five minutes to complete Acquiring signal the different thing came
+344,344,742565280001,39,agent,"Okay, um we're gonna press and hold the power button on the front of Hershey for about five seconds until the screen goes blank.",1,"Okay , um 're gon na press hold power button front Hershey five seconds screen goes blank .",Okay um were gonna press and hold the power button on the front of Hershey for about five seconds until the screen goes blank
+345,345,742565280001,40,customer,uhhuh.,0,uhhuh .,uhhuh
+346,346,742565280001,41,agent,"Alright, you can let go. After that, and it should show. Hershey starting up here in just a moment.",1,"Alright , let go . After , show . Hershey starting moment .",Alright you can let go After that and it should show Hershey starting up here in just a moment
+347,347,742565280001,42,customer,It is.,0,It .,It is
+348,348,742565280001,43,agent,Perfect.,0,Perfect .,Perfect
+349,349,742565280001,44,agent,"Okay, so just a moment here.",0,"Okay , moment .",Okay so just a moment here
+350,350,742565280001,45,customer,A.,0,A .,A
+351,351,742565280001,46,agent,And while we're waiting here the um the port on the uh X. Two on the Peanutbutter where the coax cable goes into is that facing north.,1,And 're waiting um port uh X . Two Peanutbutter coax cable goes facing north .,And while were waiting here the um the port on the uh X Two on the Peanutbutter where the coax cable goes into is that facing north
+352,352,742565280001,47,customer,"I picked it up moved it, okay?",1,"I picked moved , okay ?",I picked it up moved it okay
+353,353,742565280001,48,agent,"as long as it's pretty North. It doesn't matter. I mean, um it doesn't have to be exactly North. But as long as it's not facing south.",1,"long 's pretty North . It n't matter . I mean , um n't exactly North . But long 's not facing south .",as long as its pretty North It doesnt matter I mean um it doesnt have to be exactly North But as long as its not facing south
+354,354,742565280001,49,customer,"No, it's facing kind of North I guess a little bit.",1,"No , 's facing kind North I guess little bit .",No its facing kind of North I guess a little bit
+355,355,742565280001,50,agent,"should be that should be fine. You don't have to move it again, sir?",1,"fine . You n't move , sir ?",should be that should be fine You dont have to move it again sir
+356,356,742565280001,51,customer,Okay.,0,Okay .,Okay
+357,357,742565280001,52,agent,I appreciate that.,0,I appreciate .,I appreciate that
+358,358,742565280001,53,customer,Yes.,0,Yes .,Yes
+359,359,742565280001,54,agent,"Alright, still showing. Hershey starting up.",1,"Alright , still showing . Hershey starting .",Alright still showing Hershey starting up
+360,360,742565280001,55,agent,Okay.,0,Okay .,Okay
+361,361,742565280001,56,customer,"Uh yes, says starting up. Yes, sir.",1,"Uh yes , says starting . Yes , sir .",Uh yes says starting up Yes sir
+362,362,742565280001,57,customer,Yep.,0,Yep .,Yep
+363,363,742565280001,58,agent,Now is that starting up down in the bottom corner like got some nines. After it.,1,Now starting bottom corner like got nines . After .,Now is that starting up down in the bottom corner like got some nines After it
+364,364,742565280001,59,customer,The {customer_delayed.digits4:####}.,1,The { customer_delayed.digits4 : # # # # } .,The customerdelayeddigits4
+365,365,742565280001,60,agent,Okay.,1,Okay .,Okay
+366,366,742565280001,61,customer,Now it comes up to the receiver one uh West.,1,Now comes receiver one uh West .,Now it comes up to the receiver one uh West
+367,367,742565280001,62,customer,"The mode and then the state, {address*****}. So that.",1,"The mode state , { address * * * * * } . So .",The mode and then the state address So that
+368,368,742565280001,63,agent,"Alright, and in the mode is it set for W A one with {customer_delayed.digits6:######} and 129.",1,"Alright , mode set W A one { customer_delayed.digits6 : # # # # # # } 129 .",Alright and in the mode is it set for W A one with customerdelayeddigits6 and 129
+369,369,742565280001,64,customer,"Yes, sir.",0,"Yes , sir .",Yes sir
+370,370,742565280001,65,agent,"Perfect. Let's go ahead and select scan, sir.",1,"Perfect . Let 's go ahead select scan , sir .",Perfect Lets go ahead and select scan sir
+371,371,742565280001,66,agent,I appreciate it.,0,I appreciate .,I appreciate it
+372,372,742565280001,67,agent,So progress bar filling in at all.,1,So progress bar filling .,So progress bar filling in at all
+373,373,742565280001,68,customer,"Yeah, it's about uh.",1,"Yeah , 's uh .",Yeah its about uh
+374,374,742565280001,69,customer,"A quarter of the way, right now.",1,"A quarter way , right .",A quarter of the way right now
+375,375,742565280001,70,agent,Okay.,0,Okay .,Okay
+376,376,742565280001,71,agent,shouldn't be too much longer here.,1,n't much longer .,shouldnt be too much longer here
+377,377,742565280001,72,customer,That's still the same.,1,That 's still .,Thats still the same
+378,378,742565280001,73,agent,Still at the about a quarter fool.,1,Still quarter fool .,Still at the about a quarter fool
+379,379,742565280001,74,customer,"Yes, sir. Yep.",0,"Yes , sir . Yep .",Yes sir Yep
+380,380,742565280001,75,agent,Mm.,0,Mm .,Mm
+381,381,742565280001,76,agent,give it another one minute here. I will set the time here and see if it makes any move in that minute.,1,give another one minute . I set time see makes move minute .,give it another one minute here I will set the time here and see if it makes any move in that minute
+382,382,742565280001,77,agent,"Another question. The coax cable that screwed on the back of the power is that going to directly to the back of Hershey, or is it using the RV walls.",1,"Another question . The coax cable screwed back power going directly back Hershey , using RV walls .",Another question The coax cable that screwed on the back of the power is that going to directly to the back of Hershey or is it using the RV walls
+383,383,742565280001,78,customer,"No, I just directly to the uh Hershey",1,"No , I directly uh Hershey",No I just directly to the uh Hershey
+384,384,742565280001,79,customer,"Yeah, I've had.",0,"Yeah , I 've .",Yeah Ive had
+385,385,742565280001,80,agent,Okay. Okay.,0,Okay . Okay .,Okay Okay
+386,386,742565280001,81,agent,And {address:*****}. I'm sorry. Go ahead.,0,And { address : * * * * * } . I 'm sorry . Go ahead .,And address Im sorry Go ahead
+387,387,742565280001,82,customer,"Now, I have not received before and I had this.",1,"Now , I not received I .",Now I have not received before and I had this
+388,388,742565280001,83,customer,is what now?,0,?,is what now
+389,389,742565280001,84,agent,Okay.,0,Okay .,Okay
+390,390,742565280001,85,agent,Uh how high is the Toblerone off the ground.,1,Uh high Toblerone ground .,Uh how high is the Toblerone off the ground
+391,391,742565280001,86,customer,Um the tripod's probably about two feet.,1,Um tripod 's probably two feet .,Um the tripods probably about two feet
+392,392,742565280001,87,customer,not moving at all.,1,not moving .,not moving at all
+393,393,742565280001,88,agent,Okay. Okay.,0,Okay . Okay .,Okay Okay
+394,394,742565280001,89,agent,"Alright, so mm. Have you ever uh downloaded a Kit kat app onto your phone.",1,"Alright , mm . Have ever uh downloaded Kit kat app onto phone .",Alright so mm Have you ever uh downloaded a Kit kat app onto your phone
+395,395,742565280001,90,customer,Now that's new new one to me.,0,Now 's new new one .,Now thats new new one to me
+396,396,742565280001,91,agent,"Well, they they literally have a ton of different ones. Um what it does is it kinda confirms the line of sight make sure that there's.",1,"Well , literally ton different ones . Um kinda confirms line sight make sure 's .",Well they they literally have a ton of different ones Um what it does is it kinda confirms the line of sight make sure that theres
+397,397,742565280001,92,agent,"I'm sorry, go ahead.",0,"I 'm sorry , go ahead .",Im sorry go ahead
+398,398,742565280001,93,customer,"Well, now I I I mean, if anything, cha hasn't changed.",0,"Well , I I I mean , anything , cha n't changed .",Well now I I I mean if anything cha hasnt changed
+399,399,742565280001,94,customer,It's been facing kinda.,0,It 's facing kinda .,Its been facing kinda
+400,400,742565280001,95,customer,"There's no. trailers or nothing on the other side of me, and it's been facing away from my trailer straight.",1,"There 's . trailers nothing side , 's facing away trailer straight .",Theres no trailers or nothing on the other side of me and its been facing away from my trailer straight
+401,401,742565280001,96,customer,Kinda Des.,0,Kinda Des .,Kinda Des
+402,402,742565280001,97,customer,And now.,0,And .,And now
+403,403,742565280001,98,customer,It's been in all crazy in different directions.,1,It 's crazy different directions .,Its been in all crazy in different directions
+404,404,742565280001,99,customer,just going around and.,1,going around .,just going around and
+405,405,742565280001,100,agent,"Yeah, it's I it's trying to still lock into the satellites. It does have a bit of trouble trying to find the satellites.",1,"Yeah , 's I 's trying still lock satellites . It bit trouble trying find satellites .",Yeah its I its trying to still lock into the satellites It does have a bit of trouble trying to find the satellites
+406,406,742565280001,101,customer,"It is. Yes, sir.",0,"It . Yes , sir .",It is Yes sir
+407,407,742565280001,102,agent,Do you still have the primary or the secondary line connected to the back of the top way.,1,Do still primary secondary line connected back top way .,Do you still have the primary or the secondary line connected to the back of the top way
+408,408,742565280001,103,agent,I don't think that should really matter. Um.,0,I n't think really matter . Um .,I dont think that should really matter Um
+409,409,742565280001,104,agent,"Do you wanna I mean, cause you've already got Hershey unplugged, don't you?",1,"Do wan na I mean , cause 've already got Hershey unplugged , n't ?",Do you wanna I mean cause youve already got Hershey unplugged dont you
+410,410,742565280001,105,customer,"Uh the one in the bedroom, yes, for the 2nd receiver just unplugged the whole thing. Yes.",1,"Uh one bedroom , yes , 2nd receiver unplugged whole thing . Yes .",Uh the one in the bedroom yes for the 2nd receiver just unplugged the whole thing Yes
+411,411,742565280001,106,customer,then it keeps wanting to face.,0,keeps wanting face .,then it keeps wanting to face
+412,412,742565280001,107,agent,"Yeah, that shouldn't matter at all.",0,"Yeah , n't matter .",Yeah that shouldnt matter at all
+413,413,742565280001,108,customer,more East.,0,East .,more East
+414,414,742565280001,109,customer,"Oh, now it's been in around the other way.",0,"Oh , 's around way .",Oh now its been in around the other way
+415,415,742565280001,110,customer,"So like you said, I can't find one, so.",0,"So like said , I ca n't find one , .",So like you said I cant find one so
+416,416,742565280001,111,agent,And there's no um rain clouds or anything in the sky.,1,And 's um rain clouds anything sky .,And theres no um rain clouds or anything in the sky
+417,417,742565280001,112,customer,That was clear. It's 100 and.,1,That clear . It 's 100 .,That was clear Its 100 and
+418,418,742565280001,113,agent,Okay.,0,Okay .,Okay
+419,419,742565280001,114,agent,"Yes, sir.",0,"Yes , sir .",Yes sir
+420,420,742565280001,115,customer,Do you want me to turn that more the.,1,Do want turn .,Do you want me to turn that more the
+421,421,742565280001,116,customer,"North. I mean, I can.",1,"North . I mean , I .",North I mean I can
+422,422,742565280001,117,customer,"Okay, let me go ahead and.",1,"Okay , let go ahead .",Okay let me go ahead and
+423,423,742565280001,118,agent,"I mean, we can try it. Um.",1,"I mean , try . Um .",I mean we can try it Um
+424,424,742565280001,119,customer,"I mean, I'm.",0,"I mean , I 'm .",I mean Im
+425,425,742565280001,120,agent,It it sh?,0,It sh ?,It it sh
+426,426,742565280001,121,customer,I could I pick the cable. Which erases up about four feet.,1,I could I pick cable . Which erases four feet .,I could I pick the cable Which erases up about four feet
+427,427,742565280001,122,agent,Is there any way you could set it up a little higher off the ground than the then a couple feet.,1,Is way could set little higher ground couple feet .,Is there any way you could set it up a little higher off the ground than the then a couple feet
+428,428,742565280001,123,customer,Give me a second.,0,Give second .,Give me a second
+429,429,742565280001,124,agent,"Alright, um as long as it's nice and level within four degrees and level that should work.",1,"Alright , um long 's nice level within four degrees level work .",Alright um as long as its nice and level within four degrees and level that should work
+430,430,742565280001,125,agent,"Yes, sir.",0,"Yes , sir .",Yes sir
+431,431,742565280001,126,customer,Alright.,0,Alright .,Alright
+432,432,742565280001,127,customer,Okay.,0,Okay .,Okay
+433,433,742565280001,128,agent,"Alright, once we got that moved again. We're gonna go ahead and reboot that Hershey one more time.",1,"Alright , got moved . We 're gon na go ahead reboot Hershey one time .",Alright once we got that moved again Were gonna go ahead and reboot that Hershey one more time
+434,434,742565280001,129,customer,Uh starting up.,0,Uh starting .,Uh starting up
+435,435,742565280001,130,agent,Okay.,0,Okay .,Okay
+436,436,742565280001,131,customer,"So what was the app that you were talking about. I mean, the the location, I guess.",1,"So app talking . I mean , location , I guess .",So what was the app that you were talking about I mean the the location I guess
+437,437,742565280001,132,customer,On the phone.,0,On phone .,On the phone
+438,438,742565280001,133,agent,"Um yeah, it's called Kit Kat",1,"Um yeah , 's called Kit Kat",Um yeah its called Kit Kat
+439,439,742565280001,134,agent,"If you go to your app store and you just type in Kit Kat and do the search from there, it should pull up that size wanna say the 2nd or 3rd option, it'll be Kit Kat , and it's spelled K I T. It's got a green picture of uh like a satellite off to the side.",1,"If go app store type Kit Kat search , pull size wan na say 2nd 3rd option , 'll Kit Kat , 's spelled K I T. It 's got green picture uh like satellite side .",If you go to your app store and you just type in Kit Kat and do the search from there it should pull up that size wanna say the 2nd or 3rd option itll be Kit Kat  and its spelled K I T Its got a green picture of uh like a satellite off to the side
+440,440,742565280001,135,agent,"Yes, sir.",0,"Yes , sir .",Yes sir
+441,441,742565280001,136,customer,"Alright, now it's back to the so do the receiver and the scan it again.",1,"Alright , 's back receiver scan .",Alright now its back to the so do the receiver and the scan it again
+442,442,742565280001,137,customer,"Yes, sir.",0,"Yes , sir .",Yes sir
+443,443,742565280001,138,agent,Now are you usually using the {customer_delayed.digits6:######} and 129 when both of them are set up.,1,Now usually using { customer_delayed.digits6 : # # # # # # } 129 set .,Now are you usually using the customerdelayeddigits6 and 129 when both of them are set up
+444,444,742565280001,139,agent,Okay. Okay.,0,Okay . Okay .,Okay Okay
+445,445,742565280001,140,customer,Yeah.,0,Yeah .,Yeah
+446,446,742565280001,141,agent,Has it gotten you to the uh scan screen yet?,1,Has gotten uh scan screen yet ?,Has it gotten you to the uh scan screen yet
+447,447,742565280001,142,customer,"Yeah, the uh bars about the same as last time.",1,"Yeah , uh bars last time .",Yeah the uh bars about the same as last time
+448,448,742565280001,143,customer,Not the quarter of a white almost to the stop not quite like an HD to the stop.,1,Not quarter white almost stop not quite like HD stop .,Not the quarter of a white almost to the stop not quite like an HD to the stop
+449,449,742565280001,144,agent,Okay.,0,Okay .,Okay
+450,450,742565280001,145,customer,"Nope, it's not moving at?",1,"Nope , 's not moving ?",Nope its not moving at
+451,451,742565280001,146,agent,Mm.,0,Mm .,Mm
+452,452,742565280001,147,agent,"Alright, so well, I mean with only three points of failure here. I mean Hershey itself, the coax cable and the Godiva itself all of which seem to be working fine. The only other thing would be Kit Kat?",1,"Alright , well , I mean three points failure . I mean Hershey , coax cable Godiva seem working fine . The thing would Kit Kat ?",Alright so well I mean with only three points of failure here I mean Hershey itself the coax cable and the Godiva itself all of which seem to be working fine The only other thing would be Kit Kat
+453,453,742565280001,148,agent,"However, so what I would do I would I would certainly check that.",1,"However , I would I would I would certainly check .",However so what I would do I would I would certainly check that
+454,454,742565280001,149,agent,"that app I I know you always get it there before for some strange reason, it's not getting it here if that does. I'm sorry. Go ahead, sir.",1,"app I I know always get strange reason , 's not getting . I 'm sorry . Go ahead , sir .",that app I I know you always get it there before for some strange reason its not getting it here if that does Im sorry Go ahead sir
+455,455,742565280001,150,customer,Did you give me{customer_delayed.password:*} I{customer_delayed.password:*}m sorry{customer_delayed.password:*} Can you give me the app{customer_delayed.password:*} one more time I that I just got me a pin to write it down{customer_delayed.password:*} I know it was like something before that{customer_delayed.password:*},1,Did give { customer_delayed.password : * } I { customer_delayed.password : * } sorry { customer_delayed.password : * } Can give app { customer_delayed.password : * } one time I I got pin write { customer_delayed.password : * } I know like something { customer_delayed.password : * },Did you give mecustomerdelayedpassword Icustomerdelayedpasswordm sorrycustomerdelayedpassword Can you give me the appcustomerdelayedpassword one more time I that I just got me a pin to write it downcustomerdelayedpassword I know it was like something before thatcustomerdelayedpassword
+456,456,742565280001,151,agent,"Sure, yeah, yeah, not not a problem. Yeah, it's uh Kit Kat. Three different words?",1,"Sure , yeah , yeah , not not problem . Yeah , 's uh Kit Kat . Three different words ?",Sure yeah yeah not not a problem Yeah its uh Kit Kat Three different words
+457,457,742565280001,152,customer,Okay.,0,Okay .,Okay
+458,458,742565280001,153,agent,"Now, when you do the search, you will only wanna search for Kit Kat for some strange reason, when you push that Kit Kat in it doesn't pull it up. I don't know why, but I promise if you just type in Kit Kat and search from there. It'll be the 2nd or 3rd option for you.",1,"Now , search , wan na search Kit Kat strange reason , push Kit Kat n't pull . I n't know , I promise type Kit Kat search . It 'll 2nd 3rd option .",Now when you do the search you will only wanna search for Kit Kat for some strange reason when you push that Kit Kat in it doesnt pull it up I dont know why but I promise if you just type in Kit Kat and search from there Itll be the 2nd or 3rd option for you
+459,459,742565280001,154,customer,And and then added. I'm sorry. Go ahead.,0,And added . I 'm sorry . Go ahead .,And and then added Im sorry Go ahead
+460,460,742565280001,155,agent,Have you TR.,0,Have TR .,Have you TR
+461,461,742565280001,156,agent,"Uh do you happen to have a I'm sorry, sir, do you happen to have another coax cable that you could try.",1,"Uh happen I 'm sorry , sir , happen another coax cable could try .",Uh do you happen to have a Im sorry sir do you happen to have another coax cable that you could try
+462,462,742565280001,157,customer,"Um no, I don't. I have to when I ordered it, I ordered one. The the 25 feet, so it'll run me into one I had it ran into the T back of the TV. So it's so it's all. One solid piece.",1,"Um , I n't . I I ordered , I ordered one . The 25 feet , 'll run one I ran T back TV . So 's 's . One solid piece .",Um no I dont I have to when I ordered it I ordered one The the 25 feet so itll run me into one I had it ran into the T back of the TV So its so its all One solid piece
+463,463,742565280001,158,agent,"Oh, okay. Okay, I see what you're saying you you had a customer installed that cable itself, specifically?",1,"Oh , okay . Okay , I see 're saying customer installed cable , specifically ?",Oh okay Okay I see what youre saying you you had a customer installed that cable itself specifically
+464,464,742565280001,159,agent,Cause I is that on both of them as well.,1,Cause I well .,Cause I is that on both of them as well
+465,465,742565280001,160,customer,"Yeah, just specifically for that, and it goes straight to the Hershey That way it's Yes, sir? Correct?",1,"Yeah , specifically , goes straight Hershey That way 's Yes , sir ? Correct ?",Yeah just specifically for that and it goes straight to the Hershey That way its Yes sir Correct
+466,466,742565280001,161,customer,uhhuh.,0,uhhuh .,uhhuh
+467,467,742565280001,162,agent,"Ah, okay. Okay, um one thing I uh so there's a couple different options that Kit Kat app, that'll confirm, just to make sure you do have 100 percent clear line of sight, um if you do, which I'm sure you do.",1,"Ah , okay . Okay , um one thing I uh 's couple different options Kit Kat app , 'll confirm , make sure 100 percent clear line sight , um , I 'm sure .",Ah okay Okay um one thing I uh so theres a couple different options that Kit Kat app thatll confirm just to make sure you do have 100 percent clear line of sight um if you do which Im sure you do
+468,468,742565280001,163,agent,"There's also uh I the next thing I would try is maybe picking up you know another 25 foot coax, you could probably get that at like Walmart or?",1,"There 's also uh I next thing I would try maybe picking know another 25 foot coax , could probably get like Walmart ?",Theres also uh I the next thing I would try is maybe picking up you know another 25 foot coax you could probably get that at like Walmart or
+469,469,742565280001,164,agent,Target or something like that.,1,Target something like .,Target or something like that
+470,470,742565280001,165,agent,Uh maybe even the dollar store. Um it does have to be RG six rated if you wanna drop that down as well.,1,Uh maybe even dollar store . Um RG six rated wan na drop well .,Uh maybe even the dollar store Um it does have to be RG six rated if you wanna drop that down as well
+471,471,742565280001,166,customer,Alright.,0,Alright .,Alright
+472,472,742565280001,167,customer,"No, sir, I don't.",0,"No , sir , I n't .",No sir I dont
+473,473,742565280001,168,agent,Um and then if that doesn{customer_delayed.password:*}t work{customer_delayed.password:*} then I would certainly call Twix um{customer_delayed.password:*} and they will have you check a few things with the password{customer_delayed.password:*} specifically{customer_delayed.password:*} Do you have their number{customer_delayed.password:*},1,Um { customer_delayed.password : * } work { customer_delayed.password : * } I would certainly call Twix um { customer_delayed.password : * } check things password { customer_delayed.password : * } specifically { customer_delayed.password : * } Do number { customer_delayed.password : * },Um and then if that doesncustomerdelayedpasswordt workcustomerdelayedpassword then I would certainly call Twix umcustomerdelayedpassword and they will have you check a few things with the passwordcustomerdelayedpassword specificallycustomerdelayedpassword Do you have their numbercustomerdelayedpassword
+474,474,742565280001,169,agent,"You still have something to write with, sir?",0,"You still something write , sir ?",You still have something to write with sir
+475,475,742565280001,170,customer,"I did, yes, sir.",0,"I , yes , sir .",I did yes sir
+476,476,742565280001,171,agent,"Perfect, so it's gonna be one {phone_number:***}",1,"Perfect , 's gon na one { phone_number : * * * }",Perfect so its gonna be one phonenumber
+477,477,742565280001,172,agent,{phone_number:***},1,{ phone_number : * * * },phonenumber
+478,478,742565280001,173,agent,{customer_delayed.digits4:####}.,1,{ customer_delayed.digits4 : # # # # } .,customerdelayeddigits4
+479,479,742565280001,174,customer,mhm okay.,0,mhm okay .,mhm okay
+480,480,742565280001,175,agent,"And when I if you if you do need to call them when you get a hold of them, just let them know that you spoke with a Raven technician uh we've checked every possible point of failure, and it um and you do have a clear line of sight. That'll be after you've checked that Kit Kat app.",1,"And I need call get hold , let know spoke Raven technician uh 've checked every possible point failure , um clear line sight . That 'll 've checked Kit Kat app .",And when I if you if you do need to call them when you get a hold of them just let them know that you spoke with a Raven technician uh weve checked every possible point of failure and it um and you do have a clear line of sight Thatll be after youve checked that Kit Kat app
+481,481,742565280001,176,agent,Um and you've even changed out the coax cable.,1,Um 've even changed coax cable .,Um and youve even changed out the coax cable
+482,482,742565280001,177,agent,At that point um you know there is nothing else that they can check other than some things on the Toblerone itself.,1,At point um know nothing else check things Toblerone .,At that point um you know there is nothing else that they can check other than some things on the Toblerone itself
+483,483,742565280001,178,customer,"Okay, I'll do.",1,"Okay , I 'll .",Okay Ill do
+484,484,742565280001,179,agent,"Okay, I I'm so sorry, sir. I wish I had a better answer for you?",0,"Okay , I I 'm sorry , sir . I wish I better answer ?",Okay I Im so sorry sir I wish I had a better answer for you
+485,485,742565280001,180,customer,"Yes, sir. No, you're fine. I appreciate the info. Thank you.",0,"Yes , sir . No , 're fine . I appreciate info . Thank .",Yes sir No youre fine I appreciate the info Thank you
+486,486,742565280001,181,agent,Not a problem at all. Is there anything else I can help you out with?,0,Not problem . Is anything else I help ?,Not a problem at all Is there anything else I can help you out with
+487,487,742565280001,182,customer,"No, sir. Thank you.",0,"No , sir . Thank .",No sir Thank you
+488,488,742565280001,183,agent,"Alright, sir. You have a good rest of your day now.",0,"Alright , sir . You good rest day .",Alright sir You have a good rest of your day now
+489,489,742565280001,184,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+490,490,742566630001,0,agent,Are you calling about the account with the last name starting with {last_name:***},0,Are calling account last name starting { last_name : * * * },Are you calling about the account with the last name starting with lastname
+491,491,742566630001,1,customer,Yes.,0,Yes .,Yes
+492,492,742566630001,2,agent,You are agreeing to a new 24 month commitment with a $10.,0,You agreeing new 24 month commitment $ 10 .,You are agreeing to a new 24 month commitment with a 10
+493,493,742566630001,3,agent,"Okay, yeah, we'll have to try it again. one moment.",0,"Okay , yeah , 'll try . one moment .",Okay yeah well have to try it again one moment
+494,494,742566630001,4,customer,What happened?,0,What happened ?,What happened
+495,495,742566630001,5,agent,"Yeah, I'm just fixing something on my end.",0,"Yeah , I 'm fixing something end .",Yeah Im just fixing something on my end
+496,496,742566630001,6,customer,"Oh, okay.",0,"Oh , okay .",Oh okay
+497,497,742566630001,7,agent,"Okay, I'll send you over again. one moment.",0,"Okay , I 'll send . one moment .",Okay Ill send you over again one moment
+498,498,742566630001,8,agent,Here we.,0,Here .,Here we
+499,499,742566630001,9,agent,Espanol hopery mouth.,0,Espanol hopery mouth .,Espanol hopery mouth
+500,500,742566630001,10,agent,as part of this call. We may collect and ask you to provide personal information so that we can provide the best service possible.,0,part call . We may collect ask provide personal information provide best service possible .,as part of this call We may collect and ask you to provide personal information so that we can provide the best service possible
+501,501,742566630001,11,agent,"Learn more, please. See, our privacy policy at raven .com.",0,"Learn , please . See , privacy policy raven .com .",Learn more please See our privacy policy at raven com
+502,502,742566630001,12,agent,I see an account having the last name starting with {last_name:***} is this the account you're calling about?,0,I see account last name starting { last_name : * * * } account 're calling ?,I see an account having the last name starting with lastname is this the account youre calling about
+503,503,742566630001,13,customer,Yes.,0,Yes .,Yes
+504,504,742566630001,14,agent,You are agreeing to a new 24 month commitment with a $10 per month early termination fee.,1,You agreeing new 24 month commitment $ 10 per month early termination fee .,You are agreeing to a new 24 month commitment with a 10 per month early termination fee
+505,505,742566630001,15,agent,"If you agree and accept this offer, please enter your security code followed by pound key. If you do not agree, press the star key.",0,"If agree accept offer , please enter security code followed pound key . If not agree , press star key .",If you agree and accept this offer please enter your security code followed by pound key If you do not agree press the star key
+506,506,742566630001,16,customer,Okay.,0,Okay .,Okay
+507,507,742566630001,17,agent,"Alright, so I heard that you have successfully accepted. Your new commitment. Let me just refresh your account to see if it's successfully applied, okay? Hold on. Okay, great. Uh you did a good job. Um it successfully accepted uh will be at?",1,"Alright , I heard successfully accepted . Your new commitment . Let refresh account see 's successfully applied , okay ? Hold . Okay , great . Uh good job . Um successfully accepted uh ?",Alright so I heard that you have successfully accepted Your new commitment Let me just refresh your account to see if its successfully applied okay Hold on Okay great Uh you did a good job Um it successfully accepted uh will be at
+508,508,742566630001,18,agent,Okay.,0,Okay .,Okay
+509,509,742566630001,19,agent,"Will be without Raven Protect Ruby, right?",1,"Will without Raven Protect Ruby , right ?",Will be without Raven Protect Ruby right
+510,510,742566630001,20,customer,What was.,0,What .,What was
+511,511,742566630001,21,customer,I.,0,I .,I
+512,512,742566630001,22,agent,"Yeah, we'll also remove your insurance uh plan. So yeah, we'll be at?",1,"Yeah , 'll also remove insurance uh plan . So yeah , 'll ?",Yeah well also remove your insurance uh plan So yeah well be at
+513,513,742566630001,23,agent,It's not giving me the price yet. one moment.,1,It 's not giving price yet . one moment .,Its not giving me the price yet one moment
+514,514,742566630001,24,customer,Okay.,0,Okay .,Okay
+515,515,742566630001,25,agent,{customer_delayed.digits4:####} to be exact.,1,{ customer_delayed.digits4 : # # # # } exact .,customerdelayeddigits4 to be exact
+516,516,742566630001,26,customer,Okay.,1,Okay .,Okay
+517,517,742566630001,27,agent,"Alright, is there any other um concerns that I may assist you before I let you go?",0,"Alright , um concerns I may assist I let go ?",Alright is there any other um concerns that I may assist you before I let you go
+518,518,742566630001,28,customer,"Nope, uh so my bill on the 25th will just be for 170, right?",1,"Nope , uh bill 25th 170 , right ?",Nope uh so my bill on the 25th will just be for 170 right
+519,519,742566630001,29,agent,Yes.,1,Yes .,Yes
+520,520,742566630001,30,customer,"And then next month on uh July uh on the 27th or 25th, it'll be 79.",1,"And next month uh July uh 27th 25th , 'll 79 .",And then next month on uh July uh on the 27th or 25th itll be 79
+521,521,742566630001,31,customer,Okay.,1,Okay .,Okay
+522,522,742566630001,32,agent,"Yes, it may be lower than 79 because of some adjustment on the billing cycle.",1,"Yes , may lower 79 adjustment billing cycle .",Yes it may be lower than 79 because of some adjustment on the billing cycle
+523,523,742566630001,33,customer,"Okay, but okay, but that's what I could expect.",1,"Okay , okay , 's I could expect .",Okay but okay but thats what I could expect
+524,524,742566630001,34,agent,Yes.,0,Yes .,Yes
+525,525,742566630001,35,customer,won't ever be more than 79 that's the big thing. Alright.,1,wo n't ever 79 's big thing . Alright .,wont ever be more than 79 thats the big thing Alright
+526,526,742566630001,36,customer,Appreciate your help.,0,Appreciate help .,Appreciate your help
+527,527,742566630001,37,agent,Yeah.,0,Yeah .,Yeah
+528,528,742566630001,38,agent,Alright.,0,Alright .,Alright
+529,529,742566630001,39,agent,"And in the event that you were looking for some additional um let's say military uh stations uh you can add the Superman Package on your account for $5 a month for six months, okay?",0,"And event looking additional um let 's say military uh stations uh add Superman Package account $ 5 month six months , okay ?",And in the event that you were looking for some additional um lets say military uh stations uh you can add the Superman Package on your account for 5 a month for six months okay
+530,530,742566630001,40,customer,"Oh, okay. Well, I appreciate it. Thank you very much.",1,"Oh , okay . Well , I appreciate . Thank much .",Oh okay Well I appreciate it Thank you very much
+531,531,742566630001,41,customer,Uh.,0,Uh .,Uh
+532,532,742566630001,42,agent,"You're welcome. Have a great day and be safe out there, goodbye.",0,"You 're welcome . Have great day safe , goodbye .",Youre welcome Have a great day and be safe out there goodbye
+533,533,742566630001,43,customer,"Thank you, bye.",0,"Thank , bye .",Thank you bye
+534,534,742566630001,44,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+535,535,742572680001,0,agent,Raven. My name is {first_name:***}. How may I help you?,0,Raven . My name { first_name : * * * } . How may I help ?,Raven My name is firstname How may I help you
+536,536,742572680001,1,customer,"Well, evidently, uh I owe you money, you turned my TV off and I don't have nothing to watch.",1,"Well , evidently , uh I owe money , turned TV I n't nothing watch .",Well evidently uh I owe you money you turned my TV off and I dont have nothing to watch
+537,537,742572680001,2,agent,"Alright, let's see.",0,"Alright , let 's see .",Alright lets see
+538,538,742572680001,3,customer,"Mash amazing you all can't pick up the phone and call, just turn it off.",0,"Mash amazing ca n't pick phone call , turn .",Mash amazing you all cant pick up the phone and call just turn it off
+539,539,742572680001,4,customer,Well.,0,Well .,Well
+540,540,742572680001,5,agent,"Alright, looks like your service is still on. It wasn't S gonna be scheduled to be cut off another two days. What are you currently getting on this.",1,"Alright , looks like service still . It n't S gon na scheduled cut another two days . What currently getting .",Alright looks like your service is still on It wasnt S gonna be scheduled to be cut off another two days What are you currently getting on this
+541,541,742572680001,6,customer,There's nothing on my TV. That's why I'm calling you.,1,There 's nothing TV . That 's I 'm calling .,Theres nothing on my TV Thats why Im calling you
+542,542,742572680001,7,agent,"Okay, is the TV screen blank.",1,"Okay , TV screen blank .",Okay is the TV screen blank
+543,543,742572680001,8,customer,"I ha I now gotta go back upstairs. I had to come downstairs to get my purse to get a credit card, and I've gotta go back up and tell you what it says. It has a big silver thing that had a bunch of writing on it. I don't know what it said.",1,"I ha I got ta go back upstairs . I come downstairs get purse get credit card , I 've got ta go back tell says . It big silver thing bunch writing . I n't know said .",I ha I now gotta go back upstairs I had to come downstairs to get my purse to get a credit card and Ive gotta go back up and tell you what it says It has a big silver thing that had a bunch of writing on it I dont know what it said
+544,544,742572680001,9,agent,Okay.,0,Okay .,Okay
+545,545,742572680001,10,customer,"I came home to watch a movie. And of course, I can't watch it now.",1,"I came home watch movie . And course , I ca n't watch .",I came home to watch a movie And of course I cant watch it now
+546,546,742572680001,11,customer,"cannot believe you, I would turn my {voice.profanity:XXXXXXX} TV off.",1,"not believe , I would turn { voice.profanity : XXXXXXX } TV .",cannot believe you I would turn my voiceprofanityXXXXXXX TV off
+547,547,742572680001,12,customer,had your old business for how many years?,1,old business many years ?,had your old business for how many years
+548,548,742572680001,13,customer,And then you treat me like this.,1,And treat like .,And then you treat me like this
+549,549,742572680001,14,customer,I'm on a chair till like {voice.creditcard.digitsTranscribed:###} chair going up my stairs. It takes a minute.,1,I 'm chair till like { voice.creditcard.digitsTranscribed : # # # } chair going stairs . It takes minute .,Im on a chair till like voicecreditcarddigitsTranscribed chair going up my stairs It takes a minute
+550,550,742572680001,15,agent,No problem. Excuse me?,0,No problem . Excuse ?,No problem Excuse me
+551,551,742572680001,16,customer,"I'm old, and that very irritating to come on and not have any TV.",1,"I 'm old , irritating come not TV .",Im old and that very irritating to come on and not have any TV
+552,552,742572680001,17,agent,"Yes, ma'am. Now, is that the smaller receiver upstairs or is that the big main receiver upstairs.",1,"Yes , ma'am . Now , smaller receiver upstairs big main receiver upstairs .",Yes maam Now is that the smaller receiver upstairs or is that the big main receiver upstairs
+553,553,742572680001,18,customer,"My main TV, and my TV room.",1,"My main TV , TV room .",My main TV and my TV room
+554,554,742572680001,19,agent,Okay.,0,Okay .,Okay
+555,555,742572680001,20,customer,"Okay, now I'm up here. Now, going in there, so I can tell you what it says.",0,"Okay , I 'm . Now , going , I tell says .",Okay now Im up here Now going in there so I can tell you what it says
+556,556,742572680001,21,customer,"Oh, so irritating. The big gray screen to watch a video of the below step visit Raven receiver, O, you know what it says. From there, don't you?",1,"Oh , irritating . The big gray screen watch video step visit Raven receiver , O , know says . From , n't ?",Oh so irritating The big gray screen to watch a video of the below step visit Raven receiver O you know what it says From there dont you
+557,557,742572680001,22,customer,I got the reading all to you.,1,I got reading .,I got the reading all to you
+558,558,742572680001,23,agent,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+559,559,742572680001,24,agent,"Alright, on your Raven remote, do you have a button that has a picture of a house on it?",1,"Alright , Raven remote , button picture house ?",Alright on your Raven remote do you have a button that has a picture of a house on it
+560,560,742572680001,25,customer,"just a minute house, yes.",1,"minute house , yes .",just a minute house yes
+561,561,742572680001,26,agent,"Go ahead and press that {voice.creditcard.digitsTranscribed:###} time for me, please?",1,"Go ahead press { voice.creditcard.digitsTranscribed : # # # } time , please ?",Go ahead and press that voicecreditcarddigitsTranscribed time for me please
+562,562,742572680001,27,customer,"Okay, I pressed it. Nothing happened.",1,"Okay , I pressed . Nothing happened .",Okay I pressed it Nothing happened
+563,563,742572680001,28,agent,Alright.,0,Alright .,Alright
+564,564,742572680001,29,customer,"Oh, now it's starting to the little blue dots are moving.",1,"Oh , 's starting little blue dots moving .",Oh now its starting to the little blue dots are moving
+565,565,742572680001,30,customer,"Okay, now it's showing.",1,"Okay , 's showing .",Okay now its showing
+566,566,742572680001,31,customer,all the pictures like maybe it's on what do.,1,pictures like maybe 's .,all the pictures like maybe its on what do
+567,567,742572680001,32,agent,Is it showing you the my channels on now.,1,Is showing channels .,Is it showing you the my channels on now
+568,568,742572680001,33,customer,Yeah.,0,Yeah .,Yeah
+569,569,742572680001,34,agent,"Alright, and can you go and highlight {voice.creditcard.digitsTranscribed:###} of those channels is listed under My Channels on now and press select on that, please?",1,"Alright , go highlight { voice.creditcard.digitsTranscribed : # # # } channels listed My Channels press select , please ?",Alright and can you go and highlight voicecreditcarddigitsTranscribed of those channels is listed under My Channels on now and press select on that please
+570,570,742572680001,35,customer,I did the to watch a video thing came back on.,0,I watch video thing came back .,I did the to watch a video thing came back on
+571,571,742572680001,36,agent,"Alright, what I want you to do now is go ahead and press the house button for me. {voice.creditcard.digitsTranscribed:#####} times, please.",1,"Alright , I want go ahead press house button . { voice.creditcard.digitsTranscribed : # # # # # } times , please .",Alright what I want you to do now is go ahead and press the house button for me voicecreditcarddigitsTranscribed times please
+572,572,742572680001,37,customer,"The house button? Okay, {voice.creditcard.digitsTranscribed:###}.",1,"The house button ? Okay , { voice.creditcard.digitsTranscribed : # # # } .",The house button Okay voicecreditcarddigitsTranscribed
+573,573,742572680001,38,customer,"Now it says model Hershey with the Sweet receiver ID, smart card and all that stuff.",1,"Now says model Hershey Sweet receiver ID , smart card stuff .",Now it says model Hershey with the Sweet receiver ID smart card and all that stuff
+574,574,742572680001,39,customer,R {voice.creditcard.digitsTranscribed:###}.,1,R { voice.creditcard.digitsTranscribed : # # # } .,R voicecreditcarddigitsTranscribed
+575,575,742572680001,40,agent,"Alright, can you read off the smart card number from. I mean, the receiver ID number for me, please?",1,"Alright , read smart card number . I mean , receiver ID number , please ?",Alright can you read off the smart card number from I mean the receiver ID number for me please
+576,576,742572680001,41,customer,{voice.creditcard.digitsTranscribed:#######} dash {voice.creditcard.digitsTranscribed:##}.,1,{ voice.creditcard.digitsTranscribed : # # # # # # # } dash { voice.creditcard.digitsTranscribed : # # } .,voicecreditcarddigitsTranscribed dash voicecreditcarddigitsTranscribed
+577,577,742572680001,42,customer,Yes.,0,Yes .,Yes
+578,578,742572680001,43,agent,"Alright, thank you much. Now, with your permission, can I connect remotely to the Hershey so we can troubleshoot it.",1,"Alright , thank much . Now , permission , I connect remotely Hershey troubleshoot .",Alright thank you much Now with your permission can I connect remotely to the Hershey so we can troubleshoot it
+579,579,742572680001,44,agent,"Alright, I'll be connecting right now.",1,"Alright , I 'll connecting right .",Alright Ill be connecting right now
+580,580,742572680001,45,customer,the channels showing the channel things back on now.,1,channels showing channel things back .,the channels showing the channel things back on now
+581,581,742572680001,46,agent,Okay.,0,Okay .,Okay
+582,582,742572680001,47,customer,Now it says Hershey with the Sweet and the receiver and smart card. Now it's back to the little box going the blue dots. Now it's back to the channels on now.,1,Now says Hershey Sweet receiver smart card . Now 's back little box going blue dots . Now 's back channels .,Now it says Hershey with the Sweet and the receiver and smart card Now its back to the little box going the blue dots Now its back to the channels on now
+583,583,742572680001,48,agent,Okay.,0,Okay .,Okay
+584,584,742572680001,49,customer,Yes.,1,Yes .,Yes
+585,585,742572680001,50,agent,"And you haven't moved anything, correct? Everything is where it was from the beginning.",1,"And n't moved anything , correct ? Everything beginning .",And you havent moved anything correct Everything is where it was from the beginning
+586,586,742572680001,51,agent,Okay.,0,Okay .,Okay
+587,587,742572680001,52,customer,"It keeps flipping different numbers, but now it's back to the Hershey with Sweet",1,"It keeps flipping different numbers , 's back Hershey Sweet",It keeps flipping different numbers but now its back to the Hershey with Sweet
+588,588,742572680001,53,customer,the receiver and the smart card number. So all that.,1,receiver smart card number . So .,the receiver and the smart card number So all that
+589,589,742572680001,54,customer,Now it says.,1,Now says .,Now it says
+590,590,742572680001,55,customer,Check Status to determine the help of your Raven receiver. Now it says guide and DVR.,1,Check Status determine help Raven receiver . Now says guide DVR .,Check Status to determine the help of your Raven receiver Now it says guide and DVR
+591,591,742572680001,56,customer,Now it says reset Hershey and restore recordings and upgrade software.,1,Now says reset Hershey restore recordings upgrade software .,Now it says reset Hershey and restore recordings and upgrade software
+592,592,742572680001,57,customer,Now it's.,0,Now 's .,Now its
+593,593,742572680001,58,agent,Okay.,0,Okay .,Okay
+594,594,742572680001,59,customer,All set now changing now it's already back to the reset Hershey thing?,1,All set changing 's already back reset Hershey thing ?,All set now changing now its already back to the reset Hershey thing
+595,595,742572680001,60,customer,I'm not touching anything. You're doing it all.,0,I 'm not touching anything . You 're .,Im not touching anything Youre doing it all
+596,596,742572680001,61,agent,"Ye, yeah, let me know when the screen goes blank, we just reset. We gonna reset the Hershey {voice.creditcard.digitsTranscribed:#}st.",1,"Ye , yeah , let know screen goes blank , reset . We gon na reset Hershey { voice.creditcard.digitsTranscribed : # } st .",Ye yeah let me know when the screen goes blank we just reset We gonna reset the Hershey voicecreditcarddigitsTranscribedst
+597,597,742572680001,62,customer,"Okay, it went black.",1,"Okay , went black .",Okay it went black
+598,598,742572680001,63,agent,"Yes, that was me.",0,"Yes , .",Yes that was me
+599,599,742572680001,64,agent,Alright.,0,Alright .,Alright
+600,600,742572680001,65,customer,Now it says Hershey with Sweet,1,Now says Hershey Sweet,Now it says Hershey with Sweet
+601,601,742572680001,66,customer,Starting up.,1,Starting .,Starting up
+602,602,742572680001,67,agent,Okay.,0,Okay .,Okay
+603,603,742572680001,68,customer,Now it's a black screen.,1,Now 's black screen .,Now its a black screen
+604,604,742572680001,69,customer,"Now it's Hershey with Sweet again, starting up.",1,"Now 's Hershey Sweet , starting .",Now its Hershey with Sweet again starting up
+605,605,742572680001,70,agent,Alright.,0,Alright .,Alright
+606,606,742572680001,71,customer,"Now, a black screen.",1,"Now , black screen .",Now a black screen
+607,607,742572680001,72,customer,gonna happen now.,0,gon na happen .,gonna happen now
+608,608,742572680001,73,customer,"Okay, well, it's still a black screen.",1,"Okay , well , 's still black screen .",Okay well its still a black screen
+609,609,742572680001,74,agent,"Yes, ma'am, it's gonna go to another screen. Just let me know when it changes.",1,"Yes , ma'am , 's gon na go another screen . Just let know changes .",Yes maam its gonna go to another screen Just let me know when it changes
+610,610,742572680001,75,agent,"Alright, is the green light still on on the front of the Hershey",1,"Alright , green light still front Hershey",Alright is the green light still on on the front of the Hershey
+611,611,742572680001,76,customer,On the front of the Hershey,1,On front Hershey,On the front of the Hershey
+612,612,742572680001,77,customer,"Yeah, the green light's still on.",1,"Yeah , green light 's still .",Yeah the green lights still on
+613,613,742572680001,78,agent,"Yeah, the little Raven box. Just un near your TV?",1,"Yeah , little Raven box . Just un near TV ?",Yeah the little Raven box Just un near your TV
+614,614,742572680001,79,agent,Okay.,0,Okay .,Okay
+615,615,742572680001,80,customer,the bottom of the TV is kinda lighter and then it gets dark dark as it goes up.,1,bottom TV kinda lighter gets dark dark goes .,the bottom of the TV is kinda lighter and then it gets dark dark as it goes up
+616,616,742572680001,81,agent,Okay.,0,Okay .,Okay
+617,617,742572680001,82,customer,Recommend it do this.,0,Recommend .,Recommend it do this
+618,618,742572680001,83,customer,Go ahead and hear you.,0,Go ahead hear .,Go ahead and hear you
+619,619,742572680001,84,agent,"not sure, maybe doing something else, can you go ahead and press the Alright, it should be coming back online. Cause I'm seeing it just popped in on my end.",1,"not sure , maybe something else , go ahead press Alright , coming back online . Cause I 'm seeing popped end .",not sure maybe doing something else can you go ahead and press the Alright it should be coming back online Cause Im seeing it just popped in on my end
+620,620,742572680001,85,customer,How do I do that?,0,How I ?,How do I do that
+621,621,742572680001,86,agent,"Okay, um can I go ahead and reconnect to the Hershey",1,"Okay , um I go ahead reconnect Hershey",Okay um can I go ahead and reconnect to the Hershey
+622,622,742572680001,87,agent,"No, I'm saying. Can I remotely connect back to the Hershey again.",1,"No , I 'm saying . Can I remotely connect back Hershey .",No Im saying Can I remotely connect back to the Hershey again
+623,623,742572680001,88,customer,"Yeah, now it says remote control battery and it went off.",1,"Yeah , says remote control battery went .",Yeah now it says remote control battery and it went off
+624,624,742572680001,89,customer,Must be.,0,Must .,Must be
+625,625,742572680001,90,agent,the batteries in one of your remotes are critical just kinda low.,1,batteries one remotes critical kinda low .,the batteries in one of your remotes are critical just kinda low
+626,626,742572680001,91,customer,"Uh yeah, I was gonna have to replu.",0,"Uh yeah , I gon na replu .",Uh yeah I was gonna have to replu
+627,627,742572680001,92,customer,Since we get off.,0,Since get .,Since we get off
+628,628,742572680001,93,agent,Alright.,0,Alright .,Alright
+629,629,742572680001,94,agent,Gotcha.,0,Gotcha .,Gotcha
+630,630,742572680001,95,customer,"Alright, TV's back on now.",1,"Alright , TV 's back .",Alright TVs back on now
+631,631,742572680001,96,customer,Okay.,0,Okay .,Okay
+632,632,742572680001,97,agent,"Alright, is there anything playing. Alright, go through and check some of your channels that you normally watch?",1,"Alright , anything playing . Alright , go check channels normally watch ?",Alright is there anything playing Alright go through and check some of your channels that you normally watch
+633,633,742572680001,98,customer,I guess.,0,I guess .,I guess
+634,634,742572680001,99,agent,"And while you're doing that, would you like more information about how you can save up the 60 percent off your wireless phone bill.",1,"And 're , would like information save 60 percent wireless phone bill .",And while youre doing that would you like more information about how you can save up the 60 percent off your wireless phone bill
+635,635,742572680001,100,agent,"Okay, I'll get you over to that department so they can talk to you in just a moment.",1,"Okay , I 'll get department talk moment .",Okay Ill get you over to that department so they can talk to you in just a moment
+636,636,742572680001,101,customer,"Wait a minute. Okay, this went to a channel that I watch.",1,"Wait minute . Okay , went channel I watch .",Wait a minute Okay this went to a channel that I watch
+637,637,742572680001,102,customer,Are you through with me now.,0,Are .,Are you through with me now
+638,638,742572680001,103,agent,"Yes, ma'am, if all your channels are back working again. Yes, ma'am.",1,"Yes , ma'am , channels back working . Yes , ma'am .",Yes maam if all your channels are back working again Yes maam
+639,639,742572680001,104,customer,"Um well, I don't wanna talk about other things I I rest time to watch a movie that's already {customer_delayed.digits4:####} minutes into it, so I'll call back the other day to get your sales.",1,"Um well , I n't wan na talk things I I rest time watch movie 's already { customer_delayed.digits4 : # # # # } minutes , I 'll call back day get sales .",Um well I dont wanna talk about other things I I rest time to watch a movie thats already customerdelayeddigits4 minutes into it so Ill call back the other day to get your sales
+640,640,742572680001,105,customer,"No, I guess I'm back on now, right?",0,"No , I guess I 'm back , right ?",No I guess Im back on now right
+641,641,742572680001,106,agent,"Okay. Okay, no problem. Alright, was there anything else I can help you with today?",0,"Okay . Okay , problem . Alright , anything else I help today ?",Okay Okay no problem Alright was there anything else I can help you with today
+642,642,742572680001,107,customer,"Okay, thank you so much.",0,"Okay , thank much .",Okay thank you so much
+643,643,742572680001,108,agent,"Yes, ma'am.",0,"Yes , ma'am .",Yes maam
+644,644,742572680001,109,customer,"Okay, bye bye.",0,"Okay , bye bye .",Okay bye bye
+645,645,742572680001,110,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up
+646,646,742579770001,0,agent,Choosing Raven. This is {first_name: ****} your advanced tech support. How may I help?,0,Choosing Raven . This { first_name : * * * * } advanced tech support . How may I help ?,Choosing Raven This is firstname  your advanced tech support How may I help
+647,647,742579770001,1,customer,"Okay, I had them on the phone, and then I the phone that.",1,"Okay , I phone , I phone .",Okay I had them on the phone and then I the phone that
+648,648,742579770001,2,agent,Um.,0,Um .,Um
+649,649,742579770001,3,customer,the phone call is dropped. Can you look up my notes. So we won't have to go through everything again.,1,phone call dropped . Can look notes . So wo n't go everything .,the phone call is dropped Can you look up my notes So we wont have to go through everything again
+650,650,742579770001,4,customer,I've talked to them every day this week.,1,I 've talked every day week .,Ive talked to them every day this week
+651,651,742579770001,5,customer,Same?,0,Same ?,Same
+652,652,742579770001,6,agent,"Um sure, ma'am, uh.",0,"Um sure , ma'am , uh .",Um sure maam uh
+653,653,742579770001,7,agent,"Alright. Checking, ma'am.",0,"Alright . Checking , ma'am .",Alright Checking maam
+654,654,742579770001,8,agent,"Okay, the last note, ma'am, I'm showing here is that you were getting a uh no signal message or nothing on your screen from the Hershey is that?",1,"Okay , last note , ma'am , I 'm showing getting uh signal message nothing screen Hershey ?",Okay the last note maam Im showing here is that you were getting a uh no signal message or nothing on your screen from the Hershey is that
+655,655,742579770001,9,agent,Correct.,1,Correct .,Correct
+656,656,742579770001,10,customer,I have unplugged my machine my I've unplugged it and then when it comes up. It says set up TV.,1,I unplugged machine I 've unplugged comes . It says set TV .,I have unplugged my machine my Ive unplugged it and then when it comes up It says set up TV
+657,657,742579770001,11,customer,And then on the other side of TV.,1,And side TV .,And then on the other side of TV
+658,658,742579770001,12,customer,It goes away.,1,It goes away .,It goes away
+659,659,742579770001,13,agent,"Alright, sir.",0,"Alright , sir .",Alright sir
+660,660,742579770001,14,customer,So what do I need to do?,0,So I need ?,So what do I need to do
+661,661,742579770001,15,agent,"Okay, ma'am, and.",0,"Okay , ma'am , .",Okay maam and
+662,662,742579770001,16,customer,Nothing blank.,0,Nothing blank .,Nothing blank
+663,663,742579770001,17,agent,"Yeah, on on the screen, what do you have now exactly?",1,"Yeah , screen , exactly ?",Yeah on on the screen what do you have now exactly
+664,664,742579770001,18,agent,Okay.,0,Okay .,Okay
+665,665,742579770001,19,agent,"And this is your TV by the Hershey, right? Oh, you have a one Hershey, okay. Alright, that Hershey ma'am.",1,"And TV Hershey , right ? Oh , one Hershey , okay . Alright , Hershey ma'am .",And this is your TV by the Hershey right Oh you have a one Hershey okay Alright that Hershey maam
+666,666,742579770001,20,customer,That should be no.,0,That .,That should be no
+667,667,742579770001,21,agent,It has a green solid light on the front.,1,It green solid light front .,It has a green solid light on the front
+668,668,742579770001,22,customer,does not.,0,not .,does not
+669,669,742579770001,23,customer,I've never seen a green light on it?,1,I 've never seen green light ?,Ive never seen a green light on it
+670,670,742579770001,24,agent,"Alright, let's uh.",0,"Alright , let 's uh .",Alright lets uh
+671,671,742579770001,25,agent,"Okay, ma'am, on the the Hershey's remote control.",1,"Okay , ma'am , Hershey 's remote control .",Okay maam on the the Hersheys remote control
+672,672,742579770001,26,agent,Let us.,0,Let us .,Let us
+673,673,742579770001,27,agent,Correct.,0,Correct .,Correct
+674,674,742579770001,28,customer,"On the Hershey remote. Now, wait a minute. Do you want me to have my Raven TV remote? Is that what we're talking about?",1,"On Hershey remote . Now , wait minute . Do want Raven TV remote ? Is 're talking ?",On the Hershey remote Now wait a minute Do you want me to have my Raven TV remote Is that what were talking about
+675,675,742579770001,29,agent,Yes.,0,Yes .,Yes
+676,676,742579770001,30,customer,"Okay, I have Raven remote in my hand.",1,"Okay , I Raven remote hand .",Okay I have Raven remote in my hand
+677,677,742579770001,31,agent,Alright.,0,Alright .,Alright
+678,678,742579770001,32,customer,Okay.,0,Okay .,Okay
+679,679,742579770001,33,agent,"Okay, ma'am, the Raven remote, press on the satellite button just one time.",1,"Okay , ma'am , Raven remote , press satellite button one time .",Okay maam the Raven remote press on the satellite button just one time
+680,680,742579770001,34,agent,The the light went on the Hershey,1,The light went Hershey,The the light went on the Hershey
+681,681,742579770001,35,customer,"I do not see I see a light on the Hershey, but I don't see a green light.",1,"I not see I see light Hershey , I n't see green light .",I do not see I see a light on the Hershey but I dont see a green light
+682,682,742579770001,36,customer,I tried to do this every day.,0,I tried every day .,I tried to do this every day
+683,683,742579770001,37,agent,You see a light on the Hershey you said?,1,You see light Hershey said ?,You see a light on the Hershey you said
+684,684,742579770001,38,customer,"Yes, I do. Yes, I do.",1,"Yes , I . Yes , I .",Yes I do Yes I do
+685,685,742579770001,39,agent,"Alright, okay? And um on your Raven remote, ma'am, press on the home button twice.",1,"Alright , okay ? And um Raven remote , ma'am , press home button twice .",Alright okay And um on your Raven remote maam press on the home button twice
+686,686,742579770001,40,customer,Okay.,1,Okay .,Okay
+687,687,742579770001,41,customer,Nothing's happening.,1,Nothing 's happening .,Nothings happening
+688,688,742579770001,42,customer,Is it supposed to be on the satellite.,1,Is supposed satellite .,Is it supposed to be on the satellite
+689,689,742579770001,43,agent,"Alright, then. And.",0,"Alright , . And .",Alright then And
+690,690,742579770001,44,agent,Yes.,0,Yes .,Yes
+691,691,742579770001,45,agent,"Yes, ma'am. It should be on satellite?",1,"Yes , ma'am . It satellite ?",Yes maam It should be on satellite
+692,692,742579770001,46,customer,"Well, that didn't do anything.",1,"Well , n't anything .",Well that didnt do anything
+693,693,742579770001,47,customer,Yes.,0,Yes .,Yes
+694,694,742579770001,48,agent,"Okay, it shows here that you have the S a Samsung TV, is that correct?",1,"Okay , shows S Samsung TV , correct ?",Okay it shows here that you have the S a Samsung TV is that correct
+695,695,742579770001,49,customer,Correct.,1,Correct .,Correct
+696,696,742579770001,50,agent,"Okay, ma'am, C with you, ma'am use the Samsung remote for now.",1,"Okay , ma'am , C , ma'am use Samsung remote .",Okay maam C with you maam use the Samsung remote for now
+697,697,742579770001,51,customer,"Am I gonna have to go through this all the time. If this is the problem, why don't they send a tech out and get a tech, so I don't have to call every time I turn around, this is just ridiculous.",1,"Am I gon na go time . If problem , n't send tech get tech , I n't call every time I turn around , ridiculous .",Am I gonna have to go through this all the time If this is the problem why dont they send a tech out and get a tech so I dont have to call every time I turn around this is just ridiculous
+698,698,742579770001,52,agent,"me help you, ma'am, and we'll provide some easy steps.",0,"help , ma'am , 'll provide easy steps .",me help you maam and well provide some easy steps
+699,699,742579770001,53,customer,I get this I have to get it out again.,0,I get I get .,I get this I have to get it out again
+700,700,742579770001,54,customer,I'm tired of it.,0,I 'm tired .,Im tired of it
+701,701,742579770001,55,customer,"Well, then they need to get out here and they need to fix it.",1,"Well , need get need fix .",Well then they need to get out here and they need to fix it
+702,702,742579770001,56,agent,"Yeah, this uh simple, ma'am, you're having now is a possible issue with the wirings.",1,"Yeah , uh simple , ma'am , 're possible issue wirings .",Yeah this uh simple maam youre having now is a possible issue with the wirings
+703,703,742579770001,57,customer,"Now I gotta find the down remote again, just a minute. I have to lay down and try to find the other Samsung remote again.",1,"Now I got ta find remote , minute . I lay try find Samsung remote .",Now I gotta find the down remote again just a minute I have to lay down and try to find the other Samsung remote again
+704,704,742579770001,58,agent,Cause if if.,0,Cause .,Cause if if
+705,705,742579770001,59,customer,Something different than the remote.,1,Something different remote .,Something different than the remote
+706,706,742579770001,60,customer,Okay.,0,Okay .,Okay
+707,707,742579770001,61,customer,"Alright, now I have the Samsung remote?",1,"Alright , I Samsung remote ?",Alright now I have the Samsung remote
+708,708,742579770001,62,agent,"Alright, with uh the remote, ma'am, press on the input button or home button.",1,"Alright , uh remote , ma'am , press input button home button .",Alright with uh the remote maam press on the input button or home button
+709,709,742579770001,63,customer,2nd my screen went black. My TV's off. Now turn it back on.,1,2nd screen went black . My TV 's . Now turn back .,2nd my screen went black My TVs off Now turn it back on
+710,710,742579770001,64,customer,It says setup. TV.,1,It says setup . TV .,It says setup TV
+711,711,742579770001,65,customer,"And then on the left hand side and on the right hand side, it says setup. TV.",1,"And left hand side right hand side , says setup . TV .",And then on the left hand side and on the right hand side it says setup TV
+712,712,742579770001,66,customer,"And the other one, nothing is showing?",1,"And one , nothing showing ?",And the other one nothing is showing
+713,713,742579770001,67,agent,"Yes, sir. Alright, okay, on the Samsung remote. Is there a home?",1,"Yes , sir . Alright , okay , Samsung remote . Is home ?",Yes sir Alright okay on the Samsung remote Is there a home
+714,714,742579770001,68,agent,Home button?,1,Home button ?,Home button
+715,715,742579770001,69,agent,"Okay, could you please, ma'am, press home?",1,"Okay , could please , ma'am , press home ?",Okay could you please maam press home
+716,716,742579770001,70,customer,"Okay, I did.",1,"Okay , I .",Okay I did
+717,717,742579770001,71,customer,TV.,0,TV .,TV
+718,718,742579770001,72,customer,What?,0,What ?,What
+719,719,742579770001,73,agent,And what came up on your sc Mm. What else do you see.,1,And came sc Mm . What else see .,And what came up on your sc Mm What else do you see
+720,720,742579770001,74,customer,"On the screen it says set up TV on the left hand side and it says set up TV on the right hand side, and then there's the tiles down below TV Plus app, YouTube, HDMI. Three next to.",1,"On screen says set TV left hand side says set TV right hand side , 's tiles TV Plus app , YouTube , HDMI . Three next .",On the screen it says set up TV on the left hand side and it says set up TV on the right hand side and then theres the tiles down below TV Plus app YouTube HDMI Three next to
+721,721,742579770001,75,customer,HDMI. One DVR TV One.,1,HDMI . One DVR TV One .,HDMI One DVR TV One
+722,722,742579770001,76,customer,Yes.,0,Yes .,Yes
+723,723,742579770001,77,agent,"Alright, on that screen, ma'am, the one with H D M I three go to that and press okay.",1,"Alright , screen , ma'am , one H D M I three go press okay .",Alright on that screen maam the one with H D M I three go to that and press okay
+724,724,742579770001,78,customer,I don't know. I can't get to it won't go it won't do that.,1,I n't know . I ca n't get wo n't go wo n't .,I dont know I cant get to it wont go it wont do that
+725,725,742579770001,79,agent,With the Samsung remote?,1,With Samsung remote ?,With the Samsung remote
+726,726,742579770001,80,customer,"No, it doesn't.",1,"No , n't .",No it doesnt
+727,727,742579770001,81,customer,me go back to home?,1,go back home ?,me go back to home
+728,728,742579770001,82,agent,Alright.,1,Alright .,Alright
+729,729,742579770001,83,customer,"Hi, this I don't know how many times this week already? I don't feel like I should have to call them every time. Even better. I'm gonna get rid of Raven",1,"Hi , I n't know many times week already ? I n't feel like I call every time . Even better . I 'm gon na get rid Raven",Hi this I dont know how many times this week already I dont feel like I should have to call them every time Even better Im gonna get rid of Raven
+730,730,742579770001,84,customer,"Okay, I pressed on the the button that says the home on it and it comes up. It says set up TV and under it says set up TV.",1,"Okay , I pressed button says home comes . It says set TV says set TV .",Okay I pressed on the the button that says the home on it and it comes up It says set up TV and under it says set up TV
+731,731,742579770001,85,agent,I.,0,I .,I
+732,732,742579770001,86,customer,"when I try to go down to them. Oh, there's also a tile and or remove under the HDMI.",1,"I try go . Oh , 's also tile remove HDMI .",when I try to go down to them Oh theres also a tile and or remove under the HDMI
+733,733,742579770001,87,agent,Were you able to like that. HDMI. Three.,1,Were able like . HDMI . Three .,Were you able to like that HDMI Three
+734,734,742579770001,88,customer,"When I click on it. It goes back to setup. TV setup, TV.",1,"When I click . It goes back setup . TV setup , TV .",When I click on it It goes back to setup TV setup TV
+735,735,742579770001,89,customer,That's what I'm trying it on.,0,That 's I 'm trying .,Thats what Im trying it on
+736,736,742579770001,90,agent,"Okay, could you try it on HDMI one you have HDMI. Three HDMI one? Correct?",1,"Okay , could try HDMI one HDMI . Three HDMI one ? Correct ?",Okay could you try it on HDMI one you have HDMI Three HDMI one Correct
+737,737,742579770001,91,customer,"And I've tried the HDMI one, DVD one, there's a down arrow. When I click on it. Click on it. The screen goes.",1,"And I 've tried HDMI one , DVD one , 's arrow . When I click . Click . The screen goes .",And Ive tried the HDMI one DVD one theres a down arrow When I click on it Click on it The screen goes
+738,738,742579770001,92,agent,I.,0,I .,I
+739,739,742579770001,93,customer,And then up on the left hand on the TV.,1,And left hand TV .,And then up on the left hand on the TV
+740,740,742579770001,94,customer,Something about HDMI. I don't know what we did before.,1,Something HDMI . I n't know .,Something about HDMI I dont know what we did before
+741,741,742579770001,95,customer,God.,0,God .,God
+742,742,742579770001,96,customer,What do you want me to do with it. I've already unplugged that once tonight. Do you want me to unplug it again.,1,What want . I 've already unplugged tonight . Do want unplug .,What do you want me to do with it Ive already unplugged that once tonight Do you want me to unplug it again
+743,743,742579770001,97,agent,"Alright, will you be able, ma'am, to check back of your television?",1,"Alright , able , ma'am , check back television ?",Alright will you be able maam to check back of your television
+744,744,742579770001,98,customer,I unplugged the 1st that goes to the cable.,1,I unplugged 1st goes cable .,I unplugged the 1st that goes to the cable
+745,745,742579770001,99,agent,"The power. Okay, on the back of your TV, could you try to unplug the HDMI cord from the TV that goes.",1,"The power . Okay , back TV , could try unplug HDMI cord TV goes .",The power Okay on the back of your TV could you try to unplug the HDMI cord from the TV that goes
+746,746,742579770001,100,agent,Alright.,0,Alright .,Alright
+747,747,742579770001,101,customer,"a brand new, which one I was no, I can't evidently, it is not set up properly. They didn't set it up properly.",1,"brand new , one I , I ca n't evidently , not set properly . They n't set properly .",a brand new which one I was no I cant evidently it is not set up properly They didnt set it up properly
+748,748,742579770001,102,customer,had trouble with it ever since.,1,trouble ever since .,had trouble with it ever since
+749,749,742579770001,103,agent,could help you to do those troubleshooting step.,1,could help troubleshooting step .,could help you to do those troubleshooting step
+750,750,742579770001,104,customer,"No, there is not.",0,"No , not .",No there is not
+751,751,742579770001,105,agent,Alright.,0,Alright .,Alright
+752,752,742579770001,106,customer,have to call them every time.,1,call every time .,have to call them every time
+753,753,742579770001,107,customer,this is getting pretty fixed.,1,getting pretty fixed .,this is getting pretty fixed
+754,754,742579770001,108,agent,"No, it should not there have them to deal with the problem again and again, I think there's something that has to be replaced, uh with the wires or the device.",1,"No , not deal problem , I think 's something replaced , uh wires device .",No it should not there have them to deal with the problem again and again I think theres something that has to be replaced uh with the wires or the device
+755,755,742579770001,109,customer,"gone on for quite some time, so I'm tired of you that or I want out of Raven contract.",1,"gone quite time , I 'm tired I want Raven contract .",gone on for quite some time so Im tired of you that or I want out of Raven contract
+756,756,742579770001,110,customer,me talk to a Raven supervisor.,1,talk Raven supervisor .,me talk to a Raven supervisor
+757,757,742579770001,111,agent,"Yeah, for this problem, ma'am. We will be sending the technician out.",1,"Yeah , problem , ma'am . We sending technician .",Yeah for this problem maam We will be sending the technician out
+758,758,742579770001,112,agent,Through the technician.,1,Through technician .,Through the technician
+759,759,742579770001,113,customer,So then? How would the hell I might.,0,So ? How would hell I might .,So then How would the hell I might
+760,760,742579770001,114,customer,Are you the technician.,0,Are technician .,Are you the technician
+761,761,742579770001,115,customer,What?,0,What ?,What
+762,762,742579770001,116,agent,"No, we will send a physical technician in your address and will do it physically. That would be on Thursday.",1,"No , send physical technician address physically . That would Thursday .",No we will send a physical technician in your address and will do it physically That would be on Thursday
+763,763,742579770001,117,customer,"No, that's not.",0,"No , 's not .",No thats not
+764,764,742579770001,118,agent,"Yep, but because we can provide you, ma'am credits for the days that your service is out to until.",1,"Yep , provide , ma'am credits days service .",Yep but because we can provide you maam credits for the days that your service is out to until
+765,765,742579770001,119,customer,"a supervisor, and are you do have it on many times I have called in.",1,"supervisor , many times I called .",a supervisor and are you do have it on many times I have called in
+766,766,742579770001,120,agent,"Yeah, we have, ma'am?",0,"Yeah , , ma'am ?",Yeah we have maam
+767,767,742579770001,121,customer,"Okay, transfer to somebody else? Because usually, they fix this one I that I have to unplug something plug it back in and start it up again.",1,"Okay , transfer somebody else ? Because usually , fix one I I unplug something plug back start .",Okay transfer to somebody else Because usually they fix this one I that I have to unplug something plug it back in and start it up again
+768,768,742579770001,122,customer,And I don't remember. So why don't you transfer me to a different.,1,And I n't remember . So n't transfer different .,And I dont remember So why dont you transfer me to a different
+769,769,742579770001,123,agent,"Alright, yeah, I think that's right, is unplugging the receiver, the Hershey and the TV.",1,"Alright , yeah , I think 's right , unplugging receiver , Hershey TV .",Alright yeah I think thats right is unplugging the receiver the Hershey and the TV
+770,770,742579770001,124,customer,"Yeah, I've done that.",0,"Yeah , I 've done .",Yeah Ive done that
+771,771,742579770001,125,agent,"Alright, okay, ma'am. So I will connect you to uh the technical department. I don't want to guarantee anything though. Just hold on.",1,"Alright , okay , ma'am . So I connect uh technical department . I n't want guarantee anything though . Just hold .",Alright okay maam So I will connect you to uh the technical department I dont want to guarantee anything though Just hold on
+772,772,742579770001,126,agent,A.,0,A .,A
+773,773,742579770001,127,customer,Yeah.,0,Yeah .,Yeah
+774,774,742579770001,128,customer,I.,0,I .,I
+775,775,742579770001,129,agent,mhm.,0,mhm .,mhm
+776,776,742579770001,130,agent,A.,0,A .,A
+777,777,742579770001,131,customer,Ma'am?,0,Ma'am ?,Maam
+778,778,742579770001,132,bot,issue auto wrapped up.,0,issue auto wrapped .,issue auto wrapped up

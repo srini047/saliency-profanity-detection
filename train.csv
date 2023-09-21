@@ -1,0 +1,780 @@
+conversation_id,utterance_id,speaker,text,saliency
+742555640001,0,agent,"May I know your name, please?",
+742555640001,1,customer,"Uh yes, my name is {full_name:***** ****}.",
+742555640001,2,agent,", {first_name:*****}. How's your day going, {first_name:*****}",
+742555640001,3,customer,It's going good. Thank you for asking.,
+742555640001,4,agent,That's great. So how can I help you?,
+742555640001,5,agent,mhm.,
+742555640001,6,customer,"Uh yes, sir. I'm a new Raven member and I was a veteran. So I got Superman, but for the 1st three months, they gave me like Superman and some other channels for free.",Reason for Contact
+742555640001,7,agent,mhm.,
+742555640001,8,agent,"Yes, sir.",
+742555640001,9,customer,"That has to be canceled by the 23rd. It had a reminder on my my television uh so I wanted to make sure. Yeah, I wanted to go ahead and cancel that today promo all the free promo channels are. However, you say that.",Reason for Contact
+742555640001,10,customer,Okay.,
+742555640001,11,agent,"Okay, let okay, let me just assist you with that. Um.",
+742555640001,12,agent,So are you referring for the Spiderman Pack.,Resolution Process
+742555640001,13,agent,", Superman, Spiderman and Raven Movie Pack.",Resolution Process
+742555640001,14,customer,I get I'm gonna get Superman anyway because I'm a veteran.,Resolution Process
+742555640001,15,customer,That will be free.,Resolution Process
+742555640001,16,agent,Okay.,
+742555640001,17,customer,But all the rest I need to cancel.,Resolution Process
+742555640001,18,agent,"Okay, so I'll I'll just um cancel.",Resolution Process
+742555640001,19,agent,The three remaining and keep the Superman,Resolution Process
+742555640001,20,customer,"Right, the Superman cause I have that Spiderman Package or whatever to the great deal. By the way, thank you.",Resolution Process
+742555640001,21,customer,And.,
+742555640001,22,agent,"Yeah, so I am just.",
+742555640001,23,customer,"Yep, and they.",
+742555640001,24,agent,"I'm just gonna keep the Spiderman, mhm.",Resolution Process
+742555640001,25,customer,"Right to cancel all the right, you can cancel the other, and they still have my Spiderman being free, correct?",Resolution Process
+742555640001,26,agent,"Yes, sir.",Resolution Process
+742555640001,27,agent,Okay.,
+742555640001,28,customer,"Oh, that's awesome, man. I appreciate it, and do do you have my email?",Resolution Process
+742555640001,29,agent,"Okay, hold on sir. Let me just process this one. 1st.",Resolution Process
+742555640001,30,customer,Okay.,
+742555640001,31,agent,So I can I can see.,
+742555640001,32,agent,"Um that, okay? Hold on.",
+742555640001,33,agent,me just process it real quick.,Resolution Process
+742555640001,34,agent,And do you asking me if do you have the email.,Resolution Process
+742555640001,35,agent,mhm.,
+742555640001,36,customer,"Right, and the the reason I'm asking is uh Thor and I know you guys have been good. Thor kinda burned me on all this stuff, and I just wanted like a notice that said I canceled.",Resolution Process
+742555640001,37,agent,"mhm okay, sir. Hold on.",
+742555640001,38,agent,"Yes, sir. As I can see here you have your email address here.",Resolution Process
+742555640001,39,agent,So.,
+742555640001,40,agent,Hold on.,
+742555640001,41,agent,"Okay, so I already accessed it, sir. Anything else I can help you?",Result
+742555640001,42,customer,Nope. Thank you very much. You've been wonderful. Have a great day.,Result
+742555640001,43,agent,"Yes, you do, sir. Bye for now. Again, thank you for choosing Raven",
+742555640001,44,customer,You're welcome. Thank you guys very much.,
+742555640001,45,agent,"Okay, bye for now.",
+742555640001,46,customer,Alright.,
+742555640001,47,customer,Bye bye.,
+742555640001,48,bot,issue auto wrapped up.,
+742560220001,0,agent,"Hi, thank you for choosing Raven. This is {first_name:*****}.. How can I help you today?",
+742560220001,1,customer,"Yes, hi. I had a I got a uh a call like about a week ago saying that if I call in, I can get a free three months of Superman",Reason for Contact
+742560220001,2,customer,Superman and Thor to try it?,Reason for Contact
+742560220001,3,customer,"Says Superman, Thor, I think, Spiderman Batman, and it was Thor I could charge for three months.",Reason for Contact
+742560220001,4,agent,"Uh free MO uh free for Superman, am I right, ma'am, okay? Let me try that one. May I have your name, please?",
+742560220001,5,customer,{first_name:*****}.,
+742560220001,6,customer,{last_name:*****}.,
+742560220001,7,agent,"Awesome. Thank you so much, sir, uh {first_name:*****}. your last name, please? Perfect, thank you so much for that. Let me check that one for you. Give me just a moment.",
+742560220001,8,agent,"Alright, so upon checking here into my end, {first_name:*****}., that we don't have already the HDMI.",Resolution Process
+742560220001,9,agent,seen here that you have uh the Superman eligible for $15 a month. Would that be fine to you.,Resolution Process
+742560220001,10,customer,"No, they offered it for me to try it for three months for me being a a customer for over 10 years.",Reason for Contact
+742560220001,11,agent,three months. For how many uh free of charge. Am I right?,Resolution Process
+742560220001,12,customer,Cause I've been a customer for so many years.,Resolution Process
+742560220001,13,agent,"Okay, okay. Let me check on the notes here.",
+742560220001,14,agent,me just a moment.,
+742560220001,15,agent,"Alright, I am trying to locate or check uh the informations the regarding with the Superman for three months, but I have seen here that we could give you the Spiderman for three months for uh no charge. Instead of it.",Resolution Process
+742560220001,16,customer,Okay. Can I get Thor two to try Thor.,Resolution Process
+742560220001,17,agent,"Because Superman, it was already um in a regular price, Superman, let me check. Now why and Thor is already in $7 in your.",Resolution Process
+742560220001,18,customer,I don't get Thor,Resolution Process
+742560220001,19,agent,"System in your account, Y, and I'm sorry, um you are not have or in your account. I have seen here that we are not reconnected yet the Thor for 0.",Resolution Process
+742560220001,20,customer,"And that's on Batman with that too, right? The Spiderman Thor",Resolution Process
+742560220001,21,agent,"dollars, but it will um come back or it is already in a regular price of $7 the only I could give it to you right now is the Thor I'm sorry. Yes, the Spiderman for three months for 0 uh dollar for 0 charges.",Resolution Process
+742560220001,22,customer,"Yes, I'd like to try both of those for three months.",Resolution Process
+742560220001,23,agent,"Al. Alright, I will give it to you the Superman and Thor for three months as as well, W, would you like to grab this opportunity. Um I'm sorry, {first_name:*****}?",Resolution Process
+742560220001,24,customer,"Yeah, so that's the only movie channels you guys have right, that's available for free.",Resolution Process
+742560220001,25,customer,Okay.,
+742560220001,26,agent,"Okay, yes. Alright. So only Superman Thor Am I right? Yes, that is that is correct. Okay, so let me process it for you. Give me just a moment.",Resolution Process
+742560220001,27,customer,Okay.,
+742560220001,28,agent,"Uh last two weeks relaunched the Superman for $0. So right now we don't have it yet. So that much, probably that is the one that uh you check the website regarding with it. Give me just a moment, {first_name:*****}?",Resolution Process
+742560220001,29,agent,"Alright, {first_name:*****} I can definitely offer you also just uh the channel 30.",
+742560220001,30,customer,What is it?,
+742560220001,31,agent,"one month free of charge. This is about music channel. And you could have it, W uh for one month without any charges. Would you like to uh take advantage of it. Um channel 305.",
+742560220001,32,customer,"No, thank you.",
+742560220001,33,agent,"Um music channel. This is a relaxing music channel. Alright, I understand. Okay, so I'm going to send you a notification through your email regarding with your um package or premiums that you added that we added right now. And if you do have any further questions or.",Result
+742560220001,34,customer,Thank.,
+742560220001,35,customer,That's it. Thank you.,
+742560220001,36,agent,"Would you would like to check this kind of package or channel. Just me a visit uh your raven .com app. Okay, so that you can find everything about it. You're most welcome. Alright, will there be anything else that I can help you with, {first_name:*****}?",
+742560220001,37,bot,issue auto wrapped up.,
+742563970001,0,agent,hello. Thank you for choosing Raven. This is {first_name:*****} I see that you're calling about um changing credit card. Is that right?,
+742563970001,1,customer,"Yes, well, I had did it at the beginning of the month because we had a compromised and I couldn't in our.",Reason for Contact
+742563970001,2,customer,"Uh credit card. And when I got my number. I went online and changed it. So that Raven could take out our you know payment every month, but I just got a notification that says Raven account is past due and I was just trying to see what was going on.",Reason for Contact
+742563970001,3,agent,"Oh, I see.",
+742563970001,4,agent,Yeah.,
+742563970001,5,agent,"Do you have a past due, if you're on on autopay.",Resolution Process
+742563970001,6,customer,"Right, and I had CO?",
+742563970001,7,agent,"Yeah, that's kind of ridiculous.",
+742563970001,8,agent,mhm. Let me just further check here what is happening.,Resolution Process
+742563970001,9,customer,"Okay, thank you.",
+742563970001,10,agent,"And we do apologize for the inconvenience. Maybe there is something um you know glitch in our system, something about that.",Resolution Process
+742563970001,11,customer,Okay.,
+742563970001,12,agent,"mhm. Again, we do apologize. We we do apologize for the inconvenience.",Resolution Process
+742563970001,13,customer,Okay.,
+742563970001,14,agent,"Mm {voice.creditcard.digitsTranscribed:###} moment. Um let me just look. What are the possible options that I have could offer here to you, okay? Please stay on the line, please stay on the line for me for me?",Resolution Process
+742563970001,15,customer,Alright.,
+742563970001,16,customer,I.,
+742563970001,17,customer,"Normal, hold.",
+742563970001,18,customer,"Yes, ma'am.",
+742563970001,19,agent,"Hi, thank you for patiently waiting. So um upon checking here, I think there is an um system error with regarding with our um with our autopay. So um have you contacted your.",Resolution Process
+742563970001,20,agent,Um your bank with this {voice.creditcard.digitsTranscribed:###} because as per checking here on. Let me just check here on June {voice.creditcard.digitsTranscribed:###} um your last credit card wasn't able to um.,Resolution Process
+742563970001,21,customer,"mhm yes, um I had like.",
+742563970001,22,agent,"to respond with the payment. So it's um failed due to card decline your response, and then you a mhm. Go on.",Resolution Process
+742563970001,23,customer,"Yeah, the card that y'all had on file. Previously ended in, but I had it was compromised, so I had to get a new credit card.",Resolution Process
+742563970001,24,customer,I went online and you know got put in a new credit card number and um.,Resolution Process
+742563970001,25,customer,"I just I mean, I have my credit card here. If if there's any way that you could put that in for the autopay for me.",Resolution Process
+742563970001,26,agent,"Um actually, we can do it manually, but um I'm afraid I cannot um process this {voice.creditcard.digitsTranscribed:### ###} you since um I don't want to like um have some system error like um double charges you know that, so I think uh it's.",Resolution Process
+742563970001,27,customer,"Yeah, mhm.",
+742563970001,28,agent,It's best for you to wait for this {voice.creditcard.digitsTranscribed:###} since you just recently updated your credit card.,Resolution Process
+742563970001,29,customer,"Okay, so it will take it out, eventually.",Resolution Process
+742563970001,30,customer,"Okay, alright.",
+742563970001,31,agent,"Yeah, yeah, the actually the system will try to collect the payment for this {voice.creditcard.digitsTranscribed:###}, automatically, so um I just want to set your proper expectation that you still have a {voice.creditcard.digitsTranscribed:#####} days remaining for the um soft disconnect.",Resolution Process
+742563970001,32,customer,Okay.,
+742563970001,33,customer,"But it should be taken out by then, though.",Resolution Process
+742563970001,34,agent,"You know, mhm. So yeah, exactly.",
+742563970001,35,customer,Okay.,
+742563970001,36,agent,"So um is there anything else, where um where regarding with this {voice.creditcard.digitsTranscribed:###}, is there anything else beside this {voice.creditcard.digitsTranscribed:###}.",
+742563970001,37,customer,"No, ma'am, or y'all we y'all send me a confirmation of the payment.",Resolution Process
+742563970001,38,agent,"I'm sorry, come again?",
+742563970001,39,customer,Will y'all send a confirmation of the payment when it does come off the credit card.,Resolution Process
+742563970001,40,agent,"Yes, exactly.",Resolution Process
+742563970001,41,customer,Okay.,
+742563970001,42,agent,Once the system. Once the system will um C.,Resolution Process
+742563970001,43,agent,"Um credited the balance of this um bill, it will be automatically sent a message to you.",Resolution Process
+742563970001,44,customer,"Okay, that sounds good. Well, I appreciate your time.",Result
+742563970001,45,customer,"Yeah, I understand.",
+742563970001,46,agent,"mhm yeah. And again, on behalf of our company. We do apologize for the system error, this is something we cannot control sometimes since you know, mhm. And um also, if you want to change anything on your programming, you can.",
+742563970001,47,customer,Okay.,
+742563970001,48,agent,"actually go to raven .com slash my programming, okay? And upon checking here, I see that you are eligible for our promotion which is the gallery channel {voice.creditcard.digitsTranscribed:### ###} month free. And uh Hulk {voice.creditcard.digitsTranscribed:### ###} month free, you should give it a try.",
+742563970001,49,customer,"Okay, no. Thank you. I'm good right now. But I appreciate it.",
+742563970001,50,agent,No worries. And um is there anything else I can help you with besides with this concern.,
+742563970001,51,customer,That is it.,
+742563970001,52,customer,Bye bye.,
+742563970001,53,bot,issue auto wrapped up.,
+742564160001,0,agent,"Hi, welcome to Raven. This is {first_name:*****} speaking. Can I have your name?",
+742564160001,1,customer,"Yes, my name is {first_name:*****}",
+742564160001,2,customer,"Uh yes, I need to unlock a phone.",Reason for Contact
+742564160001,3,agent,"Hello, good evening, {first_name:*****}, and how can I help you?",
+742564160001,4,agent,"mhm okay. So uh where did you buy, where did you bought the phone.",Resolution Process
+742564160001,5,customer,I bought it on the Raven wireless setup.,Resolution Process
+742564160001,6,agent,"Oh, okay, so it is unlocked with Raven are you trying to port out your accou your number?",Resolution Process
+742564160001,7,customer,"Um S, no, what it is is I bought a phone, and then I'd.",Reason for Contact
+742564160001,8,customer,"tried to add a line, but then the person that was helping me with it said I had to replace a line, and I didn't want that. Um but it was already partway through the activation process, and now the phone's locked.",Reason for Contact
+742564160001,9,customer,"Yes, um, J.",
+742564160001,10,agent,"Oh, alright? Okay, I see. Can I have the email address?",
+742564160001,11,customer,{email:*****}.,
+742564160001,12,customer,{email:*****}.,
+742564160001,13,agent,{email:*****}.,
+742564160001,14,customer,{email:*****}.,
+742564160001,15,agent,{email:*****}.,
+742564160001,16,customer,"Yes, ma'am.",
+742564160001,17,agent,"Mm okay, just a moment.",
+742564160001,18,customer,Okay.,
+742564160001,19,customer,So this isn't the phone that is currently on there. It's the new one. I tried to purchase so I still want that line on that account to remain fine with the with the motor home phone on it.,Resolution Process
+742564160001,20,agent,"Mm okay, so so can I have the phone number?",Resolution Process
+742564160001,21,customer,Like telephone number?,Resolution Process
+742564160001,22,agent,"Yes, the phone number that is associated with this account that we are trying to activate.",Resolution Process
+742564160001,23,customer,Um.,
+742564160001,24,customer,I'm sorry. I thought this was gonna.,
+742564160001,25,agent,"uhhuh. No worries for that. Um okay, so uh which phone number you want to activate with a new device.",Resolution Process
+742564160001,26,customer,So I didn't have a phone number?,Resolution Process
+742564160001,27,agent,"Oh, okay, you didn't have a phone number yet. So uh did you receive a SIM card?",Resolution Process
+742564160001,28,customer,"Yeah, I did.",Resolution Process
+742564160001,29,agent,"Alright, okay? So uh do you want to have a new number with that, SIM card?",Resolution Process
+742564160001,30,customer,What I was trying to do now I have a SIM card through telling and they're telling me that the device is locked because of.,Resolution Process
+742564160001,31,customer,That part way through the activation process.,Resolution Process
+742564160001,32,agent,"Oh, mhm okay, we are going to uh try and activating that {voice.creditcard.digitsTranscribed:###} again? So please stay on the line with me, okay?",Resolution Process
+742564160001,33,agent,Mm.,
+742564160001,34,customer,"Right, but by activating it, like does that mean I have to go through Raven",Resolution Process
+742564160001,35,agent,Um.,
+742564160001,36,agent,"Okay, so that same C, where did you get the same card?",Resolution Process
+742564160001,37,customer,"So I ordered the phone online and you guys sent me the phone. Plus, the SIM card?",Resolution Process
+742564160001,38,agent,mhm okay. So that's the SIM card from our Raven,Resolution Process
+742564160001,39,agent,Oh.,
+742564160001,40,customer,"Right, so then when I then it had problems then I called Raven",Resolution Process
+742564160001,41,agent,mhm.,
+742564160001,42,customer,"The gentleman that was helping me was telling me I only could replace the phone line, not at it. Not phone, and then I told them that's not what I wanted to do so, then.",Resolution Process
+742564160001,43,customer,I ordered a SIM card through the the um phone company tello? And then when I tried to activate that it's telling me that the phone is locked.,Resolution Process
+742564160001,44,agent,"Oh, yeah, so when did you bought the phone from your Raven",Resolution Process
+742564160001,45,customer,Um like I'd say within {voice.creditcard.digitsTranscribed:###} weeks ago.,Resolution Process
+742564160001,46,agent,"Okay, let uh let me just go ahead and look for an available options with that, okay? So please stay on the line. Thank you.",Resolution Process
+742564160001,47,customer,"Alright, thank you.",
+742564160001,48,customer,Yes.,
+742564160001,49,agent,"Hello? Sir? Hello, {first_name:*****}, okay? So alright? Okay, so here's what we are going to do for you to use again your phone, okay? Because usually, it takes a year uh for you to use that device to another provider. Um so I'm going to send you another SIM card?",Resolution Process
+742564160001,50,agent,And that is the only that is the thing where that you are going to activate with the device. Okay.,Resolution Process
+742564160001,51,customer,No.,
+742564160001,52,customer,I don't want this.,
+742564160001,53,agent,Um I'm so sorry for this {voice.creditcard.digitsTranscribed:###} because you cannot use a different.,Resolution Process
+742564160001,54,customer,I never even.,
+742564160001,55,agent,"Okay, because you bought the phone from your Raven right?",Resolution Process
+742564160001,56,customer,"Yes, ma'am.",
+742564160001,57,agent,"Oh, yes. Okay, so it was just for uh like {voice.creditcard.digitsTranscribed:###} weeks ago.",Resolution Process
+742564160001,58,agent,"So it in that case, the only SIM card that you can use is from Raven. Also, if you're going to insert a different SIM card?",Resolution Process
+742564160001,59,agent,You are going to experience the same thing you experienced today?,Resolution Process
+742564160001,60,agent,It will show you that the phone is locked.,Resolution Process
+742564160001,61,customer,"Right, so.",
+742564160001,62,agent,Okay. Okay.,
+742564160001,63,customer,What?,
+742564160001,64,customer,last phone call. I had were the gentleman told me I couldn't even set up a new phone number.,Resolution Process
+742564160001,65,agent,"Uh okay, sir. We C, you can set up a new phone number using the SIM card from raven uh from Raven",Resolution Process
+742564160001,66,customer,Okay.,
+742564160001,67,agent,"We can set you, we can give you a different phone number, but the same card must from Raven",Resolution Process
+742564160001,68,customer,"Right, so.",
+742564160001,69,agent,"Okay, so I am going to um order another SIM card for you, and please wait. This for this to arrive and then call us back and we are going to assist you in activating that same card with a new phone number.",Resolution Process
+742564160001,70,customer,So you guys sent me. {voice.creditcard.digitsTranscribed:###} SIM cards with {voice.creditcard.digitsTranscribed:###} of them not work or does it have to be a brand new {voice.creditcard.digitsTranscribed:###}.,Resolution Process
+742564160001,71,customer,Like it keeps.,
+742564160001,72,agent,"Okay, so how many SIM how manys did you receive?",Resolution Process
+742564160001,73,customer,{voice.creditcard.digitsTranscribed:###} of them came in the box. {voice.creditcard.digitsTranscribed:###} brand.,Resolution Process
+742564160001,74,customer,Right.,
+742564160001,75,agent,"Okay. {voice.creditcard.digitsTranscribed:###} so uh did you already use the first {voice.creditcard.digitsTranscribed:###}, okay. The {voice.creditcard.digitsTranscribed:#}nd {voice.creditcard.digitsTranscribed:###} is uh still intact?",Resolution Process
+742564160001,76,customer,"Yeah, it hasn't even been opened.",Resolution Process
+742564160001,77,agent,"Okay, so we are going to uh try activating the {voice.creditcard.digitsTranscribed:###}. The other SIM card? Okay.",Resolution Process
+742564160001,78,customer,"Right, you want me to click grab.",Resolution Process
+742564160001,79,agent,"Uh okay. Yes, please. So can you insert the new SIM card on your device. So are you calling in from the device that we are going to activate.",Resolution Process
+742564160001,80,agent,"Okay, perfect.",
+742564160001,81,customer,"No, I'm on a different phone. So we everything's on the other phone?",Resolution Process
+742564160001,82,agent,"Okay. Okay, that's perfect. So can you insert the new SIM card on your device?",Resolution Process
+742564160001,83,customer,"Yeah, I'm grabbing it right now.",Resolution Process
+742564160001,84,agent,Okay. Just take your time.,
+742564160001,85,customer,Thank you.,
+742564160001,86,customer,"Okay, I'm opening the cash.",Resolution Process
+742564160001,87,customer,Alright.,
+742564160001,88,customer,"Okay, do I just need to turn the phone on once I got the card in there.",Resolution Process
+742564160001,89,customer,"Hello, ma'am?",
+742564160001,90,agent,"Hello, I'm just currently opening my tools, okay?",Resolution Process
+742564160001,91,customer,"Yep. Do I turn the phone on, though, after I've um put the Raven.",Resolution Process
+742564160001,92,customer,Okay.,
+742564160001,93,agent,"Uh uh yes, please turn on the phone.",Resolution Process
+742564160001,94,customer,"Alright. Do I need to download the Raven app on this, or?",Resolution Process
+742564160001,95,agent,"Okay, hold on.",
+742564160001,96,agent,"Okay, hold on, {first_name:*****}, okay?",
+742564160001,97,customer,Sure.,
+742564160001,98,customer,I.,
+742564160001,99,customer,Freaking story.,
+742564160001,100,customer,"Apparently, you can't unlock the phone. Unless you use the for two years, but this. Are you saying they can give you.",Resolution Process
+742564160001,101,agent,"Okay, hello?",
+742564160001,102,customer,"last guy Yes, ma'am.",
+742564160001,103,agent,"Okay, so upon checking here, um we cannot ch give you a new phone number because this number came from uh the Raven. Also, it's uh you. It's you came from for uh from one of our legacy plans.",Resolution Process
+742564160001,104,agent,Uh why do you want to change this number.,Resolution Process
+742564160001,105,customer,"What's W. So I went, so can you unlock the phone, then for me?",Resolution Process
+742564160001,106,agent,"Oh, no, unfortunately, I cannot unlock the phone, sir, because uh it sh uh it's usually takes a year.",Resolution Process
+742564160001,107,customer,"Right, but if I purchased a new phone.",Resolution Process
+742564160001,108,customer,Why can't I get a new number. I went to add a line.,Resolution Process
+742564160001,109,agent,"Okay, so um when you bought the new phone. Um is there an option for you to keep your number or to choose a new number from us, because it should uh if there is an option you should choose to um you should choose to have an.",Resolution Process
+742564160001,110,agent,A number when Y.,Resolution Process
+742564160001,111,customer,That's what shows.,
+742564160001,112,agent,"Okay, uh but on the day you purchased the phone. It was not discussed to you.",Resolution Process
+742564160001,113,customer,"No, I I went on the website went to add a line, said I wanted a new number, an additional new number.",Resolution Process
+742564160001,114,customer,It let me order the phone. It let me pick my plan. It came.,Resolution Process
+742564160001,115,agent,Mm.,
+742564160001,116,customer,And so now I have this phone that either. I have to take this old number and take my daughter's phone away from their.,Resolution Process
+742564160001,117,customer,Or I have a phone that I can't use. Cause you guys won't unlock it.,Resolution Process
+742564160001,118,agent,"Yes, it is locked because you inserted a SIM card from other carrier.",Resolution Process
+742564160001,119,agent,"Okay, so you can you try.",
+742564160001,120,customer,"Right, so what what what do I do here? What do I return all of this and get a full refund, then.",Resolution Process
+742564160001,121,agent,"Okay, so you are you are going to return the phone.",Resolution Process
+742564160001,122,customer,"Well, if I can't get a number. No.",Resolution Process
+742564160001,123,agent,"Um unfortunately, we can't give you a new number because it's also from Raven uh from Bunny. I'm sorry.",Resolution Process
+742564160001,124,customer,So I ordered from Bunny and you can't give me a number because it's from your Raven,Resolution Process
+742564160001,125,agent,"Yes, this I yes, uh because the number is already um saved with?",Resolution Process
+742564160001,126,agent,Under your account.,Resolution Process
+742564160001,127,customer,So you can't take this sooner. I can't open a completely new account with a different.,Resolution Process
+742564160001,128,agent,"Okay, can you, sir, can you insert back. Um.",Resolution Process
+742564160001,129,agent,A Raven SIM card?,Resolution Process
+742564160001,130,customer,Did.,Resolution Process
+742564160001,131,agent,"Okay, so. Okay, the phone number here that I have on our system that uh could be saved under your name is {voice.creditcard.digitsTranscribed:##########}.",Resolution Process
+742564160001,132,customer,Which is my daughter's phone number on my other account?,Resolution Process
+742564160001,133,agent,"Okay, so this is okay, this is the phone number that can be saved.",Resolution Process
+742564160001,134,agent,With that phone.,Resolution Process
+742564160001,135,agent,"Okay, hold on.",
+742564160001,136,customer,"Okay, how do I return all of this for a full refund, please?",Resolution Process
+742564160001,137,agent,"Okay, I'm going to work on it, okay?",
+742564160001,138,customer,"Alright, thank you.",
+742564160001,139,agent,You're welcome. Please stay on the line.,
+742564160001,140,customer,"No, no.",
+742564160001,141,customer,mhm.,
+742564160001,142,customer,Already did.,
+742564160001,143,customer,Yeah.,
+742564160001,144,agent,"Hello, {first_name:*****}",
+742564160001,145,customer,"Yes, ma'am.",
+742564160001,146,agent,"Okay, so please stay on the line, okay? I'm currently working on it.",
+742564160001,147,customer,"Alright, thank you.",
+742564160001,148,agent,You're welcome.,
+742564160001,149,customer,I.,
+742564160001,150,customer,I'm I'm.,
+742564160001,151,customer,I.,
+742564160001,152,customer,Yeah.,
+742564160001,153,customer,Could you.,
+742564160001,154,customer,What happened?,
+742564160001,155,customer,Yes.,
+742564160001,156,agent,"Okay. Hello? Okay, so I already uh processed the return for the D. The return um you can just uh wait for an email you are going to receive an email with regards to the details, okay?",Result
+742564160001,157,customer,Did you change my daughter's phone number. The other number?,
+742564160001,158,customer,"Okay, so what do I do from then.",
+742564160001,159,agent,"No, no, we haven't do anything under your account, except for the return of the device. Uh okay, so you can just wait for the email, and then.",Result
+742564160001,160,customer,"Okay, alright, thank you.",
+742564160001,161,customer,"Ma'am, thank you.",
+742564160001,162,customer,Bye bye.,
+742564160001,163,bot,issue auto wrapped up.,
+742565280001,0,agent,"You for choosing Raven This is {first_name:*****}, and who am I speaking with today?",
+742565280001,1,customer,"Uh yes, sir. This is {full_name:*****},",
+742565280001,2,agent,"How are you today, sir?",
+742565280001,3,customer,I'm doing great.,
+742565280001,4,agent,"Excellent, excellent. How can I help you?",
+742565280001,5,customer,Um.,
+742565280001,6,customer,"Well, I haven't been here in my hood for about three or four days. And then I come in and I keep getting the uh check switch status progress.",Reason for Contact
+742565280001,7,customer,058 and it's been doing that for tech for. I've been trying to get on for two hours.,Reason for Contact
+742565280001,8,customer,just sits there.,Reason for Contact
+742565280001,9,agent,Okay.,
+742565280001,10,customer,And the.,
+742565280001,11,agent,"Okay, um I is this connected to like an Raven like Snickers or Twix or.",Resolution Process
+742565280001,12,customer,Reese I guess that. Ha is every time familiar.,Resolution Process
+742565280001,13,agent,"Um yeah, yeah, Toblerone is a manufacturer. Um is there a is there.",Resolution Process
+742565280001,14,customer,"Toblerone, yeah.",Resolution Process
+742565280001,15,agent,Is there a separate name on on the Raven itself.,Resolution Process
+742565280001,16,customer,"altogether Mars package, charged um X two X two.",Resolution Process
+742565280001,17,agent,"So Toblerone makes a balance, okay, okay, pass away, perfect. Sorry about that. I'm trying to be difficult, sir. I was just certain certain ones have different steps that I just wanted to make sure we went through the right steps, sir.",Resolution Process
+742565280001,18,customer,I you know I have two receivers and I went in there and unplugged the uh the one in the bedroom just to see if maybe that was an issue too.,Resolution Process
+742565280001,19,customer,Yes.,
+742565280001,20,agent,"So the primary um is the one that's uh that you're looking at now, and it's it's giving you the signal loss message, correct? Or it's going to the acquiring signal, and it just never goes past there.",Resolution Process
+742565280001,21,customer,"Yeah, it's um I say, the little greenish blue line is probably a quarter of the way and it just sits there.",Resolution Process
+742565280001,22,agent,"Okay, a couple questions. Is this mounted to the top of the RV or is it sitting like on a table?",Resolution Process
+742565280001,23,customer,"No, I saw it's on the ground on a P on the uh Peter the three LADE.",Resolution Process
+742565280001,24,agent,"Okay, and like on a tripod?",Resolution Process
+742565280001,25,customer,"Yes, sir.",Resolution Process
+742565280001,26,agent,"Okay, perfect, and the southwest sky is that nice and clear, no branches no trees anything in the southwest.",Resolution Process
+742565280001,27,customer,"Now I Ha. It's been working before, and like I said, I went home for a few days and came back, and uh this is not working now.",Resolution Process
+742565280001,28,customer,"Okay, now we.",
+742565280001,29,agent,"Alright, I'll tell you what, sir, let let's do this. Is it possible. And I know it sounds a little silly. Is it possible to move it about a foot.",Resolution Process
+742565280001,30,agent,long as it doesn't matter which direction as long as you still have a clear line of sight?,Resolution Process
+742565280001,31,customer,I.,
+742565280001,32,customer,It's spinning.,
+742565280001,33,customer,I.,
+742565280001,34,customer,Alright.,
+742565280001,35,agent,"Alright, um now that you moved it a foot. Well, head back to that Hershey and will reboot that.",Resolution Process
+742565280001,36,agent,Uh let it go through that that setup again here.,Resolution Process
+742565280001,37,agent,I visit ever take you to the screen that I ask you what state you're in. And to run a scan.,Resolution Process
+742565280001,38,customer,"So no, so it says should take no more than five minutes to complete. Acquiring signal, the different thing came.",Resolution Process
+742565280001,39,agent,"Okay, um we're gonna press and hold the power button on the front of Hershey for about five seconds until the screen goes blank.",Resolution Process
+742565280001,40,customer,uhhuh.,
+742565280001,41,agent,"Alright, you can let go. After that, and it should show. Hershey starting up here in just a moment.",Resolution Process
+742565280001,42,customer,It is.,
+742565280001,43,agent,Perfect.,
+742565280001,44,agent,"Okay, so just a moment here.",
+742565280001,45,customer,A.,
+742565280001,46,agent,And while we're waiting here the um the port on the uh X. Two on the Peanutbutter where the coax cable goes into is that facing north.,Resolution Process
+742565280001,47,customer,"I picked it up moved it, okay?",Resolution Process
+742565280001,48,agent,"as long as it's pretty North. It doesn't matter. I mean, um it doesn't have to be exactly North. But as long as it's not facing south.",Resolution Process
+742565280001,49,customer,"No, it's facing kind of North I guess a little bit.",Resolution Process
+742565280001,50,agent,"should be that should be fine. You don't have to move it again, sir?",Resolution Process
+742565280001,51,customer,Okay.,
+742565280001,52,agent,I appreciate that.,
+742565280001,53,customer,Yes.,
+742565280001,54,agent,"Alright, still showing. Hershey starting up.",Resolution Process
+742565280001,55,agent,Okay.,
+742565280001,56,customer,"Uh yes, says starting up. Yes, sir.",Resolution Process
+742565280001,57,customer,Yep.,
+742565280001,58,agent,Now is that starting up down in the bottom corner like got some nines. After it.,Resolution Process
+742565280001,59,customer,The {customer_delayed.digits4:####}.,Resolution Process
+742565280001,60,agent,Okay.,Resolution Process
+742565280001,61,customer,Now it comes up to the receiver one uh West.,Resolution Process
+742565280001,62,customer,"The mode and then the state, {address*****}. So that.",Resolution Process
+742565280001,63,agent,"Alright, and in the mode is it set for W A one with {customer_delayed.digits6:######} and 129.",Resolution Process
+742565280001,64,customer,"Yes, sir.",
+742565280001,65,agent,"Perfect. Let's go ahead and select scan, sir.",Resolution Process
+742565280001,66,agent,I appreciate it.,
+742565280001,67,agent,So progress bar filling in at all.,Resolution Process
+742565280001,68,customer,"Yeah, it's about uh.",Resolution Process
+742565280001,69,customer,"A quarter of the way, right now.",Resolution Process
+742565280001,70,agent,Okay.,
+742565280001,71,agent,shouldn't be too much longer here.,Resolution Process
+742565280001,72,customer,That's still the same.,Resolution Process
+742565280001,73,agent,Still at the about a quarter fool.,Resolution Process
+742565280001,74,customer,"Yes, sir. Yep.",
+742565280001,75,agent,Mm.,
+742565280001,76,agent,give it another one minute here. I will set the time here and see if it makes any move in that minute.,Resolution Process
+742565280001,77,agent,"Another question. The coax cable that screwed on the back of the power is that going to directly to the back of Hershey, or is it using the RV walls.",Resolution Process
+742565280001,78,customer,"No, I just directly to the uh Hershey",Resolution Process
+742565280001,79,customer,"Yeah, I've had.",
+742565280001,80,agent,Okay. Okay.,
+742565280001,81,agent,And {address:*****}. I'm sorry. Go ahead.,
+742565280001,82,customer,"Now, I have not received before and I had this.",Resolution Process
+742565280001,83,customer,is what now?,
+742565280001,84,agent,Okay.,
+742565280001,85,agent,Uh how high is the Toblerone off the ground.,Resolution Process
+742565280001,86,customer,Um the tripod's probably about two feet.,Resolution Process
+742565280001,87,customer,not moving at all.,Resolution Process
+742565280001,88,agent,Okay. Okay.,
+742565280001,89,agent,"Alright, so mm. Have you ever uh downloaded a Kit kat app onto your phone.",Resolution Process
+742565280001,90,customer,Now that's new new one to me.,
+742565280001,91,agent,"Well, they they literally have a ton of different ones. Um what it does is it kinda confirms the line of sight make sure that there's.",Resolution Process
+742565280001,92,agent,"I'm sorry, go ahead.",
+742565280001,93,customer,"Well, now I I I mean, if anything, cha hasn't changed.",
+742565280001,94,customer,It's been facing kinda.,
+742565280001,95,customer,"There's no. trailers or nothing on the other side of me, and it's been facing away from my trailer straight.",Resolution Process
+742565280001,96,customer,Kinda Des.,
+742565280001,97,customer,And now.,
+742565280001,98,customer,It's been in all crazy in different directions.,Resolution Process
+742565280001,99,customer,just going around and.,Resolution Process
+742565280001,100,agent,"Yeah, it's I it's trying to still lock into the satellites. It does have a bit of trouble trying to find the satellites.",Resolution Process
+742565280001,101,customer,"It is. Yes, sir.",
+742565280001,102,agent,Do you still have the primary or the secondary line connected to the back of the top way.,Resolution Process
+742565280001,103,agent,I don't think that should really matter. Um.,
+742565280001,104,agent,"Do you wanna I mean, cause you've already got Hershey unplugged, don't you?",Resolution Process
+742565280001,105,customer,"Uh the one in the bedroom, yes, for the 2nd receiver just unplugged the whole thing. Yes.",Resolution Process
+742565280001,106,customer,then it keeps wanting to face.,
+742565280001,107,agent,"Yeah, that shouldn't matter at all.",
+742565280001,108,customer,more East.,
+742565280001,109,customer,"Oh, now it's been in around the other way.",
+742565280001,110,customer,"So like you said, I can't find one, so.",
+742565280001,111,agent,And there's no um rain clouds or anything in the sky.,Resolution Process
+742565280001,112,customer,That was clear. It's 100 and.,Resolution Process
+742565280001,113,agent,Okay.,
+742565280001,114,agent,"Yes, sir.",
+742565280001,115,customer,Do you want me to turn that more the.,Resolution Process
+742565280001,116,customer,"North. I mean, I can.",Resolution Process
+742565280001,117,customer,"Okay, let me go ahead and.",Resolution Process
+742565280001,118,agent,"I mean, we can try it. Um.",Resolution Process
+742565280001,119,customer,"I mean, I'm.",
+742565280001,120,agent,It it sh?,
+742565280001,121,customer,I could I pick the cable. Which erases up about four feet.,Resolution Process
+742565280001,122,agent,Is there any way you could set it up a little higher off the ground than the then a couple feet.,Resolution Process
+742565280001,123,customer,Give me a second.,
+742565280001,124,agent,"Alright, um as long as it's nice and level within four degrees and level that should work.",Resolution Process
+742565280001,125,agent,"Yes, sir.",
+742565280001,126,customer,Alright.,
+742565280001,127,customer,Okay.,
+742565280001,128,agent,"Alright, once we got that moved again. We're gonna go ahead and reboot that Hershey one more time.",Resolution Process
+742565280001,129,customer,Uh starting up.,
+742565280001,130,agent,Okay.,
+742565280001,131,customer,"So what was the app that you were talking about. I mean, the the location, I guess.",Resolution Process
+742565280001,132,customer,On the phone.,
+742565280001,133,agent,"Um yeah, it's called Kit Kat",Resolution Process
+742565280001,134,agent,"If you go to your app store and you just type in Kit Kat and do the search from there, it should pull up that size wanna say the 2nd or 3rd option, it'll be Kit Kat , and it's spelled K I T. It's got a green picture of uh like a satellite off to the side.",Resolution Process
+742565280001,135,agent,"Yes, sir.",
+742565280001,136,customer,"Alright, now it's back to the so do the receiver and the scan it again.",Resolution Process
+742565280001,137,customer,"Yes, sir.",
+742565280001,138,agent,Now are you usually using the {customer_delayed.digits6:######} and 129 when both of them are set up.,Resolution Process
+742565280001,139,agent,Okay. Okay.,
+742565280001,140,customer,Yeah.,
+742565280001,141,agent,Has it gotten you to the uh scan screen yet?,Resolution Process
+742565280001,142,customer,"Yeah, the uh bars about the same as last time.",Resolution Process
+742565280001,143,customer,Not the quarter of a white almost to the stop not quite like an HD to the stop.,Resolution Process
+742565280001,144,agent,Okay.,
+742565280001,145,customer,"Nope, it's not moving at?",Resolution Process
+742565280001,146,agent,Mm.,
+742565280001,147,agent,"Alright, so well, I mean with only three points of failure here. I mean Hershey itself, the coax cable and the Godiva itself all of which seem to be working fine. The only other thing would be Kit Kat?",Resolution Process
+742565280001,148,agent,"However, so what I would do I would I would certainly check that.",Resolution Process
+742565280001,149,agent,"that app I I know you always get it there before for some strange reason, it's not getting it here if that does. I'm sorry. Go ahead, sir.",Resolution Process
+742565280001,150,customer,Did you give me{customer_delayed.password:*} I{customer_delayed.password:*}m sorry{customer_delayed.password:*} Can you give me the app{customer_delayed.password:*} one more time I that I just got me a pin to write it down{customer_delayed.password:*} I know it was like something before that{customer_delayed.password:*},Resolution Process
+742565280001,151,agent,"Sure, yeah, yeah, not not a problem. Yeah, it's uh Kit Kat. Three different words?",Resolution Process
+742565280001,152,customer,Okay.,
+742565280001,153,agent,"Now, when you do the search, you will only wanna search for Kit Kat for some strange reason, when you push that Kit Kat in it doesn't pull it up. I don't know why, but I promise if you just type in Kit Kat and search from there. It'll be the 2nd or 3rd option for you.",Resolution Process
+742565280001,154,customer,And and then added. I'm sorry. Go ahead.,
+742565280001,155,agent,Have you TR.,
+742565280001,156,agent,"Uh do you happen to have a I'm sorry, sir, do you happen to have another coax cable that you could try.",Resolution Process
+742565280001,157,customer,"Um no, I don't. I have to when I ordered it, I ordered one. The the 25 feet, so it'll run me into one I had it ran into the T back of the TV. So it's so it's all. One solid piece.",Resolution Process
+742565280001,158,agent,"Oh, okay. Okay, I see what you're saying you you had a customer installed that cable itself, specifically?",Resolution Process
+742565280001,159,agent,Cause I is that on both of them as well.,Resolution Process
+742565280001,160,customer,"Yeah, just specifically for that, and it goes straight to the Hershey That way it's Yes, sir? Correct?",Resolution Process
+742565280001,161,customer,uhhuh.,
+742565280001,162,agent,"Ah, okay. Okay, um one thing I uh so there's a couple different options that Kit Kat app, that'll confirm, just to make sure you do have 100 percent clear line of sight, um if you do, which I'm sure you do.",Resolution Process
+742565280001,163,agent,"There's also uh I the next thing I would try is maybe picking up you know another 25 foot coax, you could probably get that at like Walmart or?",Resolution Process
+742565280001,164,agent,Target or something like that.,Resolution Process
+742565280001,165,agent,Uh maybe even the dollar store. Um it does have to be RG six rated if you wanna drop that down as well.,Resolution Process
+742565280001,166,customer,Alright.,
+742565280001,167,customer,"No, sir, I don't.",
+742565280001,168,agent,Um and then if that doesn{customer_delayed.password:*}t work{customer_delayed.password:*} then I would certainly call Twix um{customer_delayed.password:*} and they will have you check a few things with the password{customer_delayed.password:*} specifically{customer_delayed.password:*} Do you have their number{customer_delayed.password:*},Resolution Process
+742565280001,169,agent,"You still have something to write with, sir?",
+742565280001,170,customer,"I did, yes, sir.",
+742565280001,171,agent,"Perfect, so it's gonna be one {phone_number:***}",Resolution Process
+742565280001,172,agent,{phone_number:***},Resolution Process
+742565280001,173,agent,{customer_delayed.digits4:####}.,Resolution Process
+742565280001,174,customer,mhm okay.,
+742565280001,175,agent,"And when I if you if you do need to call them when you get a hold of them, just let them know that you spoke with a Raven technician uh we've checked every possible point of failure, and it um and you do have a clear line of sight. That'll be after you've checked that Kit Kat app.",Resolution Process
+742565280001,176,agent,Um and you've even changed out the coax cable.,Resolution Process
+742565280001,177,agent,At that point um you know there is nothing else that they can check other than some things on the Toblerone itself.,Resolution Process
+742565280001,178,customer,"Okay, I'll do.",Result
+742565280001,179,agent,"Okay, I I'm so sorry, sir. I wish I had a better answer for you?",
+742565280001,180,customer,"Yes, sir. No, you're fine. I appreciate the info. Thank you.",
+742565280001,181,agent,Not a problem at all. Is there anything else I can help you out with?,
+742565280001,182,customer,"No, sir. Thank you.",
+742565280001,183,agent,"Alright, sir. You have a good rest of your day now.",
+742565280001,184,bot,issue auto wrapped up.,
+742566630001,0,agent,Are you calling about the account with the last name starting with {last_name:***},
+742566630001,1,customer,Yes.,
+742566630001,2,agent,You are agreeing to a new 24 month commitment with a $10.,
+742566630001,3,agent,"Okay, yeah, we'll have to try it again. one moment.",
+742566630001,4,customer,What happened?,
+742566630001,5,agent,"Yeah, I'm just fixing something on my end.",
+742566630001,6,customer,"Oh, okay.",
+742566630001,7,agent,"Okay, I'll send you over again. one moment.",
+742566630001,8,agent,Here we.,
+742566630001,9,agent,Espanol hopery mouth.,
+742566630001,10,agent,as part of this call. We may collect and ask you to provide personal information so that we can provide the best service possible.,
+742566630001,11,agent,"Learn more, please. See, our privacy policy at raven .com.",
+742566630001,12,agent,I see an account having the last name starting with {last_name:***} is this the account you're calling about?,
+742566630001,13,customer,Yes.,
+742566630001,14,agent,You are agreeing to a new 24 month commitment with a $10 per month early termination fee.,Reason for Contact
+742566630001,15,agent,"If you agree and accept this offer, please enter your security code followed by pound key. If you do not agree, press the star key.",
+742566630001,16,customer,Okay.,
+742566630001,17,agent,"Alright, so I heard that you have successfully accepted. Your new commitment. Let me just refresh your account to see if it's successfully applied, okay? Hold on. Okay, great. Uh you did a good job. Um it successfully accepted uh will be at?",Resolution Process
+742566630001,18,agent,Okay.,
+742566630001,19,agent,"Will be without Raven Protect Ruby, right?",Resolution Process
+742566630001,20,customer,What was.,
+742566630001,21,customer,I.,
+742566630001,22,agent,"Yeah, we'll also remove your insurance uh plan. So yeah, we'll be at?",Resolution Process
+742566630001,23,agent,It's not giving me the price yet. one moment.,Resolution Process
+742566630001,24,customer,Okay.,
+742566630001,25,agent,{customer_delayed.digits4:####} to be exact.,Resolution Process
+742566630001,26,customer,Okay.,Resolution Process
+742566630001,27,agent,"Alright, is there any other um concerns that I may assist you before I let you go?",
+742566630001,28,customer,"Nope, uh so my bill on the 25th will just be for 170, right?",Resolution Process
+742566630001,29,agent,Yes.,Resolution Process
+742566630001,30,customer,"And then next month on uh July uh on the 27th or 25th, it'll be 79.",Resolution Process
+742566630001,31,customer,Okay.,Resolution Process
+742566630001,32,agent,"Yes, it may be lower than 79 because of some adjustment on the billing cycle.",Resolution Process
+742566630001,33,customer,"Okay, but okay, but that's what I could expect.",Resolution Process
+742566630001,34,agent,Yes.,
+742566630001,35,customer,won't ever be more than 79 that's the big thing. Alright.,Resolution Process
+742566630001,36,customer,Appreciate your help.,
+742566630001,37,agent,Yeah.,
+742566630001,38,agent,Alright.,
+742566630001,39,agent,"And in the event that you were looking for some additional um let's say military uh stations uh you can add the Superman Package on your account for $5 a month for six months, okay?",
+742566630001,40,customer,"Oh, okay. Well, I appreciate it. Thank you very much.",Result
+742566630001,41,customer,Uh.,
+742566630001,42,agent,"You're welcome. Have a great day and be safe out there, goodbye.",
+742566630001,43,customer,"Thank you, bye.",
+742566630001,44,bot,issue auto wrapped up.,
+742572680001,0,agent,Raven. My name is {first_name:***}. How may I help you?,
+742572680001,1,customer,"Well, evidently, uh I owe you money, you turned my TV off and I don't have nothing to watch.",Reason for Contact
+742572680001,2,agent,"Alright, let's see.",
+742572680001,3,customer,"Mash amazing you all can't pick up the phone and call, just turn it off.",
+742572680001,4,customer,Well.,
+742572680001,5,agent,"Alright, looks like your service is still on. It wasn't S gonna be scheduled to be cut off another two days. What are you currently getting on this.",Resolution Process
+742572680001,6,customer,There's nothing on my TV. That's why I'm calling you.,Reason for Contact
+742572680001,7,agent,"Okay, is the TV screen blank.",Resolution Process
+742572680001,8,customer,"I ha I now gotta go back upstairs. I had to come downstairs to get my purse to get a credit card, and I've gotta go back up and tell you what it says. It has a big silver thing that had a bunch of writing on it. I don't know what it said.",Reason for Contact
+742572680001,9,agent,Okay.,
+742572680001,10,customer,"I came home to watch a movie. And of course, I can't watch it now.",Reason for Contact
+742572680001,11,customer,"cannot believe you, I would turn my {voice.profanity:XXXXXXX} TV off.",Resolution Process
+742572680001,12,customer,had your old business for how many years?,Resolution Process
+742572680001,13,customer,And then you treat me like this.,Resolution Process
+742572680001,14,customer,I'm on a chair till like {voice.creditcard.digitsTranscribed:###} chair going up my stairs. It takes a minute.,Resolution Process
+742572680001,15,agent,No problem. Excuse me?,
+742572680001,16,customer,"I'm old, and that very irritating to come on and not have any TV.",Resolution Process
+742572680001,17,agent,"Yes, ma'am. Now, is that the smaller receiver upstairs or is that the big main receiver upstairs.",Resolution Process
+742572680001,18,customer,"My main TV, and my TV room.",Resolution Process
+742572680001,19,agent,Okay.,
+742572680001,20,customer,"Okay, now I'm up here. Now, going in there, so I can tell you what it says.",
+742572680001,21,customer,"Oh, so irritating. The big gray screen to watch a video of the below step visit Raven receiver, O, you know what it says. From there, don't you?",Resolution Process
+742572680001,22,customer,I got the reading all to you.,Resolution Process
+742572680001,23,agent,"Yes, ma'am.",
+742572680001,24,agent,"Alright, on your Raven remote, do you have a button that has a picture of a house on it?",Resolution Process
+742572680001,25,customer,"just a minute house, yes.",Resolution Process
+742572680001,26,agent,"Go ahead and press that {voice.creditcard.digitsTranscribed:###} time for me, please?",Resolution Process
+742572680001,27,customer,"Okay, I pressed it. Nothing happened.",Resolution Process
+742572680001,28,agent,Alright.,
+742572680001,29,customer,"Oh, now it's starting to the little blue dots are moving.",Resolution Process
+742572680001,30,customer,"Okay, now it's showing.",Resolution Process
+742572680001,31,customer,all the pictures like maybe it's on what do.,Resolution Process
+742572680001,32,agent,Is it showing you the my channels on now.,Resolution Process
+742572680001,33,customer,Yeah.,
+742572680001,34,agent,"Alright, and can you go and highlight {voice.creditcard.digitsTranscribed:###} of those channels is listed under My Channels on now and press select on that, please?",Resolution Process
+742572680001,35,customer,I did the to watch a video thing came back on.,
+742572680001,36,agent,"Alright, what I want you to do now is go ahead and press the house button for me. {voice.creditcard.digitsTranscribed:#####} times, please.",Resolution Process
+742572680001,37,customer,"The house button? Okay, {voice.creditcard.digitsTranscribed:###}.",Resolution Process
+742572680001,38,customer,"Now it says model Hershey with the Sweet receiver ID, smart card and all that stuff.",Resolution Process
+742572680001,39,customer,R {voice.creditcard.digitsTranscribed:###}.,Resolution Process
+742572680001,40,agent,"Alright, can you read off the smart card number from. I mean, the receiver ID number for me, please?",Resolution Process
+742572680001,41,customer,{voice.creditcard.digitsTranscribed:#######} dash {voice.creditcard.digitsTranscribed:##}.,Resolution Process
+742572680001,42,customer,Yes.,
+742572680001,43,agent,"Alright, thank you much. Now, with your permission, can I connect remotely to the Hershey so we can troubleshoot it.",Resolution Process
+742572680001,44,agent,"Alright, I'll be connecting right now.",Resolution Process
+742572680001,45,customer,the channels showing the channel things back on now.,Resolution Process
+742572680001,46,agent,Okay.,
+742572680001,47,customer,Now it says Hershey with the Sweet and the receiver and smart card. Now it's back to the little box going the blue dots. Now it's back to the channels on now.,Resolution Process
+742572680001,48,agent,Okay.,
+742572680001,49,customer,Yes.,Resolution Process
+742572680001,50,agent,"And you haven't moved anything, correct? Everything is where it was from the beginning.",Resolution Process
+742572680001,51,agent,Okay.,
+742572680001,52,customer,"It keeps flipping different numbers, but now it's back to the Hershey with Sweet",Resolution Process
+742572680001,53,customer,the receiver and the smart card number. So all that.,Resolution Process
+742572680001,54,customer,Now it says.,Resolution Process
+742572680001,55,customer,Check Status to determine the help of your Raven receiver. Now it says guide and DVR.,Resolution Process
+742572680001,56,customer,Now it says reset Hershey and restore recordings and upgrade software.,Resolution Process
+742572680001,57,customer,Now it's.,
+742572680001,58,agent,Okay.,
+742572680001,59,customer,All set now changing now it's already back to the reset Hershey thing?,Resolution Process
+742572680001,60,customer,I'm not touching anything. You're doing it all.,
+742572680001,61,agent,"Ye, yeah, let me know when the screen goes blank, we just reset. We gonna reset the Hershey {voice.creditcard.digitsTranscribed:#}st.",Resolution Process
+742572680001,62,customer,"Okay, it went black.",Resolution Process
+742572680001,63,agent,"Yes, that was me.",
+742572680001,64,agent,Alright.,
+742572680001,65,customer,Now it says Hershey with Sweet,Resolution Process
+742572680001,66,customer,Starting up.,Resolution Process
+742572680001,67,agent,Okay.,
+742572680001,68,customer,Now it's a black screen.,Resolution Process
+742572680001,69,customer,"Now it's Hershey with Sweet again, starting up.",Resolution Process
+742572680001,70,agent,Alright.,
+742572680001,71,customer,"Now, a black screen.",Resolution Process
+742572680001,72,customer,gonna happen now.,
+742572680001,73,customer,"Okay, well, it's still a black screen.",Resolution Process
+742572680001,74,agent,"Yes, ma'am, it's gonna go to another screen. Just let me know when it changes.",Resolution Process
+742572680001,75,agent,"Alright, is the green light still on on the front of the Hershey",Resolution Process
+742572680001,76,customer,On the front of the Hershey,Resolution Process
+742572680001,77,customer,"Yeah, the green light's still on.",Resolution Process
+742572680001,78,agent,"Yeah, the little Raven box. Just un near your TV?",Resolution Process
+742572680001,79,agent,Okay.,
+742572680001,80,customer,the bottom of the TV is kinda lighter and then it gets dark dark as it goes up.,Resolution Process
+742572680001,81,agent,Okay.,
+742572680001,82,customer,Recommend it do this.,
+742572680001,83,customer,Go ahead and hear you.,
+742572680001,84,agent,"not sure, maybe doing something else, can you go ahead and press the Alright, it should be coming back online. Cause I'm seeing it just popped in on my end.",Resolution Process
+742572680001,85,customer,How do I do that?,
+742572680001,86,agent,"Okay, um can I go ahead and reconnect to the Hershey",Resolution Process
+742572680001,87,agent,"No, I'm saying. Can I remotely connect back to the Hershey again.",Resolution Process
+742572680001,88,customer,"Yeah, now it says remote control battery and it went off.",Resolution Process
+742572680001,89,customer,Must be.,
+742572680001,90,agent,the batteries in one of your remotes are critical just kinda low.,Resolution Process
+742572680001,91,customer,"Uh yeah, I was gonna have to replu.",
+742572680001,92,customer,Since we get off.,
+742572680001,93,agent,Alright.,
+742572680001,94,agent,Gotcha.,
+742572680001,95,customer,"Alright, TV's back on now.",Resolution Process
+742572680001,96,customer,Okay.,
+742572680001,97,agent,"Alright, is there anything playing. Alright, go through and check some of your channels that you normally watch?",Resolution Process
+742572680001,98,customer,I guess.,
+742572680001,99,agent,"And while you're doing that, would you like more information about how you can save up the 60 percent off your wireless phone bill.",Resolution Process
+742572680001,100,agent,"Okay, I'll get you over to that department so they can talk to you in just a moment.",Resolution Process
+742572680001,101,customer,"Wait a minute. Okay, this went to a channel that I watch.",Resolution Process
+742572680001,102,customer,Are you through with me now.,
+742572680001,103,agent,"Yes, ma'am, if all your channels are back working again. Yes, ma'am.",Result
+742572680001,104,customer,"Um well, I don't wanna talk about other things I I rest time to watch a movie that's already {customer_delayed.digits4:####} minutes into it, so I'll call back the other day to get your sales.",Result
+742572680001,105,customer,"No, I guess I'm back on now, right?",
+742572680001,106,agent,"Okay. Okay, no problem. Alright, was there anything else I can help you with today?",
+742572680001,107,customer,"Okay, thank you so much.",
+742572680001,108,agent,"Yes, ma'am.",
+742572680001,109,customer,"Okay, bye bye.",
+742572680001,110,bot,issue auto wrapped up.,
+742579770001,0,agent,Choosing Raven. This is {first_name: ****} your advanced tech support. How may I help?,
+742579770001,1,customer,"Okay, I had them on the phone, and then I the phone that.",Reason for Contact
+742579770001,2,agent,Um.,
+742579770001,3,customer,the phone call is dropped. Can you look up my notes. So we won't have to go through everything again.,Reason for Contact
+742579770001,4,customer,I've talked to them every day this week.,Reason for Contact
+742579770001,5,customer,Same?,
+742579770001,6,agent,"Um sure, ma'am, uh.",
+742579770001,7,agent,"Alright. Checking, ma'am.",
+742579770001,8,agent,"Okay, the last note, ma'am, I'm showing here is that you were getting a uh no signal message or nothing on your screen from the Hershey is that?",Reason for Contact
+742579770001,9,agent,Correct.,Reason for Contact
+742579770001,10,customer,I have unplugged my machine my I've unplugged it and then when it comes up. It says set up TV.,Reason for Contact
+742579770001,11,customer,And then on the other side of TV.,Reason for Contact
+742579770001,12,customer,It goes away.,Reason for Contact
+742579770001,13,agent,"Alright, sir.",
+742579770001,14,customer,So what do I need to do?,
+742579770001,15,agent,"Okay, ma'am, and.",
+742579770001,16,customer,Nothing blank.,
+742579770001,17,agent,"Yeah, on on the screen, what do you have now exactly?",Resolution Process
+742579770001,18,agent,Okay.,
+742579770001,19,agent,"And this is your TV by the Hershey, right? Oh, you have a one Hershey, okay. Alright, that Hershey ma'am.",Resolution Process
+742579770001,20,customer,That should be no.,
+742579770001,21,agent,It has a green solid light on the front.,Resolution Process
+742579770001,22,customer,does not.,
+742579770001,23,customer,I've never seen a green light on it?,Resolution Process
+742579770001,24,agent,"Alright, let's uh.",
+742579770001,25,agent,"Okay, ma'am, on the the Hershey's remote control.",Resolution Process
+742579770001,26,agent,Let us.,
+742579770001,27,agent,Correct.,
+742579770001,28,customer,"On the Hershey remote. Now, wait a minute. Do you want me to have my Raven TV remote? Is that what we're talking about?",Resolution Process
+742579770001,29,agent,Yes.,
+742579770001,30,customer,"Okay, I have Raven remote in my hand.",Resolution Process
+742579770001,31,agent,Alright.,
+742579770001,32,customer,Okay.,
+742579770001,33,agent,"Okay, ma'am, the Raven remote, press on the satellite button just one time.",Resolution Process
+742579770001,34,agent,The the light went on the Hershey,Resolution Process
+742579770001,35,customer,"I do not see I see a light on the Hershey, but I don't see a green light.",Resolution Process
+742579770001,36,customer,I tried to do this every day.,
+742579770001,37,agent,You see a light on the Hershey you said?,Resolution Process
+742579770001,38,customer,"Yes, I do. Yes, I do.",Resolution Process
+742579770001,39,agent,"Alright, okay? And um on your Raven remote, ma'am, press on the home button twice.",Resolution Process
+742579770001,40,customer,Okay.,Resolution Process
+742579770001,41,customer,Nothing's happening.,Resolution Process
+742579770001,42,customer,Is it supposed to be on the satellite.,Resolution Process
+742579770001,43,agent,"Alright, then. And.",
+742579770001,44,agent,Yes.,
+742579770001,45,agent,"Yes, ma'am. It should be on satellite?",Resolution Process
+742579770001,46,customer,"Well, that didn't do anything.",Resolution Process
+742579770001,47,customer,Yes.,
+742579770001,48,agent,"Okay, it shows here that you have the S a Samsung TV, is that correct?",Resolution Process
+742579770001,49,customer,Correct.,Resolution Process
+742579770001,50,agent,"Okay, ma'am, C with you, ma'am use the Samsung remote for now.",Resolution Process
+742579770001,51,customer,"Am I gonna have to go through this all the time. If this is the problem, why don't they send a tech out and get a tech, so I don't have to call every time I turn around, this is just ridiculous.",Resolution Process
+742579770001,52,agent,"me help you, ma'am, and we'll provide some easy steps.",
+742579770001,53,customer,I get this I have to get it out again.,
+742579770001,54,customer,I'm tired of it.,
+742579770001,55,customer,"Well, then they need to get out here and they need to fix it.",Resolution Process
+742579770001,56,agent,"Yeah, this uh simple, ma'am, you're having now is a possible issue with the wirings.",Resolution Process
+742579770001,57,customer,"Now I gotta find the down remote again, just a minute. I have to lay down and try to find the other Samsung remote again.",Resolution Process
+742579770001,58,agent,Cause if if.,
+742579770001,59,customer,Something different than the remote.,Resolution Process
+742579770001,60,customer,Okay.,
+742579770001,61,customer,"Alright, now I have the Samsung remote?",Resolution Process
+742579770001,62,agent,"Alright, with uh the remote, ma'am, press on the input button or home button.",Resolution Process
+742579770001,63,customer,2nd my screen went black. My TV's off. Now turn it back on.,Resolution Process
+742579770001,64,customer,It says setup. TV.,Resolution Process
+742579770001,65,customer,"And then on the left hand side and on the right hand side, it says setup. TV.",Resolution Process
+742579770001,66,customer,"And the other one, nothing is showing?",Resolution Process
+742579770001,67,agent,"Yes, sir. Alright, okay, on the Samsung remote. Is there a home?",Resolution Process
+742579770001,68,agent,Home button?,Resolution Process
+742579770001,69,agent,"Okay, could you please, ma'am, press home?",Resolution Process
+742579770001,70,customer,"Okay, I did.",Resolution Process
+742579770001,71,customer,TV.,
+742579770001,72,customer,What?,
+742579770001,73,agent,And what came up on your sc Mm. What else do you see.,Resolution Process
+742579770001,74,customer,"On the screen it says set up TV on the left hand side and it says set up TV on the right hand side, and then there's the tiles down below TV Plus app, YouTube, HDMI. Three next to.",Resolution Process
+742579770001,75,customer,HDMI. One DVR TV One.,Resolution Process
+742579770001,76,customer,Yes.,
+742579770001,77,agent,"Alright, on that screen, ma'am, the one with H D M I three go to that and press okay.",Resolution Process
+742579770001,78,customer,I don't know. I can't get to it won't go it won't do that.,Resolution Process
+742579770001,79,agent,With the Samsung remote?,Resolution Process
+742579770001,80,customer,"No, it doesn't.",Resolution Process
+742579770001,81,customer,me go back to home?,Resolution Process
+742579770001,82,agent,Alright.,Resolution Process
+742579770001,83,customer,"Hi, this I don't know how many times this week already? I don't feel like I should have to call them every time. Even better. I'm gonna get rid of Raven",Resolution Process
+742579770001,84,customer,"Okay, I pressed on the the button that says the home on it and it comes up. It says set up TV and under it says set up TV.",Resolution Process
+742579770001,85,agent,I.,
+742579770001,86,customer,"when I try to go down to them. Oh, there's also a tile and or remove under the HDMI.",Resolution Process
+742579770001,87,agent,Were you able to like that. HDMI. Three.,Resolution Process
+742579770001,88,customer,"When I click on it. It goes back to setup. TV setup, TV.",Resolution Process
+742579770001,89,customer,That's what I'm trying it on.,
+742579770001,90,agent,"Okay, could you try it on HDMI one you have HDMI. Three HDMI one? Correct?",Resolution Process
+742579770001,91,customer,"And I've tried the HDMI one, DVD one, there's a down arrow. When I click on it. Click on it. The screen goes.",Resolution Process
+742579770001,92,agent,I.,
+742579770001,93,customer,And then up on the left hand on the TV.,Resolution Process
+742579770001,94,customer,Something about HDMI. I don't know what we did before.,Resolution Process
+742579770001,95,customer,God.,
+742579770001,96,customer,What do you want me to do with it. I've already unplugged that once tonight. Do you want me to unplug it again.,Resolution Process
+742579770001,97,agent,"Alright, will you be able, ma'am, to check back of your television?",Resolution Process
+742579770001,98,customer,I unplugged the 1st that goes to the cable.,Resolution Process
+742579770001,99,agent,"The power. Okay, on the back of your TV, could you try to unplug the HDMI cord from the TV that goes.",Resolution Process
+742579770001,100,agent,Alright.,
+742579770001,101,customer,"a brand new, which one I was no, I can't evidently, it is not set up properly. They didn't set it up properly.",Resolution Process
+742579770001,102,customer,had trouble with it ever since.,Resolution Process
+742579770001,103,agent,could help you to do those troubleshooting step.,Resolution Process
+742579770001,104,customer,"No, there is not.",
+742579770001,105,agent,Alright.,
+742579770001,106,customer,have to call them every time.,Resolution Process
+742579770001,107,customer,this is getting pretty fixed.,Resolution Process
+742579770001,108,agent,"No, it should not there have them to deal with the problem again and again, I think there's something that has to be replaced, uh with the wires or the device.",Resolution Process
+742579770001,109,customer,"gone on for quite some time, so I'm tired of you that or I want out of Raven contract.",Resolution Process
+742579770001,110,customer,me talk to a Raven supervisor.,Resolution Process
+742579770001,111,agent,"Yeah, for this problem, ma'am. We will be sending the technician out.",Resolution Process
+742579770001,112,agent,Through the technician.,Resolution Process
+742579770001,113,customer,So then? How would the hell I might.,
+742579770001,114,customer,Are you the technician.,
+742579770001,115,customer,What?,
+742579770001,116,agent,"No, we will send a physical technician in your address and will do it physically. That would be on Thursday.",Resolution Process
+742579770001,117,customer,"No, that's not.",
+742579770001,118,agent,"Yep, but because we can provide you, ma'am credits for the days that your service is out to until.",Resolution Process
+742579770001,119,customer,"a supervisor, and are you do have it on many times I have called in.",Resolution Process
+742579770001,120,agent,"Yeah, we have, ma'am?",
+742579770001,121,customer,"Okay, transfer to somebody else? Because usually, they fix this one I that I have to unplug something plug it back in and start it up again.",Result
+742579770001,122,customer,And I don't remember. So why don't you transfer me to a different.,Result
+742579770001,123,agent,"Alright, yeah, I think that's right, is unplugging the receiver, the Hershey and the TV.",Resolution Process
+742579770001,124,customer,"Yeah, I've done that.",
+742579770001,125,agent,"Alright, okay, ma'am. So I will connect you to uh the technical department. I don't want to guarantee anything though. Just hold on.",Result
+742579770001,126,agent,A.,
+742579770001,127,customer,Yeah.,
+742579770001,128,customer,I.,
+742579770001,129,agent,mhm.,
+742579770001,130,agent,A.,
+742579770001,131,customer,Ma'am?,
+742579770001,132,bot,issue auto wrapped up.,
