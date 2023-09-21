@@ -7,6 +7,7 @@ def predict(text):
         text_sent = "Salient"
     else:
         text_sent = "Not salient"
+
     return text_sent
 
 demo = gr.Interface(fn=predict, inputs="text", outputs="text")
