@@ -24,7 +24,7 @@ data['Extracted text'] = data['Extracted text'].apply(remove_stopword)
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-vectr = TfidfVectorizer(ngram_range=(1,2),min_df=1)
+vectr = TfidfVectorizer(ngram_range=(1,2), min_df=1)
 vectr.fit(data['Extracted text'])
 
 vect_X = vectr.transform(data['Extracted text'])
