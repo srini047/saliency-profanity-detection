@@ -1,8 +1,19 @@
+import pandas as pd
 from gradio_client import Client
 
-client = Client("https://1712bd40513e8f2c8a.gradio.live/")
-result = client.predict(
-				"Howdy!",	# str in 'text' Textbox component
-				api_name="/predict"
-)
-print(result)
+# data = pd.read_csv('./train-cleaned.csv')
+data = ''
+
+salient = []
+non_salient = []
+profane = []
+non_profane = []
+
+for i in data['text']:
+
+	client = Client("https://d59be99b02bf0eb45e.gradio.live/")
+	result = client.predict(
+					i,	# str in 'text' Textbox component
+					api_name="/predict"
+	)
+

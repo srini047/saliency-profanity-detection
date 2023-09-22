@@ -1,15 +1,12 @@
 import requests
 import time
 import json
-
 from profanityfilter import ProfanityFilter
-pf = ProfanityFilter()
-input_text = "like"
-print(pf.is_profane(input_text))
 
 model_name = "Dabid/abusive-tagalog-profanity-detection"
 endpoint = f"https://api-inference.huggingface.co/models/Dabid/abusive-tagalog-profanity-detection"
 
+input_text = "like"
 payload = {
     "inputs": input_text,
     "options": {
@@ -17,6 +14,10 @@ payload = {
         "temperature": 1,
     },
 }
+
+pf = ProfanityFilter()
+# print(pf.is_profane(input_text))
+
 
 headers = {"Authorization": "Bearer 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"}
 response = requests.post(endpoint, json=payload, headers=headers)
