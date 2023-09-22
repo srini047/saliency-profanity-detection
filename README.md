@@ -6,12 +6,6 @@
 - Sriniketh J
 - Vignesh M
 
-## Inspiration
-
-
-## What it does
-
-
 ## Tools & Framework:
 - 🐍 Python
 - ⚱️ Gradio
@@ -24,7 +18,7 @@
 - 🩵 Scikit-Learn
 - ⚱️ Gradio
 
-## 🎯Project Details ():
+## 🎯Project Details:
 
 ### Data Preparation
 - *Stop-word removal*: This involves the removal of words that don't add much value to the sentence and helps build a better vectorizer to fit into the classifier.
@@ -45,7 +39,7 @@
 
 ## Challenges we ran into
 - We were facing issues at the beginning in converting the `saliency` column to `0` or `1`.
-- Then we were stuck in the model-building phase. We were building models using Logistic Regression, but that seemed to produce a 
+- Then we were stuck in the model-building phase. We were building models using Logistic Regression, but that seemed to produce a biased output which led us to go over a voting classifier (thanks for the input from the team)
+- In the voting classifier, we use logistic regression in combination with SVC (support vector classifier) which seemed to produce a promising output, and decided to finalize the model.
+- As always, the deployment proved to be the most time-consuming and tiresome of all. We tried to deploy the Gradio interface with the Huggigface space to reduce the overhead of server requirements. However, there were deployment errors though we used the proper virtual environment and couldn't figure out the turnaround. Hence we decided to move with the localhost server but that can be accessed by anyone.
 
-## What we learned
-- 
