@@ -1,5 +1,8 @@
 # Salient Feature System
 
+## Demo video
+https://youtu.be/Ttry3E8UA2s
+
 ## Deployed App
 https://huggingface.co/spaces/srini047/asapp-hackathon
 
