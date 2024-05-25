@@ -4,7 +4,7 @@
 https://youtu.be/Ttry3E8UA2s
 
 ## Deployed App
-https://huggingface.co/spaces/srini047/asapp-hackathon
+https://huggingface.co/spaces/srini047/saliency-profanity-detection
 
 ## Team members:
 - Dheepak S
